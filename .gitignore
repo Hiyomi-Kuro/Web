@@ -1,15 +1,50 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Local Android SDK and machine-specific configuration
 local.properties
+*.local.properties
+.env
+.env.*
+!.env.example
+
+# Gradle caches and generated build outputs
+.gradle/
+**/build/
+buildSrc/.gradle/
+
+# Android Studio / IntelliJ / Android Code Studio metadata
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+output-metadata.json
+mapping.txt
+
+# Signing material and private configuration
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# Reverse-engineering workspaces and local diagnostics (project root only)
+/decoded_apk/
+/error/
+/META-INF/
+/tools/
+
+# Operating-system and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.swp
+*~

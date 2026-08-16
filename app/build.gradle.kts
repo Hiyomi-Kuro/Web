@@ -15,11 +15,8 @@ dependencies {
 
 android {
     namespace = "com.android.web"
-    compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
-    }
+    // API 35 matches the original APK and is readily available in mobile IDEs.
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.android.web"
