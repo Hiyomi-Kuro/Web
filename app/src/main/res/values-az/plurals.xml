@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 filter</item>
+        <item quantity="one">1 filter</item>
+        <item quantity="other">%d filters</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 hour left</item>
+        <item quantity="one">1 hour left</item>
+        <item quantity="other">%d hours left</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 min left</item>
+        <item quantity="one">1 min left</item>
+        <item quantity="other">%d mins left</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 tab</item>
+        <item quantity="one">1 tab</item>
+        <item quantity="other">%d tabs</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 sec left</item>
+        <item quantity="one">1 sec left</item>
+        <item quantity="other">%d secs left</item>
+    </plurals>
+</resources>

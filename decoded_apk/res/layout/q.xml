@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/bg" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="48.0dp" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/cr" android:background="#ff333333" android:paddingLeft="16.0dp" android:paddingRight="16.0dp" android:layout_width="match_parent" android:layout_height="@dimen/b">
+        <TextView android:textColor="@color/af" android:layout_width="0.0dp" android:layout_height="wrap_content" android:text="@string/st" android:layout_weight="1.0" />
+        <TextView android:textColor="?a7" android:gravity="center" android:id="@id/f9" android:background="@drawable/o" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="56.0dp" android:text="@android:string/ok" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/bh" android:background="@color/af" android:visibility="gone" android:layout_width="match_parent" android:layout_height="136.0dp" android:layout_above="@id/d_" android:translationY="160.0dp" />
+    <RadioGroup android:orientation="horizontal" android:id="@id/d_" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <RadioButton android:id="@id/d7" android:layout_width="0.0dp" android:layout_height="wrap_content" android:minHeight="48.0dp" android:text="@string/tp" android:layout_weight="1.0" style="@style/g" />
+        <RadioButton android:id="@id/d8" android:layout_width="0.0dp" android:layout_height="wrap_content" android:minHeight="48.0dp" android:text="@string/tq" android:layout_weight="1.0" style="@style/g" />
+        <RadioButton android:id="@id/d5" android:layout_width="0.0dp" android:layout_height="wrap_content" android:minHeight="48.0dp" android:text="@string/tn" android:layout_weight="1.0" style="@style/g" />
+        <RadioButton android:id="@id/d6" android:layout_width="0.0dp" android:layout_height="wrap_content" android:minHeight="48.0dp" android:text="@string/z" android:layout_weight="1.0" style="@style/g" />
+        <RadioButton android:id="@id/d4" android:layout_width="0.0dp" android:layout_height="wrap_content" android:minHeight="48.0dp" android:text="@string/sz" android:layout_weight="1.0" style="@style/g" />
+    </RadioGroup>
+</RelativeLayout>

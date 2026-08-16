@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 فلتر</item>
+        <item quantity="one">فلتر واحد</item>
+        <item quantity="two">فلتران</item>
+        <item quantity="few">%d فلاتر</item>
+        <item quantity="many">%d فلترًا</item>
+        <item quantity="other">%d فلاتر</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 ساعة متبقية</item>
+        <item quantity="one">ساعة واحدة متبقية</item>
+        <item quantity="two">ساعتان متبقيتان</item>
+        <item quantity="few">%d ساعات متبقية</item>
+        <item quantity="many">%d ساعة متبقية</item>
+        <item quantity="other">%d ساعة متبقية</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">0 عنصر</item>
+        <item quantity="one">عنصر واحد</item>
+        <item quantity="two">عنصران</item>
+        <item quantity="few">%d عناصر</item>
+        <item quantity="many">%d عنصرًا</item>
+        <item quantity="other">%d عناصر</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 دقيقة متبقية</item>
+        <item quantity="one">دقيقة واحدة متبقية</item>
+        <item quantity="two">دقيقتان متبقيتان</item>
+        <item quantity="few">%d دقائق متبقية</item>
+        <item quantity="many">%d دقيقة متبقية</item>
+        <item quantity="other">%d دقيقة متبقية</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 علامة تبويب</item>
+        <item quantity="one">علامة تبويب واحدة</item>
+        <item quantity="two">علامتا تبويب</item>
+        <item quantity="few">%d علامات تبويب</item>
+        <item quantity="many">%d علامة تبويب</item>
+        <item quantity="other">%d علامات تبويب</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 ثانية متبقية</item>
+        <item quantity="one">ثانية واحدة متبقية</item>
+        <item quantity="two">ثانيتان متبقيتان</item>
+        <item quantity="few">%d ثوانٍ متبقية</item>
+        <item quantity="many">%d ثانية متبقية</item>
+        <item quantity="other">%d ثانية متبقية</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">تم إغلاق 0 علامة تبويب</item>
+        <item quantity="one">تم إغلاق علامة تبويب واحدة</item>
+        <item quantity="two">تم إغلاق علامتي تبويب</item>
+        <item quantity="few">تم إغلاق %d علامات تبويب</item>
+        <item quantity="many">تم إغلاق %d علامة تبويب</item>
+        <item quantity="other">تم إغلاق %d علامات تبويب</item>
+    </plurals>
+</resources>

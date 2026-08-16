@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 فلٹر</item>
+        <item quantity="one">1 فلٹر</item>
+        <item quantity="other">%d فلٹرز</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 گھنٹہ باقی</item>
+        <item quantity="one">1 گھنٹہ باقی</item>
+        <item quantity="other">%d گھنٹے باقی</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">0 آئٹم</item>
+        <item quantity="one">1 آئٹم</item>
+        <item quantity="other">%d آئٹمز</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 منٹ باقی</item>
+        <item quantity="one">1 منٹ باقی</item>
+        <item quantity="other">%d منٹ باقی</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 ٹیب</item>
+        <item quantity="one">1 ٹیب</item>
+        <item quantity="other">%d ٹیبز</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 سیکنڈ باقی</item>
+        <item quantity="one">1 سیکنڈ باقی</item>
+        <item quantity="other">%d سیکنڈ باقی</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">0 ٹیب بند ہوئے</item>
+        <item quantity="one">1 ٹیب بند ہوا</item>
+        <item quantity="other">%d ٹیبز بند ہوئے</item>
+    </plurals>
+</resources>

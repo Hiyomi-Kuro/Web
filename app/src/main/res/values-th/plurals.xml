@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 ตัวกรอง</item>
+        <item quantity="one">1 ตัวกรอง</item>
+        <item quantity="other">%d ตัวกรอง</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">เหลือ 0 ชั่วโมง</item>
+        <item quantity="one">เหลือ 1 ชั่วโมง</item>
+        <item quantity="other">เหลือ %d ชั่วโมง</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">0 รายการ</item>
+        <item quantity="one">1 รายการ</item>
+        <item quantity="other">%d รายการ</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">เหลือ 0 นาที</item>
+        <item quantity="one">เหลือ 1 นาที</item>
+        <item quantity="other">เหลือ %d นาที</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 แท็บ</item>
+        <item quantity="one">1 แท็บ</item>
+        <item quantity="other">%d แท็บ</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">เหลือ 0 วินาที</item>
+        <item quantity="one">เหลือ 1 วินาที</item>
+        <item quantity="other">เหลือ %d วินาที</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">ปิด 0 แท็บ</item>
+        <item quantity="one">ปิด 1 แท็บ</item>
+        <item quantity="other">ปิด %d แท็บ</item>
+    </plurals>
+</resources>

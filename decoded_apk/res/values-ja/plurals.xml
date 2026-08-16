@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="other">%d フィルター</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">タブを 0 個閉じました</item>
+        <item quantity="one">タブを 1 個閉じました</item>
+        <item quantity="other">タブを %d 個閉じました</item>
+    </plurals>
+</resources>

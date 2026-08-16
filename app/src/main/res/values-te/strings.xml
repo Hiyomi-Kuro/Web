@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s Google Play సేవలతో సమస్య కలిగి ఉంది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="eg">క్లిప్‌బోర్డ్‌కు లింక్ కాపీ చేయబడింది</string>
+    <string name="ik">లింక్‌ను కాపీ చేయండి</string>
+    <string name="il">బ్రౌజర్‌లో తెరువు</string>
+    <string name="im">లింక్‌ను షేర్ చేయి</string>
+    <string name="u8">999+</string>
+</resources>

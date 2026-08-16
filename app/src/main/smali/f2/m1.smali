@@ -1,0 +1,73 @@
+.class public final synthetic Lf2/m1;
+.super Ljava/lang/Object;
+.source "r8-map-id-e10138e7b5ea796a0c3e38db01d267ba62f753e01123b4e9cebe0d4bfa66e856"
+
+# interfaces
+.implements Lf2/e3;
+
+
+# static fields
+.field public static final synthetic a:Lf2/m1;
+
+
+# direct methods
+.method static synthetic constructor <clinit>()V
+    .locals 1
+
+    .line 1
+    new-instance v0, Lf2/m1;
+
+    .line 2
+    .line 3
+    invoke-direct {v0}, Lf2/m1;-><init>()V
+
+    .line 4
+    .line 5
+    .line 6
+    sput-object v0, Lf2/m1;->a:Lf2/m1;
+
+    .line 7
+    .line 8
+    return-void
+.end method
+
+.method public synthetic constructor <init>()V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 2
+    .line 3
+    .line 4
+    return-void
+.end method
+
+
+# virtual methods
+.method public final zza()Ljava/lang/Object;
+    .locals 1
+
+    .line 1
+    sget-object v0, Lf2/i3;->a:Ljava/util/List;
+
+    .line 2
+    .line 3
+    invoke-static {}, Lcom/google/android/gms/internal/measurement/wb;->c()Z
+
+    .line 4
+    .line 5
+    .line 6
+    move-result v0
+
+    .line 7
+    invoke-static {v0}, Ljava/lang/Boolean;->valueOf(Z)Ljava/lang/Boolean;
+
+    .line 8
+    .line 9
+    .line 10
+    move-result-object v0
+
+    .line 11
+    return-object v0
+.end method

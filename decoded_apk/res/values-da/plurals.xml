@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 filter</item>
+        <item quantity="one">1 filter</item>
+        <item quantity="other">%d filtre</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 timer tilbage</item>
+        <item quantity="one">1 time tilbage</item>
+        <item quantity="other">%d timer tilbage</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 min tilbage</item>
+        <item quantity="one">1 min tilbage</item>
+        <item quantity="other">%d minutter tilbage</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 fane</item>
+        <item quantity="one">1 fane</item>
+        <item quantity="other">%d faner</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 sek tilbage</item>
+        <item quantity="one">1 sek tilbage</item>
+        <item quantity="other">%d sekunder tilbage</item>
+    </plurals>
+</resources>

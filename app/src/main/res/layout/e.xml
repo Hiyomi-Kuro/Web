@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="12.0dp" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/fh" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/g0" android:textDirection="locale" style="@style/a0" />
+    <HorizontalScrollView android:id="@id/bm" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:layout_below="@id/fh" style="@style/j">
+        <EditText android:id="@id/at" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/j0" android:inputType="textUri|textNoSuggestions" android:imeOptions="actionDone" android:textDirection="locale" style="@style/i" />
+    </HorizontalScrollView>
+    <TextView android:ellipsize="end" android:id="@id/f0" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dp" android:layout_marginRight="16.0dp" android:layout_marginBottom="@dimen/a3" android:minLines="1" android:layout_below="@id/bm" style="@style/a3" />
+    <TextView android:id="@id/et" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/ok" android:layout_below="@id/f0" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" style="@style/y" />
+    <TextView android:id="@id/ep" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/o" android:layout_alignTop="@id/et" android:layout_alignParentLeft="true" android:layout_alignParentStart="true" style="@style/y" />
+    <TextView android:id="@id/eo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/cancel" android:layout_toLeftOf="@id/et" android:layout_alignTop="@id/et" android:layout_toStartOf="@id/et" style="@style/y" />
+</RelativeLayout>

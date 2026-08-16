@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="12.0dp" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/fh" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/y0" android:textDirection="locale" style="@style/a0" />
+    <ImageView android:id="@id/c4" android:layout_width="36.0dp" android:layout_height="36.0dp" android:layout_marginLeft="16.0dp" android:layout_marginTop="8.0dp" android:layout_marginRight="0.0dp" android:layout_below="@id/fh" android:layout_alignTop="@id/bn" android:contentDescription="@string/fo" android:layout_marginStart="16.0dp" android:layout_marginEnd="0.0dp" />
+    <ImageView android:id="@id/c0" android:padding="5.0dp" android:visibility="gone" android:layout_width="28.0dp" android:layout_height="28.0dp" android:layout_marginTop="-8.0dp" android:layout_marginRight="-8.0dp" android:src="@drawable/bd" android:tint="#55ffffff" android:layout_alignTop="@id/c4" android:layout_alignRight="@id/c4" android:contentDescription="@string/t" android:alpha="0.8" android:layout_marginEnd="-8.0dp" android:layout_alignEnd="@id/c4" />
+    <HorizontalScrollView android:id="@id/bn" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dp" android:fillViewport="true" android:layout_toRightOf="@id/c4" android:layout_below="@id/fh" android:layout_toEndOf="@id/c4" style="@style/j">
+        <EditText android:id="@id/b0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/k6" android:inputType="textNoSuggestions" android:imeOptions="actionNext" android:textDirection="locale" style="@style/i" />
+    </HorizontalScrollView>
+    <HorizontalScrollView android:id="@id/bo" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dp" android:fillViewport="true" android:layout_toRightOf="@id/c4" android:layout_below="@id/bn" android:layout_toEndOf="@id/c4" style="@style/j">
+        <EditText android:id="@id/b1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/k7" android:inputType="textUri|textNoSuggestions" android:imeOptions="actionDone" style="@style/i" />
+    </HorizontalScrollView>
+    <TextView android:id="@id/et" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/ok" android:layout_below="@id/bo" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" style="@style/y" />
+    <TextView android:id="@id/eo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/cancel" android:layout_toLeftOf="@id/et" android:layout_below="@id/bo" android:layout_toStartOf="@id/et" style="@style/y" />
+</RelativeLayout>

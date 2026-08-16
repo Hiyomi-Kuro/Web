@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 வடிப்பான்</item>
+        <item quantity="one">1 வடிப்பான்</item>
+        <item quantity="other">%d வடிப்பான்கள்</item>
+    </plurals>
+</resources>

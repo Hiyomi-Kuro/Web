@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">1 filtr</item>
+        <item quantity="few">%d filtry</item>
+        <item quantity="other">%d filtrów</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 godzin do końca</item>
+        <item quantity="one">1 godzina do końca</item>
+        <item quantity="few">%d godziny do końca</item>
+        <item quantity="other">%d godzin do końca</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">Brak elementów</item>
+        <item quantity="one">1 element</item>
+        <item quantity="few">%d elementy</item>
+        <item quantity="other">%d elementów</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 minut do końca</item>
+        <item quantity="one">1 minuta do końca</item>
+        <item quantity="few">%d minuty do końca</item>
+        <item quantity="other">%d minut do końca</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 kart</item>
+        <item quantity="one">1 karta</item>
+        <item quantity="few">%d karty</item>
+        <item quantity="other">%d kart</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 sekund do końca</item>
+        <item quantity="one">1 sekunda do końca</item>
+        <item quantity="few">%d sekundy do końca</item>
+        <item quantity="other">%d sekund do końca</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">nie zamknięto żadnych kart</item>
+        <item quantity="one">zamknięto jedną kartę</item>
+        <item quantity="few">zamknięto %d karty</item>
+        <item quantity="other">zamknięto %d kart</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">「%1$s」存取 Google Play 服務時發生問題。請稍後再試一次。</string>
+    <string name="eg">連結已複製到剪貼簿</string>
+    <string name="ik">複製連結</string>
+    <string name="il">在瀏覽器中開啟</string>
+    <string name="im">分享連結</string>
+    <string name="u8">999+</string>
+</resources>

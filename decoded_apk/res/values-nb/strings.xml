@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
+    <string name="eg">Linken er kopiert til utklippstavlen</string>
+    <string name="ik">Kopiér linken</string>
+    <string name="il">Åpne i nettleseren</string>
+    <string name="im">Del link</string>
+    <string name="u8">999+</string>
+</resources>

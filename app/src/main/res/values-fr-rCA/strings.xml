@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">"L'application %1$s éprouve un problème avec les services Google Play. Veuillez réessayer."</string>
+    <string name="eg">Lien copié dans le presse-papiers</string>
+    <string name="ik">Copier le lien</string>
+    <string name="il">Ouvrir dans le navigateur</string>
+    <string name="im">Partager le lien</string>
+    <string name="u8">999+</string>
+</resources>

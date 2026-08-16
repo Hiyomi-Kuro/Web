@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s tiene problemas con los servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="eg">Se copió el vínculo al portapapeles</string>
+    <string name="ik">Copiar vínculo</string>
+    <string name="il">Abrir en el navegador</string>
+    <string name="im">Compartir vínculo</string>
+    <string name="u8">999+</string>
+</resources>

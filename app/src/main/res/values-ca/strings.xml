@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s té problemes amb Serveis de Google Play. Torna-ho a provar.</string>
+    <string name="eg">"S'ha copiat l'enllaç al porta-retalls"</string>
+    <string name="ik">"Copia l'enllaç"</string>
+    <string name="il">Obre al navegador</string>
+    <string name="im">"Comparteix l'enllaç"</string>
+    <string name="u8">999+</string>
+</resources>

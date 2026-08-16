@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">یک فیلتر</item>
+        <item quantity="other">%d فیلتر</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="one">۱ ساعت مانده</item>
+        <item quantity="other">%d ساعت مانده</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="one">1 مورد</item>
+        <item quantity="other">%d مورد</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="one">1 دقیقه مانده</item>
+        <item quantity="other">%d دقیقه مانده</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="one">1 زبانه</item>
+        <item quantity="other">%d زبانه</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="one">1 ثانیه مانده</item>
+        <item quantity="other">%d ثانیه مانده</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">۰ برگه بسته شد</item>
+        <item quantity="one">۱ برگه بسته شد</item>
+        <item quantity="other">%d برگه بسته شد</item>
+    </plurals>
+</resources>

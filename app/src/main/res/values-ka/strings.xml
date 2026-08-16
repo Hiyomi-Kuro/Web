@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s-ს Google Play Services-თან პრობლემა შეექმნა. გთხოვთ, ცადოთ ხელახლა.</string>
+    <string name="eg">გაცვლის ბუფერში კოპირებული ბმული</string>
+    <string name="ik">ბმულის კოპირება</string>
+    <string name="il">ბრაუზერში გახსნა</string>
+    <string name="im">ბმულის გაზიარება</string>
+    <string name="u8">999+</string>
+</resources>

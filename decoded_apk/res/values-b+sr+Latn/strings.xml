@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s ima problema sa Google Play uslugama. Probajte ponovo.</string>
+    <string name="eg">Link je kopiran u privremenu memoriju</string>
+    <string name="ik">Kopiraj link</string>
+    <string name="il">Otvori u pregledaču</string>
+    <string name="im">Deli link</string>
+    <string name="u8">999+</string>
+</resources>

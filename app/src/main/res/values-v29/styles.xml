@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="d" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="c">8.0dp</item>
+        <item name="e">16.0dp</item>
+        <item name="ac">@color/a1</item>
+        <item name="ad">@color/a3</item>
+        <item name="o">@color/a1</item>
+    </style>
+    <style name="m" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/h</item>
+        <item name="android:navigationBarColor">@color/h</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">@android:color/transparent</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:isLightTheme">true</item>
+        <item name="ac">@color/a1</item>
+        <item name="ad">@color/a3</item>
+        <item name="o">@color/a1</item>
+    </style>
+    <style name="aa" parent="@android:style/Theme.Material">
+        <item name="android:statusBarColor">@color/i</item>
+        <item name="android:navigationBarColor">@color/i</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:navigationBarDividerColor">@android:color/transparent</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:isLightTheme">false</item>
+        <item name="ac">@color/a2</item>
+        <item name="ad">@color/a4</item>
+        <item name="o">@color/a2</item>
+    </style>
+    <style name="t" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="android:windowBackground">@color/ad</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/ad</item>
+        <item name="android:navigationBarColor">@color/ad</item>
+        <item name="android:windowLightStatusBar">@bool/a</item>
+        <item name="android:windowLightNavigationBar">@bool/a</item>
+        <item name="android:navigationBarDividerColor">@android:color/transparent</item>
+        <item name="ac">@color/a1</item>
+        <item name="ad">@color/a3</item>
+        <item name="o">@color/a1</item>
+    </style>
+    <style name="a_">
+        <item name="android:tint">?android:colorAccent</item>
+    </style>
+</resources>

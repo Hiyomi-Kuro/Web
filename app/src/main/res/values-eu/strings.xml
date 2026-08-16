@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s aplikazioak arazoak ditu Google Play Services-ekin. Saiatu berriro.</string>
+    <string name="eg">Arbelean kopiatu da esteka</string>
+    <string name="ik">Kopiatu esteka</string>
+    <string name="il">Ireki arakatzailean</string>
+    <string name="im">Partekatu esteka</string>
+    <string name="u8">999+</string>
+</resources>

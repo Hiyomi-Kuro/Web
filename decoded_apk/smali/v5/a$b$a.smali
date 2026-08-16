@@ -1,0 +1,77 @@
+.class public Lv5/a$b$a;
+.super Ljava/lang/Object;
+.source "r8-map-id-e10138e7b5ea796a0c3e38db01d267ba62f753e01123b4e9cebe0d4bfa66e856"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lv5/a$b;->onAutoFocus(ZLandroid/hardware/Camera;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1
+    name = null
+.end annotation
+
+
+# instance fields
+.field public final synthetic e:Lv5/a$b;
+
+
+# direct methods
+.method public constructor <init>(Lv5/a$b;)V
+    .locals 0
+
+    .line 1
+    iput-object p1, p0, Lv5/a$b$a;->e:Lv5/a$b;
+
+    .line 2
+    .line 3
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 2
+
+    .line 1
+    iget-object v0, p0, Lv5/a$b$a;->e:Lv5/a$b;
+
+    .line 2
+    .line 3
+    iget-object v0, v0, Lv5/a$b;->a:Lv5/a;
+
+    .line 4
+    .line 5
+    const/4 v1, 0x0
+
+    .line 6
+    invoke-static {v0, v1}, Lv5/a;->c(Lv5/a;Z)Z
+
+    .line 7
+    .line 8
+    .line 9
+    iget-object v0, p0, Lv5/a$b$a;->e:Lv5/a$b;
+
+    .line 10
+    .line 11
+    iget-object v0, v0, Lv5/a$b;->a:Lv5/a;
+
+    .line 12
+    .line 13
+    invoke-static {v0}, Lv5/a;->d(Lv5/a;)V
+
+    .line 14
+    .line 15
+    .line 16
+    return-void
+.end method

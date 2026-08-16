@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="12.0dp" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/fh" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/a06" style="@style/a0" />
+    <EditText android:id="@id/b2" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/mc" android:selectAllOnFocus="true" android:layout_below="@id/fh" android:inputType="textNoSuggestions" android:imeOptions="actionNext" android:autofillHints="username" style="@style/z" />
+    <EditText android:id="@id/av" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/k4" android:selectAllOnFocus="true" android:layout_below="@id/b2" android:inputType="textPassword|textNoSuggestions" android:imeOptions="actionDone" android:autofillHints="password" style="@style/z" />
+    <CheckBox android:id="@id/al" android:paddingTop="8.0dp" android:paddingBottom="8.0dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dp" android:layout_marginRight="8.0dp" android:layout_marginBottom="12.0dp" android:button="?a4" android:layout_below="@id/av" android:layout_marginStart="16.0dp" android:layout_marginEnd="8.0dp" style="@style/a3" />
+    <TextView android:gravity="center_vertical" android:id="@id/ej" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toRightOf="@id/al" android:layout_below="@id/av" android:layout_alignTop="@id/al" android:layout_alignBottom="@id/al" android:layout_toEndOf="@id/al" style="@style/a3" />
+    <TextView android:id="@id/et" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/ok" android:layout_below="@id/al" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" style="@style/y" />
+    <TextView android:id="@id/eo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/cancel" android:layout_toLeftOf="@id/et" android:layout_below="@id/al" android:layout_toStartOf="@id/et" style="@style/y" />
+</RelativeLayout>

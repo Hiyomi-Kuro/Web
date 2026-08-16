@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">Det har uppstått ett fel mellan %1$s och Google Play-tjänsterna. Försök igen.</string>
+    <string name="eg">Länk kopierad till Urklipp</string>
+    <string name="ik">Kopiera länk</string>
+    <string name="il">Öppna i webbläsaren</string>
+    <string name="im">Dela länk</string>
+    <string name="u8">999+</string>
+</resources>

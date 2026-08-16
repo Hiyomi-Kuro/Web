@@ -1,0 +1,17 @@
+.class public interface abstract Lcom/google/android/gms/internal/measurement/aa;
+.super Ljava/lang/Object;
+.source "r8-map-id-e10138e7b5ea796a0c3e38db01d267ba62f753e01123b4e9cebe0d4bfa66e856"
+
+# interfaces
+.implements Lcom/google/android/gms/internal/measurement/ba;
+
+
+# virtual methods
+.method public abstract a()I
+.end method
+
+.method public abstract c()Lcom/google/android/gms/internal/measurement/z9;
+.end method
+
+.method public abstract d(Lcom/google/android/gms/internal/measurement/m8;)V
+.end method

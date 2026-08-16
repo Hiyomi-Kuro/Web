@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
+    <string name="eg">Linkki kopioitu leikepöydälle</string>
+    <string name="ik">Kopioi linkki</string>
+    <string name="il">Avaa selaimessa</string>
+    <string name="im">Jaa linkki</string>
+    <string name="u8">999+</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 filtros</item>
+        <item quantity="one">1 filtro</item>
+        <item quantity="other">%d filtros</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 horas restantes</item>
+        <item quantity="one">1 hora restante</item>
+        <item quantity="other">%d horas restantes</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">0 elementos</item>
+        <item quantity="one">1 elemento</item>
+        <item quantity="other">%d elementos</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 minutos restantes</item>
+        <item quantity="one">1 minuto restante</item>
+        <item quantity="other">%d minutos restantes</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 pestañas</item>
+        <item quantity="one">1 pestaña</item>
+        <item quantity="other">%d pestañas</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 segundos restantes</item>
+        <item quantity="one">1 segundo restante</item>
+        <item quantity="other">%d segundos restantes</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">0 pestañas cerradas</item>
+        <item quantity="one">1 pestaña cerrada</item>
+        <item quantity="other">%d pestañas cerradas</item>
+    </plurals>
+</resources>

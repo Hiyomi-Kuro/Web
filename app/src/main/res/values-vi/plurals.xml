@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 bộ lọc</item>
+        <item quantity="one">1 bộ lọc</item>
+        <item quantity="other">%d bộ lọc</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 giờ còn lại</item>
+        <item quantity="one">1 giờ còn lại</item>
+        <item quantity="other">%d giờ còn lại</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">0 mục</item>
+        <item quantity="one">1 mục</item>
+        <item quantity="other">%d mục</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 phút còn lại</item>
+        <item quantity="one">1 phút còn lại</item>
+        <item quantity="other">%d phút còn lại</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 thẻ</item>
+        <item quantity="one">1 thẻ</item>
+        <item quantity="other">%d thẻ</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 giây còn lại</item>
+        <item quantity="one">1 giây còn lại</item>
+        <item quantity="other">%d giây còn lại</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">0 thẻ đã đóng</item>
+        <item quantity="one">1 thẻ đã đóng</item>
+        <item quantity="other">%d thẻ đã đóng</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="eg">Link naar klembord gekopieerd</string>
+    <string name="ik">Link kopiëren</string>
+    <string name="il">Openen in browser</string>
+    <string name="im">Link delen</string>
+    <string name="u8">999+</string>
+</resources>

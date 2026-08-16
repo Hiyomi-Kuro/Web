@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="eg">Saite ir kopēta starpliktuvē.</string>
+    <string name="ik">Kopēt saiti</string>
+    <string name="il">Atvērt pārlūkprogrammā</string>
+    <string name="im">Kopīgot saiti</string>
+    <string name="u8">999+</string>
+</resources>

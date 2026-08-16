@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s በGoogle Play አገልግሎቶች ላይ ችግሮች እያጋጠሙት ነው። እባክዎ እንደገና ይሞክሩ።</string>
+    <string name="eg">አገናኝ ወደ ቅንጥብ ሰሌዳ ተቀድቷል</string>
+    <string name="ik">አገናኝ ቅዳ</string>
+    <string name="il">በአሳሽ ውስጥ ክፈት</string>
+    <string name="im">አገናኝ አጋራ</string>
+    <string name="u8">999+</string>
+</resources>

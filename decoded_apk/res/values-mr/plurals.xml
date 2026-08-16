@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">० फिल्टर</item>
+        <item quantity="one">१ फिल्टर</item>
+        <item quantity="other">%d फिल्टर</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">० तास शिल्लक</item>
+        <item quantity="one">१ तास शिल्लक</item>
+        <item quantity="other">%d तास शिल्लक</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">० वस्तू</item>
+        <item quantity="one">१ वस्तू</item>
+        <item quantity="other">%d वस्तू</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">० मिनिट शिल्लक</item>
+        <item quantity="one">१ मिनिट शिल्लक</item>
+        <item quantity="other">%d मिनिटे शिल्लक</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">० टॅब</item>
+        <item quantity="one">१ टॅब</item>
+        <item quantity="other">%d टॅब</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">० सेकंद शिल्लक</item>
+        <item quantity="one">१ सेकंद शिल्लक</item>
+        <item quantity="other">%d सेकंद शिल्लक</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">० टॅब बंद</item>
+        <item quantity="one">१ टॅब बंद</item>
+        <item quantity="other">%d टॅब बंद</item>
+    </plurals>
+</resources>

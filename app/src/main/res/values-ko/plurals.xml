@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">필터 0개</item>
+        <item quantity="one">필터 1개</item>
+        <item quantity="other">필터 %d개</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 시간 남음</item>
+        <item quantity="one">1 시간 남음</item>
+        <item quantity="other">%d 시간 남음</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">항목 0개</item>
+        <item quantity="one">항목 1개</item>
+        <item quantity="other">항목 %d개</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 분 남음</item>
+        <item quantity="one">1 분 남음</item>
+        <item quantity="other">%d 분 남음</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">탭 0개</item>
+        <item quantity="one">탭 1개</item>
+        <item quantity="other">탭 %d개</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 초 남음</item>
+        <item quantity="one">1 초 남음</item>
+        <item quantity="other">%d 초 남음</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">탭 0개 닫힘</item>
+        <item quantity="one">탭 1개 닫힘</item>
+        <item quantity="other">탭 %d개 닫힘</item>
+    </plurals>
+</resources>

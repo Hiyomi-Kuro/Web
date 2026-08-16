@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shortcuts
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:icon="@drawable/af" android:enabled="true" android:shortcutId="scan" android:shortcutShortLabel="@string/s0" android:shortcutLongLabel="@string/s0" android:shortcutDisabledMessage="@string/s0">
+        <intent android:targetPackage="com.android.web" android:action="mark.via.SCAN" android:targetClass="mark.via.Trampoline" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ag" android:enabled="true" android:shortcutId="search" android:shortcutShortLabel="@string/sf" android:shortcutLongLabel="@string/sf" android:shortcutDisabledMessage="@string/sf">
+        <intent android:targetPackage="com.android.web" android:action="mark.via.SEARCH" android:targetClass="mark.via.Trampoline" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ae" android:enabled="true" android:shortcutId="history" android:shortcutShortLabel="@string/a2" android:shortcutLongLabel="@string/a2" android:shortcutDisabledMessage="@string/a2">
+        <intent android:targetPackage="com.android.web" android:action="mark.via.HISTORY" android:targetClass="mark.via.Trampoline" />
+    </shortcut>
+    <shortcut android:icon="@drawable/ad" android:enabled="true" android:shortcutId="bookmark" android:shortcutShortLabel="@string/h" android:shortcutLongLabel="@string/h" android:shortcutDisabledMessage="@string/h">
+        <intent android:targetPackage="com.android.web" android:action="mark.via.BOOKMARK" android:targetClass="mark.via.Trampoline" />
+    </shortcut>
+</shortcuts>
+

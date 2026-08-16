@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s қолданбасында Google Play қызметіне байланысты белгісіз қате шықты. Әрекетті қайталаңыз.</string>
+    <string name="eg">Сілтеме буферге көшірілді.</string>
+    <string name="ik">Сілтемені көшіру</string>
+    <string name="il">Браузерден ашу</string>
+    <string name="im">Сілтемені бөлісу</string>
+    <string name="u8">999+</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">1 फिल्टर</item>
+        <item quantity="other">%d फिल्टर</item>
+    </plurals>
+</resources>

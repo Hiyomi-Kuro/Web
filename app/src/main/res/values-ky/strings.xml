@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s колдонмосунун Google Play кызматтары менен иштөөдө көйгөй чыкты. Кайталап көрүңүз.</string>
+    <string name="eg">Шилтеме буферге көчүрүлдү</string>
+    <string name="ik">Шилтемени көчүрүү</string>
+    <string name="il">Серепчиден ачуу</string>
+    <string name="im">Шилтемени бөлүшүү</string>
+    <string name="u8">999+</string>
+</resources>

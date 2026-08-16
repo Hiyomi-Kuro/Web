@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s ກຳລັງມີບັນຫາກັບບໍລິການ Google Play. ກະລຸນາລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="eg">ສຳເນົາລິ້ງໃສ່ຄລິບບອດແລ້ວ</string>
+    <string name="ik">ສຳເນົາລິ້ງ</string>
+    <string name="il">ເປີດໃນໂປຣແກຣມທ່ອງເວັບ</string>
+    <string name="im">ແບ່ງປັນລິ້ງ</string>
+    <string name="u8">999+</string>
+</resources>

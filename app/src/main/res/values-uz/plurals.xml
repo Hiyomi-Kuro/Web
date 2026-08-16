@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 filtr</item>
+        <item quantity="one">1 filtr</item>
+        <item quantity="other">%d filtr</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 soat qoldi</item>
+        <item quantity="one">1 soat qoldi</item>
+        <item quantity="other">%d soat qoldi</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 daqiqa qoldi</item>
+        <item quantity="one">1 daqiqa qoldi</item>
+        <item quantity="other">%d daqiqa qoldi</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 varaq</item>
+        <item quantity="one">1 varaq</item>
+        <item quantity="other">%d varaq</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 soniya qoldi</item>
+        <item quantity="one">1 soniya qoldi</item>
+        <item quantity="other">%d soniya qoldi</item>
+    </plurals>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="zero">0 filter</item>
+        <item quantity="one">1 filter</item>
+        <item quantity="other">%d filter</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">0 jam tersisa</item>
+        <item quantity="one">1 jam tersisa</item>
+        <item quantity="other">%d jam tersisa</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">0 item</item>
+        <item quantity="one">1 item</item>
+        <item quantity="other">%d item</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">0 menit tersisa</item>
+        <item quantity="one">1 menit tersisa</item>
+        <item quantity="other">%d menit tersisa</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 tab</item>
+        <item quantity="one">1 tab</item>
+        <item quantity="other">%d tab</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">0 detik tersisa</item>
+        <item quantity="one">1 detik tersisa</item>
+        <item quantity="other">%d detik tersisa</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">0 tab ditutup</item>
+        <item quantity="one">1 tab ditutup</item>
+        <item quantity="other">%d tab ditutup</item>
+    </plurals>
+</resources>

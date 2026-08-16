@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">Η εφαρμογή %1$s αντιμετωπίζει κάποιο πρόβλημα με τις υπηρεσίες Google Play. Προσπαθήστε ξανά.</string>
+    <string name="eg">Ο σύνδεσμος αντιγράφηκε στο πρόχειρο</string>
+    <string name="ik">Αντιγραφή συνδέσμου</string>
+    <string name="il">Άνοιγμα σε πρόγραμμα περιήγησης</string>
+    <string name="im">Κοινοποίηση συνδέσμου</string>
+    <string name="u8">999+</string>
+</resources>

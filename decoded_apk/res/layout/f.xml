@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="12.0dp" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/fh" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/xz" android:textDirection="locale" style="@style/a0" />
+    <HorizontalScrollView android:id="@id/bn" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dp" android:fillViewport="true" android:layout_below="@id/fh" style="@style/j">
+        <EditText android:id="@id/b0" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/k6" android:inputType="textNoSuggestions" android:imeOptions="actionNext" android:textDirection="locale" style="@style/i" />
+    </HorizontalScrollView>
+    <HorizontalScrollView android:id="@id/bo" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dp" android:fillViewport="true" android:layout_below="@id/bn" style="@style/j">
+        <EditText android:id="@id/b1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:hint="@string/k7" android:inputType="textUri|textNoSuggestions" android:imeOptions="actionDone" style="@style/i" />
+    </HorizontalScrollView>
+    <TextView android:ellipsize="end" android:id="@id/f1" android:background="@drawable/x" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dp" android:hint="@string/k3" android:layout_below="@id/bo" android:textDirection="locale" style="@style/z" />
+    <CheckBox android:id="@id/ak" android:padding="8.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dp" android:layout_marginRight="16.0dp" android:layout_marginBottom="12.0dp" android:button="?a4" android:text="@string/c" android:layout_below="@id/f1" android:textDirection="locale" style="@style/a3" />
+    <TextView android:id="@id/et" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/ok" android:layout_below="@id/ak" android:layout_alignParentRight="true" android:layout_alignParentEnd="true" style="@style/y" />
+    <TextView android:textColor="@color/g" android:id="@id/eq" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/t" android:layout_below="@id/ak" android:layout_alignParentLeft="true" android:layout_alignParentStart="true" style="@style/y" />
+    <TextView android:id="@id/eo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/cancel" android:layout_toLeftOf="@id/et" android:layout_below="@id/ak" android:layout_toStartOf="@id/et" style="@style/y" />
+</RelativeLayout>

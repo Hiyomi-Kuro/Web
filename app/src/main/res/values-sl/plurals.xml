@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a">
+        <item quantity="one">%d filter</item>
+        <item quantity="two">%d filtra</item>
+        <item quantity="few">%d filtri</item>
+        <item quantity="other">%d filtrov</item>
+    </plurals>
+    <plurals name="b">
+        <item quantity="zero">še 0 ur</item>
+        <item quantity="one">še 1 ura</item>
+        <item quantity="other">še %d ur</item>
+    </plurals>
+    <plurals name="c">
+        <item quantity="zero">0 vnosov</item>
+        <item quantity="one">%d vnos</item>
+        <item quantity="two">%d vnosa</item>
+        <item quantity="few">%d vnosi</item>
+        <item quantity="other">%d vnosov</item>
+    </plurals>
+    <plurals name="d">
+        <item quantity="zero">še 0 min</item>
+        <item quantity="one">še 1 min</item>
+        <item quantity="other">še %d min</item>
+    </plurals>
+    <plurals name="e">
+        <item quantity="zero">0 zavihkov</item>
+        <item quantity="one">1 zavihek</item>
+        <item quantity="other">%d zavihkov</item>
+    </plurals>
+    <plurals name="f">
+        <item quantity="zero">še 0 sek</item>
+        <item quantity="one">še 1 sek</item>
+        <item quantity="other">še %d sek</item>
+    </plurals>
+    <plurals name="g">
+        <item quantity="zero">0 zaprtih zavihkov</item>
+        <item quantity="one">1 zaprt zavihek</item>
+        <item quantity="two">%d zaprta zavihka</item>
+        <item quantity="few">%d zaprti zavihki</item>
+        <item quantity="other">%d zaprtih zavihkov</item>
+    </plurals>
+</resources>

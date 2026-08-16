@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e4">%1$s သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာအနည်းငယ် ရှိနေပါသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="eg">လင့်ခ်ကို ကလစ်ဘုတ်သို့ ကူးပြီးပါပြီ</string>
+    <string name="ik">လင့်ခ်ကို ကူးယူရန်</string>
+    <string name="il">ဘရောင်ဇာတွင် ဖွင့်ရန်</string>
+    <string name="im">လင့်ခ်ကို မျှဝေရန်</string>
+    <string name="u8">၉၉၉+</string>
+</resources>
