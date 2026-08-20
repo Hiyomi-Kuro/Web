@@ -278,6 +278,11 @@
     .line 7
     move-result-object v0
 
+    # This APK is rebuilt and debug-signed, so do not expose a failing app
+    # identity attestation to challenge providers. This mirrors the working
+    # Browser reference project's WebView configuration.
+    invoke-static {v0}, Lq0/e;->g(Landroid/webkit/WebSettings;)V
+
     .line 8
     const/4 v1, 0x0
 

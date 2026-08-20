@@ -100,6 +100,46 @@
     return-void
 .end method
 
+.method public static c(Ljava/lang/String;)Z
+    .locals 2
+
+    if-eqz p0, :cond_not_challenge
+
+    const-string v0, "challenges.cloudflare.com"
+
+    invoke-virtual {p0, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_challenge
+
+    const-string v0, "/cdn-cgi/challenge-platform/"
+
+    invoke-virtual {p0, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_challenge
+
+    const-string v0, "/cdn-cgi/turnstile/"
+
+    invoke-virtual {p0, v0}, Ljava/lang/String;->contains(Ljava/lang/CharSequence;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_not_challenge
+
+    :cond_challenge
+    const/4 v0, 0x1
+
+    return v0
+
+    :cond_not_challenge
+    const/4 v0, 0x0
+
+    return v0
+.end method
+
 .method public onFormResubmission(Landroid/webkit/WebView;Landroid/os/Message;Landroid/os/Message;)V
     .locals 1
 
@@ -337,6 +377,20 @@
 
     .line 7
     :goto_0
+    invoke-static {v0}, Lp4/j;->c(Ljava/lang/String;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_continue_intercept
+
+    # Cloudflare's challenge runtime must reach the network untouched. In
+    # particular, ad/script filters can otherwise rotate the visual challenge
+    # forever even after the user answers it correctly.
+    const/4 v0, 0x0
+
+    return-object v0
+
+    :cond_continue_intercept
     invoke-virtual {p0, p1, v0}, Lp4/j;->b(Landroid/webkit/WebView;Ljava/lang/String;)V
 
     .line 8
@@ -356,6 +410,17 @@
 .method public shouldInterceptRequest(Landroid/webkit/WebView;Ljava/lang/String;)Landroid/webkit/WebResourceResponse;
     .locals 3
 
+    invoke-static {p2}, Lp4/j;->c(Ljava/lang/String;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_continue_legacy_intercept
+
+    const/4 v0, 0x0
+
+    return-object v0
+
+    :cond_continue_legacy_intercept
     .line 1
     sget v0, Landroid/os/Build$VERSION;->SDK_INT:I
 

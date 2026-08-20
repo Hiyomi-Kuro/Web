@@ -290,3 +290,44 @@
     .line 21
     throw p0
 .end method
+
+.method public static g(Landroid/webkit/WebSettings;)V
+    .locals 2
+
+    :try_start_0
+    const-string v0, "WEBVIEW_MEDIA_INTEGRITY_API_STATUS"
+
+    invoke-static {v0}, Lq0/g;->a(Ljava/lang/String;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_done
+
+    invoke-static {p0}, Lq0/e;->a(Landroid/webkit/WebSettings;)Lr0/n;
+
+    move-result-object p0
+
+    iget-object p0, p0, Lr0/n;->a:Lorg/chromium/support_lib_boundary/WebSettingsBoundaryInterface;
+
+    const/4 v0, 0x0
+
+    invoke-static {}, Ljava/util/Collections;->emptyMap()Ljava/util/Map;
+
+    move-result-object v1
+
+    invoke-interface {p0, v0, v1}, Lorg/chromium/support_lib_boundary/WebSettingsBoundaryInterface;->setWebViewMediaIntegrityApiStatus(ILjava/util/Map;)V
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_0
+
+    :cond_done
+    return-void
+
+    :catchall_0
+    move-exception p0
+
+    # Older WebView providers may advertise the boundary incompletely; keep
+    # browsing functional and record the compatibility failure like Via does.
+    invoke-static {p0}, Lsc/a;->j(Ljava/lang/Throwable;)V
+
+    return-void
+.end method
