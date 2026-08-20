@@ -1748,14 +1748,14 @@
 
     .line 173
     :cond_4
-    invoke-virtual {p0}, Lmark/via/Shell;->f0()V
+    const-class p1, La8/c;
 
     .line 174
     .line 175
     const/4 v4, 0x0
 
     .line 176
-    nop
+    invoke-static {p0, p1, v4, v4}, Lh6/i;->j(Landroidx/fragment/app/q;Ljava/lang/Class;Landroid/os/Bundle;Ljava/lang/String;)V
 
     .line 177
     .line 178

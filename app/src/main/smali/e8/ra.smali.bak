@@ -2267,11 +2267,11 @@
     .line 87
     .line 88
     .line 89
-    nop
+    new-instance v0, Lr4/h;
 
     .line 90
     .line 91
-    goto :goto_1
+    const/4 v1, 0x4
 
     .line 92
     invoke-virtual {p0, v1, v4}, Le8/ra;->H0(ILjava/lang/String;)Ljava/lang/String;
