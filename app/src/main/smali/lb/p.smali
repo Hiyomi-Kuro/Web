@@ -259,23 +259,23 @@
     .locals 6
 
     .line 1
-    sget p2, Lmark/via/common/widget/b0;->p:I
+    sget p2, Lcom/android/web/common/widget/b0;->p:I
 
     .line 2
     .line 3
-    sget v0, Lmark/via/common/widget/b0;->q:I
+    sget v0, Lcom/android/web/common/widget/b0;->q:I
 
     .line 4
     .line 5
-    sget v1, Lmark/via/common/widget/b0;->r:I
+    sget v1, Lcom/android/web/common/widget/b0;->r:I
 
     .line 6
     .line 7
-    sget v2, Lmark/via/common/widget/b0;->s:I
+    sget v2, Lcom/android/web/common/widget/b0;->s:I
 
     .line 8
     .line 9
-    sget v3, Lmark/via/common/widget/b0;->t:I
+    sget v3, Lcom/android/web/common/widget/b0;->t:I
 
     .line 10
     .line 11
@@ -390,11 +390,11 @@
     move-result-object p1
 
     .line 64
-    check-cast p1, Lcom/tuyafeng/support/widget/a;
+    check-cast p1, Lcom/android/web/internal/support/widget/a;
 
     .line 65
     .line 66
-    invoke-virtual {p1, v3}, Lcom/tuyafeng/support/widget/a;->setInterceptTouchEvent(Z)V
+    invoke-virtual {p1, v3}, Lcom/android/web/internal/support/widget/a;->setInterceptTouchEvent(Z)V
 
     .line 67
     .line 68
@@ -408,7 +408,7 @@
     .line 72
     .line 73
     .line 74
-    invoke-virtual {p1, p2}, Lcom/tuyafeng/support/widget/a;->g(Lcom/tuyafeng/support/widget/a$b;)V
+    invoke-virtual {p1, p2}, Lcom/android/web/internal/support/widget/a;->g(Lcom/android/web/internal/support/widget/a$b;)V
 
     .line 75
     .line 76
@@ -424,11 +424,11 @@
 
     .line 2
     .line 3
-    new-instance v0, Lcom/tuyafeng/support/widget/a;
+    new-instance v0, Lcom/android/web/internal/support/widget/a;
 
     .line 4
     .line 5
-    invoke-direct {v0, p1}, Lcom/tuyafeng/support/widget/a;-><init>(Landroid/content/Context;)V
+    invoke-direct {v0, p1}, Lcom/android/web/internal/support/widget/a;-><init>(Landroid/content/Context;)V
 
     .line 6
     .line 7
@@ -473,7 +473,7 @@
     move-result-object p2
 
     .line 28
-    check-cast p2, Lcom/tuyafeng/support/widget/a;
+    check-cast p2, Lcom/android/web/internal/support/widget/a;
 
     .line 29
     .line 30
@@ -481,11 +481,11 @@
 
     .line 31
     .line 32
-    new-instance v1, Lmark/via/common/widget/b0;
+    new-instance v1, Lcom/android/web/common/widget/b0;
 
     .line 33
     .line 34
-    invoke-direct {v1, p1}, Lmark/via/common/widget/b0;-><init>(Landroid/content/Context;)V
+    invoke-direct {v1, p1}, Lcom/android/web/common/widget/b0;-><init>(Landroid/content/Context;)V
 
     .line 35
     .line 36
@@ -524,7 +524,7 @@
     move-result-object v0
 
     .line 55
-    check-cast v0, Lmark/via/common/widget/b0;
+    check-cast v0, Lcom/android/web/common/widget/b0;
 
     .line 56
     .line 57

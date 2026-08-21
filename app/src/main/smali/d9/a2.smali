@@ -5550,7 +5550,7 @@
 
     .line 84
     .line 85
-    new-instance v0, Lcom/tuyafeng/support/widget/x;
+    new-instance v0, Lcom/android/web/internal/support/widget/x;
 
     .line 86
     .line 87
@@ -5574,7 +5574,7 @@
     move-result v2
 
     .line 97
-    invoke-direct {v0, v1, v2}, Lcom/tuyafeng/support/widget/x;-><init>(II)V
+    invoke-direct {v0, v1, v2}, Lcom/android/web/internal/support/widget/x;-><init>(II)V
 
     .line 98
     .line 99

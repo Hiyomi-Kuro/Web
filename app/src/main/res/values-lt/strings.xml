@@ -108,9 +108,7 @@
     <string name="g8">Negr膮啪inti</string>
     <string name="gd">Nesekti</string>
     <string name="ge">Aukoti</string>
-    <string name="gf">"Jeigu jums patinka Via nar拧ykl臈, galite mus paremti 
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gi">Atsisiuntim懦 vieta</string>
     <string name="gl">Atsisiuntimas pabaigtas</string>
     <string name="gn">Atsisiuntimas nes臈kmingas</string>
@@ -169,7 +167,7 @@ J奴s galite redaguoti s膮ra拧膮, arba paspausti ir palaikyti t膮 daikt膮 k
     <string name="mp">漠skaitant atsisi懦st膮 fail膮</string>
     <string name="mq">I拧trinti 拧寞 atsisiuntim膮?</string>
     <string name="mr">Ar tikrai?</string>
-    <string name="mu">Paspaudus dar kart膮, i拧eisite i拧 Via</string>
+    <string name="mu">Paspaudus dar kart膮, i拧eisite i拧 Web</string>
     <string name="mw">Ar j奴s nor臈tum臈te dar kart膮 persi懦sti anket膮?</string>
     <string name="mz">"
  Nor臈t懦 su啪inoti j奴s懦 buvimo viet膮"</string>
@@ -223,7 +221,7 @@ Surasti media failus yra daug leingviau, kai jie yra paleisti. Kai kuriose sveta
     <string name="sf">Paie拧ka</string>
     <string name="ss">艩i懦 serveri懦 duomenys nesinchronizuoti. Jums gali prireikti prisijungti i拧 naujo.</string>
     <string name="st">Nustatyti kaip pagrindiniu puslapiu</string>
-    <string name="su">Tai taps pagrindiniu po to kai atidarysimi 拧寞 adres膮(%1$s), pra拧ome pasirinkti Via adreso atidarymui</string>
+    <string name="su">Tai taps pagrindiniu po to kai atidarysimi 拧寞 adres膮(%1$s), pra拧ome pasirinkti Web adreso atidarymui</string>
     <string name="sv">%1$s nustatytas Naudotojo Agentu</string>
     <string name="sw">Nustatyti kaip pagrindin臋 nar拧ykl臋</string>
     <string name="sx">Nustatymai</string>

@@ -99,7 +99,7 @@
     .line 45
     .line 46
     .line 47
-    const-string v0, "Via Document"
+    const-string v0, "Web Document"
 
     .line 48
     .line 49

@@ -223,7 +223,7 @@
     .line 103
     .line 104
     :cond_1
-    const-string p1, "/Via"
+    const-string p1, "/Web"
 
     .line 105
     .line 106

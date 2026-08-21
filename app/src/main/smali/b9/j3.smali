@@ -655,7 +655,7 @@
 
     .line 10
     :cond_0
-    const-class v0, Lcom/tuyafeng/support/widget/z;
+    const-class v0, Lcom/android/web/internal/support/widget/z;
 
     .line 11
     .line 12
@@ -671,7 +671,7 @@
 
     .line 17
     .line 18
-    const-class v1, Lcom/tuyafeng/support/widget/a0;
+    const-class v1, Lcom/android/web/internal/support/widget/a0;
 
     .line 19
     .line 20

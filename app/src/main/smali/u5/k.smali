@@ -13,7 +13,7 @@
 
 
 # instance fields
-.field public e:Lcom/tuyafeng/scanner/BarcodeView;
+.field public e:Lcom/android/web/internal/scanner/BarcodeView;
 
 .field public j:Lu5/y;
 
@@ -55,7 +55,7 @@
     .locals 2
 
     .line 1
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
@@ -68,7 +68,7 @@
     .line 6
     .line 7
     .line 8
-    invoke-virtual {v0, v1}, Lcom/tuyafeng/scanner/BarcodeView;->G(Lu5/a;)V
+    invoke-virtual {v0, v1}, Lcom/android/web/internal/scanner/BarcodeView;->G(Lu5/a;)V
 
     .line 9
     .line 10
@@ -161,11 +161,11 @@
     move-result-object v0
 
     .line 35
-    check-cast v0, Lcom/tuyafeng/scanner/BarcodeView;
+    check-cast v0, Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 36
     .line 37
-    iput-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iput-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 38
     .line 39
@@ -202,7 +202,7 @@
 
     .line 55
     .line 56
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 57
     .line 58
@@ -272,11 +272,11 @@
     .locals 1
 
     .line 1
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
-    invoke-virtual {v0}, Lcom/tuyafeng/scanner/BarcodeView;->t()V
+    invoke-virtual {v0}, Lcom/android/web/internal/scanner/BarcodeView;->t()V
 
     .line 4
     .line 5
@@ -288,7 +288,7 @@
     .locals 1
 
     .line 1
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
@@ -304,7 +304,7 @@
     .locals 2
 
     .line 1
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
@@ -319,7 +319,7 @@
     return-void
 .end method
 
-.method public getBarcodeView()Lcom/tuyafeng/scanner/BarcodeView;
+.method public getBarcodeView()Lcom/android/web/internal/scanner/BarcodeView;
     .locals 1
 
     .line 1
@@ -335,22 +335,22 @@
     move-result-object v0
 
     .line 7
-    check-cast v0, Lcom/tuyafeng/scanner/BarcodeView;
+    check-cast v0, Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 8
     .line 9
     return-object v0
 .end method
 
-.method public getCameraSettings()Lcom/tuyafeng/scanner/camera/CameraSettings;
+.method public getCameraSettings()Lcom/android/web/internal/scanner/camera/CameraSettings;
     .locals 1
 
     .line 1
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
-    invoke-virtual {v0}, Lu5/f;->getCameraSettings()Lcom/tuyafeng/scanner/camera/CameraSettings;
+    invoke-virtual {v0}, Lu5/f;->getCameraSettings()Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 4
     .line 5
@@ -365,11 +365,11 @@
     .locals 1
 
     .line 1
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
-    invoke-virtual {v0}, Lcom/tuyafeng/scanner/BarcodeView;->getDecoderFactory()Lu5/h;
+    invoke-virtual {v0}, Lcom/android/web/internal/scanner/BarcodeView;->getDecoderFactory()Lu5/h;
 
     .line 4
     .line 5
@@ -406,7 +406,7 @@
     .locals 2
 
     .line 1
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
@@ -493,15 +493,15 @@
     return v1
 .end method
 
-.method public setCameraSettings(Lcom/tuyafeng/scanner/camera/CameraSettings;)V
+.method public setCameraSettings(Lcom/android/web/internal/scanner/camera/CameraSettings;)V
     .locals 1
 
     .line 1
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
-    invoke-virtual {v0, p1}, Lu5/f;->setCameraSettings(Lcom/tuyafeng/scanner/camera/CameraSettings;)V
+    invoke-virtual {v0, p1}, Lu5/f;->setCameraSettings(Lcom/android/web/internal/scanner/camera/CameraSettings;)V
 
     .line 4
     .line 5
@@ -513,11 +513,11 @@
     .locals 1
 
     .line 1
-    iget-object v0, p0, Lu5/k;->e:Lcom/tuyafeng/scanner/BarcodeView;
+    iget-object v0, p0, Lu5/k;->e:Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
-    invoke-virtual {v0, p1}, Lcom/tuyafeng/scanner/BarcodeView;->setDecoderFactory(Lu5/h;)V
+    invoke-virtual {v0, p1}, Lcom/android/web/internal/scanner/BarcodeView;->setDecoderFactory(Lu5/h;)V
 
     .line 4
     .line 5

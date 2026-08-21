@@ -73,7 +73,7 @@
     .line 14
     .line 15
     .line 16
-    const-string v1, "(function(){if(window.__via_translator__)window.__via_translator__.showBanner(!0);else{window.googleTranslateElementInit=function(){window.__via_translator__||(window.__via_translator__=new google.translate.TranslateElement({autoDisplay:!1,floatPosition:0,multilanguagePage:!0,includedLanguages:\""
+    const-string v1, "(function(){if(window.__web_translator__)window.__web_translator__.showBanner(!0);else{window.googleTranslateElementInit=function(){window.__web_translator__||(window.__web_translator__=new google.translate.TranslateElement({autoDisplay:!1,floatPosition:0,multilanguagePage:!0,includedLanguages:\""
 
     .line 17
     .line 18
@@ -87,7 +87,7 @@
     .line 22
     .line 23
     .line 24
-    const-string p1, "\",pageLanguage:\"auto\"}));window.__via_translator__.showBanner(!0)};var e=document.createElement(\"script\");e.src=\"https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\";document.getElementsByTagName(\"head\")[0].appendChild(e)}document.addEventListener(\"securitypolicyviolation\",function e(n){"
+    const-string p1, "\",pageLanguage:\"auto\"}));window.__web_translator__.showBanner(!0)};var e=document.createElement(\"script\");e.src=\"https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\";document.getElementsByTagName(\"head\")[0].appendChild(e)}document.addEventListener(\"securitypolicyviolation\",function e(n){"
 
     .line 25
     .line 26
@@ -152,7 +152,7 @@
     .line 14
     .line 15
     .line 16
-    const-string v1, "(function(){var e=\"via-translate-bridge\",t=document.getElementById(e);if(t)if(\"undefined\"!=typeof translate)\""
+    const-string v1, "(function(){var e=\"web-translate-bridge\",t=document.getElementById(e);if(t)if(\"undefined\"!=typeof translate)\""
 
     .line 17
     .line 18

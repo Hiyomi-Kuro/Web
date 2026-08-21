@@ -88,8 +88,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">同意並繼續</string>
-    <string name="bq">你需要同意並接受全部條款後才能開始使用我們的服務。</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">AI</string>
     <string name="bs">AI 提示詞</string>
     <string name="bt">AI 供應服務商</string>
@@ -106,7 +106,7 @@
     <string name="c4">已設為預設瀏覽器</string>
     <string name="c5">一律還原</string>
     <string name="c7">API 密鑰</string>
-    <string name="c8">Via 正在下載檔案</string>
+    <string name="c8">Web 正在下載檔案</string>
     <string name="c9">點按即可檢視下載內容</string>
     <string name="c_">Web</string>
     <string name="ca">外觀</string>
@@ -262,13 +262,7 @@
     <string name="gc">請求網站不出售或分享我的資料以保護隱私 (實驗性)</string>
     <string name="gd">不要追蹤</string>
     <string name="ge">捐贈</string>
-    <string name="gf">"我們利用有限的業餘時間設計了 Via，雖然它並不那麼美好，但正努力前行。
-目前 Via 沒有任何廣告推廣，因此也沒有收入。如果你喜歡我們的作品，可以捐贈以支持我們。
-
-所有的捐贈都將用來：提升我們的環境配置以及積極性。
-
-支付寶：2376688759@qq.com
-PayPal：wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">完成</string>
     <string name="gh">不再提醒</string>
     <string name="gi">下載位置</string>
@@ -299,7 +293,7 @@ PayPal：wiar1824@gmail.com"</string>
     <string name="h7">複製分頁</string>
     <string name="h8">編輯篩選訂閱</string>
     <string name="h9">編輯原始碼</string>
-    <string name="h_">透過郵件聯絡我</string>
+    <string name="h_"></string>
     <string name="ha">空空如也…</string>
     <string name="hb">請輸入你的密碼</string>
     <string name="hc">請輸入你的使用者名稱</string>
@@ -521,7 +515,7 @@ PayPal：wiar1824@gmail.com"</string>
     <string name="n4">下載路徑的儲存權限已被移除。請重新選擇下載路徑。</string>
     <string name="n5">你確定重設 %1$s 的網站設定嗎？</string>
     <string name="n6">使用位址列時，從下列內容獲取建議</string>
-    <string name="n7">在使用 Via 前，你需要認真閱讀並同意我們的 %1$s 和 %2$s。</string>
+    <string name="n7"></string>
     <string name="n8">訊息模板</string>
     <string name="n9">你確定更新指令碼 \"%1$s\"(%2$s -> %3$s) 嗎？</string>
     <string name="n_">秘塔 AI</string>
@@ -638,7 +632,7 @@ PayPal：wiar1824@gmail.com"</string>
     <string name="qe">彈出式視窗</string>
     <string name="qf">網站需先詢問並得到權限才能顯示彈出式視窗</string>
     <string name="qg">列印/PDF</string>
-    <string name="qh">隱私權原則</string>
+    <string name="qh"></string>
     <string name="qi">處理 blob 資料中…</string>
     <string name="qj">二維碼</string>
     <string name="qk">未檢測到二維碼</string>
@@ -648,7 +642,7 @@ PayPal：wiar1824@gmail.com"</string>
     <string name="qo">為特定網站開啟返回不重載。</string>
     <string name="qp">朗讀網頁</string>
     <string name="qq">朗讀面板</string>
-    <string name="qr">請閱讀並同意 %1$s 與 %2$s</string>
+    <string name="qr"></string>
     <string name="qs">閱讀模式已關閉</string>
     <string name="qt">閱讀模式已開啟</string>
     <string name="qu">閱讀模式</string>
@@ -713,7 +707,7 @@ PayPal：wiar1824@gmail.com"</string>
     <string name="se">搜尋引擎</string>
     <string name="sf">搜尋</string>
     <string name="sg">搜尋歷史</string>
-    <string name="sh">在 Via 中搜尋</string>
+    <string name="sh">在 Web 中搜尋</string>
     <string name="si">搜尋區域</string>
     <string name="sj">隱藏</string>
     <string name="sk">展示</string>
@@ -726,7 +720,7 @@ PayPal：wiar1824@gmail.com"</string>
     <string name="sr">傳送</string>
     <string name="ss">伺服器間的資料不同步，切換後將需要重新登入。</string>
     <string name="st">你想要將它設定為首頁嗎？</string>
-    <string name="su">開啟連結 (%1$s) 後將被設為預設瀏覽器，請選擇以 Via 開啟此連結。</string>
+    <string name="su">開啟連結 (%1$s) 後將被設為預設瀏覽器，請選擇以 Web 開啟此連結。</string>
     <string name="sv">設定使用者代理為 %1$s</string>
     <string name="sw">設為預設瀏覽器</string>
     <string name="sx">設定</string>
@@ -748,7 +742,7 @@ PayPal：wiar1824@gmail.com"</string>
     <string name="tc">顯示移除關閉分頁的訊息</string>
     <string name="td">如果開啟了無痕模式，則不會顯示訊息</string>
     <string name="te">註冊成功</string>
-    <string name="tf">"Via 幾乎支援所有的 Adblock Plus 篩選條件。 
+    <string name="tf">"Web 幾乎支援所有的 Adblock Plus 篩選條件。 
 你可以這樣封鎖 example.com 的所有要求： 
 ||example.com^（或 example.com） 
 
@@ -760,7 +754,7 @@ PayPal：wiar1824@gmail.com"</string>
 
 對於網頁的元素，篩選條件類似： 
 example.com###ad"</string>
-    <string name="tg">&lt;b>Metadata 塊&lt;/b>&lt;br /> Metadata 必須使用如下格式:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>：指令碼名稱。 &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>：&lt;tt>@namespace&lt;/tt> 和 &lt;tt>@name&lt;/tt> 是指令碼的唯一 ID。 &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>：定義了指令碼的作用域。推薦使用 &lt;tt>@match&lt;/tt> 而不是 &lt;tt>@include&lt;/tt>。 &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>：舊版本中定義作用域的方式。 &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>：指令碼版本。 &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>：指令碼描述。 &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>：指令碼作者。 &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>：指令碼的前置依賴，例如： &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>。 &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>：指令碼的執行時機。 &lt;tt>document-start&lt;/tt> 用於在頁面 DOM 載入前注入指令碼， &lt;tt>document-end&lt;/tt> 用於在頁面 DOM 載入完成後注入指令碼， &lt;tt>document-idle&lt;/tt> 用於在頁面空閒後注入指令碼。 &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>：定義指令碼所使用和應被授權的特殊 GM_* API。&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>：指令碼的下載網址。 &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>：指令碼的支援地址。 &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>：指令碼的首頁。 &lt;br />&lt;br /> &lt;b>GM_* API&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> 是一組 Via 提供的特殊 API 集合。目前支援的特殊 API 包括：&lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>匹配&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> 定義了指令碼生效的作用域。 &lt;tt>@exclude-match&lt;/tt> 定義了指令碼不應生效的作用域，類似 &lt;tt>@exclude&lt;/tt>。 &lt;br />&lt;br /> 例如:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>Metadata 塊&lt;/b>&lt;br /> Metadata 必須使用如下格式:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>：指令碼名稱。 &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>：&lt;tt>@namespace&lt;/tt> 和 &lt;tt>@name&lt;/tt> 是指令碼的唯一 ID。 &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>：定義了指令碼的作用域。推薦使用 &lt;tt>@match&lt;/tt> 而不是 &lt;tt>@include&lt;/tt>。 &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>：舊版本中定義作用域的方式。 &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>：指令碼版本。 &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>：指令碼描述。 &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>：指令碼的前置依賴，例如： &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>。 &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>：指令碼的執行時機。 &lt;tt>document-start&lt;/tt> 用於在頁面 DOM 載入前注入指令碼， &lt;tt>document-end&lt;/tt> 用於在頁面 DOM 載入完成後注入指令碼， &lt;tt>document-idle&lt;/tt> 用於在頁面空閒後注入指令碼。 &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>：定義指令碼所使用和應被授權的特殊 GM_* API。&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>：指令碼的下載網址。 &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>：指令碼的支援地址。 &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>：指令碼的首頁。 &lt;br />&lt;br /> &lt;b>GM_* API&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> 是一組 Web 提供的特殊 API 集合。目前支援的特殊 API 包括：&lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>匹配&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> 定義了指令碼生效的作用域。 &lt;tt>@exclude-match&lt;/tt> 定義了指令碼不應生效的作用域，類似 &lt;tt>@exclude&lt;/tt>。 &lt;br />&lt;br /> 例如:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">網站設定</string>
     <string name="ti">網站設定 (已啟用)</string>
     <string name="tj">網站資訊</string>
@@ -793,7 +787,7 @@ example.com###ad"</string>
     <string name="u8">999+</string>
     <string name="u9">留在此網頁</string>
     <string name="u_">停止</string>
-    <string name="ua">Via 封鎖了以下網頁載入:</string>
+    <string name="ua">Web 封鎖了以下網頁載入:</string>
     <string name="ub">因為如下過濾篩選條件:</string>
     <string name="uc">停止朗讀</string>
     <string name="ud">描邊不透明度</string>
@@ -824,7 +818,7 @@ example.com###ad"</string>
     <string name="v2">分頁已關閉</string>
     <string name="v3">分頁設定</string>
     <string name="v4">分頁</string>
-    <string name="xh">使用協議</string>
+    <string name="xh"></string>
     <string name="xi">文字</string>
     <string name="xj">為特定網站設定字型大小。</string>
     <string name="xk">該網頁未完全載入</string>

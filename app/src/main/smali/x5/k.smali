@@ -445,7 +445,7 @@
     move-result-object p0
 
     .line 20
-    check-cast p0, Lcom/tuyafeng/support/widget/y;
+    check-cast p0, Lcom/android/web/internal/support/widget/y;
 
     .line 21
     .line 22
@@ -457,7 +457,7 @@
     const/4 p1, 0x1
 
     .line 25
-    invoke-virtual {p0, p1}, Lcom/tuyafeng/support/widget/y;->setGestureEnabled(Z)V
+    invoke-virtual {p0, p1}, Lcom/android/web/internal/support/widget/y;->setGestureEnabled(Z)V
 
     .line 26
     .line 27
@@ -4124,7 +4124,7 @@
     move-result-object p3
 
     .line 311
-    check-cast p3, Lmark/via/common/widget/MaxHeightLayout;
+    check-cast p3, Lcom/android/web/common/widget/MaxHeightLayout;
 
     .line 312
     .line 313
@@ -4156,7 +4156,7 @@
 
     .line 325
     :goto_4
-    invoke-virtual {p3, v2}, Lmark/via/common/widget/MaxHeightLayout;->setMaxHeight(I)V
+    invoke-virtual {p3, v2}, Lcom/android/web/common/widget/MaxHeightLayout;->setMaxHeight(I)V
 
     .line 326
     .line 327
@@ -5353,7 +5353,7 @@
 
     .line 4
     .line 5
-    invoke-static {v0}, Lh6/y;->w(Landroid/content/Context;)Lcom/tuyafeng/support/widget/y;
+    invoke-static {v0}, Lh6/y;->w(Landroid/content/Context;)Lcom/android/web/internal/support/widget/y;
 
     .line 6
     .line 7
@@ -5365,7 +5365,7 @@
 
     .line 10
     .line 11
-    invoke-virtual {v0}, Lcom/tuyafeng/support/widget/y;->q()Z
+    invoke-virtual {v0}, Lcom/android/web/internal/support/widget/y;->q()Z
 
     .line 12
     .line 13
@@ -5380,7 +5380,7 @@
     const/4 v1, 0x0
 
     .line 18
-    invoke-virtual {v0, v1}, Lcom/tuyafeng/support/widget/y;->setGestureEnabled(Z)V
+    invoke-virtual {v0, v1}, Lcom/android/web/internal/support/widget/y;->setGestureEnabled(Z)V
 
     .line 19
     .line 20

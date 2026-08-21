@@ -37,7 +37,7 @@
 
     .line 2
     .line 3
-    invoke-static {v0}, Lmark/via/CustomTab;->S(Landroid/widget/FrameLayout;)V
+    invoke-static {v0}, Lcom/android/web/CustomTab;->S(Landroid/widget/FrameLayout;)V
 
     .line 4
     .line 5

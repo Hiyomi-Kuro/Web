@@ -1002,7 +1002,7 @@
 
     .line 519
     .line 520
-    const-string v0, "via"
+    const-string v0, "web"
 
     .line 521
     .line 522

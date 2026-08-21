@@ -80,9 +80,7 @@
     <string name="g5">Desativar</string>
     <string name="gd">N茫o rastrear</string>
     <string name="ge">Doar</string>
-    <string name="gf">"Se voc锚 estiver gostando do Via Web Browser, voc锚 pode nos ajudar fazendo uma doa莽茫o.
-AliPay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gi">Local de Download</string>
     <string name="gl">Download conclu铆do.</string>
     <string name="gx">Iniciando download鈥</string>
@@ -111,7 +109,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="k8">Usu谩rio</string>
     <string name="kb">P谩gina Inicial</string>
     <string name="kc">C贸digo HTML</string>
-    <string name="ke">Mostrar Imagens via Wi-Fi</string>
+    <string name="ke">Mostrar Imagens through Wi-Fi</string>
     <string name="kf">Bloquear Imagens</string>
     <string name="kg">Mostrar Imagens</string>
     <string name="ko">N茫o 茅 poss铆vel recuperar os favoritos do arquivo</string>
@@ -165,7 +163,7 @@ Gostaria de usar a sua localiza莽茫o"</string>
     <string name="s7">Motor de pesquisa</string>
     <string name="sf">Pesquisar</string>
     <string name="st">Definir como p谩gina inicial?</string>
-    <string name="su">Ele ser谩 definido como padr茫o ap贸s us谩-lo para abrir um link (%1$s). Por favor, escolha o Via para abrir o link.</string>
+    <string name="su">Ele ser谩 definido como padr茫o ap贸s us谩-lo para abrir um link (%1$s). Por favor, escolha o Web para abrir o link.</string>
     <string name="sw">Definir como navegador padr茫o</string>
     <string name="sx">Configura莽玫es</string>
     <string name="sy">Sobre</string>

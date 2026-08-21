@@ -99,7 +99,7 @@
     move-result-object v1
 
     .line 16
-    check-cast v1, Lcom/tuyafeng/support/widget/d;
+    check-cast v1, Lcom/android/web/internal/support/widget/d;
 
     .line 17
     .line 18
@@ -386,7 +386,7 @@
     move-result-object v0
 
     .line 15
-    check-cast v0, Lcom/tuyafeng/support/widget/d;
+    check-cast v0, Lcom/android/web/internal/support/widget/d;
 
     .line 16
     .line 17
@@ -422,7 +422,7 @@
     const/4 p1, 0x0
 
     .line 33
-    invoke-virtual {v0, p1}, Lcom/tuyafeng/support/widget/d;->setDrawableTint(I)V
+    invoke-virtual {v0, p1}, Lcom/android/web/internal/support/widget/d;->setDrawableTint(I)V
 
     .line 34
     .line 35

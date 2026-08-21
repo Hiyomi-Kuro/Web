@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data-extraction-rules>
     <cloud-backup>
-        <include domain="database" path="via" />
+        <include domain="database" path="web" />
         <include domain="database" path="downloader" />
         <include domain="database" path="monkey" />
         <include domain="sharedpref" path="settings.xml" />
@@ -9,7 +9,7 @@
         <include domain="external" path="filters/subscribed.txt" />
     </cloud-backup>
     <device-transfer>
-        <include domain="database" path="via" />
+        <include domain="database" path="web" />
         <include domain="database" path="downloader" />
         <include domain="database" path="monkey" />
         <include domain="sharedpref" path="settings.xml" />

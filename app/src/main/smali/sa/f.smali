@@ -776,7 +776,7 @@
 
     .line 19
     .line 20
-    const-string v3, "mark.via.GENERAL_GROUP"
+    const-string v3, "com.android.web.GENERAL_GROUP"
 
     .line 21
     .line 22
@@ -794,7 +794,7 @@
 
     .line 29
     .line 30
-    const-string v1, "mark.via.DOWNLOAD_FORGROUND"
+    const-string v1, "com.android.web.DOWNLOAD_FORGROUND"
 
     .line 31
     .line 32
@@ -832,7 +832,7 @@
     move-result-object v2
 
     .line 50
-    const-string v4, "mark.via.FORGROUND"
+    const-string v4, "com.android.web.FORGROUND"
 
     .line 51
     .line 52
@@ -877,7 +877,7 @@
     move-result-object v2
 
     .line 73
-    const-string v4, "mark.via.DOWNLOAD"
+    const-string v4, "com.android.web.DOWNLOAD"
 
     .line 74
     .line 75
@@ -1093,7 +1093,7 @@
 
     .line 89
     .line 90
-    const-string v4, "mark.via.DOWNLOAD"
+    const-string v4, "com.android.web.DOWNLOAD"
 
     .line 91
     .line 92
@@ -1870,7 +1870,7 @@
 
     .line 462
     .line 463
-    const-class v8, Lmark/via/receiver/DownloadReceiver;
+    const-class v8, Lcom/android/web/receiver/DownloadReceiver;
 
     .line 464
     .line 465
@@ -2149,7 +2149,7 @@
 
     .line 594
     .line 595
-    const-class v6, Lmark/via/Trampoline;
+    const-class v6, Lcom/android/web/Trampoline;
 
     .line 596
     .line 597
@@ -2168,7 +2168,7 @@
     .line 604
     .line 605
     .line 606
-    const-string v5, "mark.via.DOWNLOADER"
+    const-string v5, "com.android.web.DOWNLOADER"
 
     .line 607
     .line 608

@@ -37,7 +37,7 @@
     .line 13
     .line 14
     .line 15
-    const-string v1, "javascript:(function(){function updateStyle(style){var css=document.getElementById(\'__via_blocker_css__\');if(css){css.innerText+=style;return}css=document.createElement(\'style\');css.type=\'text/css\';css.charset=\'UTF-8\';css.id=\'__via_blocker_css__\';css.appendChild(document.createTextNode(style));document.head.appendChild(css)}updateStyle(\""
+    const-string v1, "javascript:(function(){function updateStyle(style){var css=document.getElementById(\'__web_blocker_css__\');if(css){css.innerText+=style;return}css=document.createElement(\'style\');css.type=\'text/css\';css.charset=\'UTF-8\';css.id=\'__web_blocker_css__\';css.appendChild(document.createTextNode(style));document.head.appendChild(css)}updateStyle(\""
 
     .line 16
     .line 17
@@ -197,7 +197,7 @@
     .line 4
     .line 5
     .line 6
-    const-string v1, "(function(){if(!document.getElementById(\'via_inject_css_blocker\')){var css=document.createElement(\'link\');css.id=\'via_inject_css_blocker\';css.type=\'text/css\';css.rel=\"stylesheet\";css.href=\'https://"
+    const-string v1, "(function(){if(!document.getElementById(\'web_inject_css_blocker\')){var css=document.createElement(\'link\');css.id=\'web_inject_css_blocker\';css.type=\'text/css\';css.rel=\"stylesheet\";css.href=\'https://"
 
     .line 7
     .line 8
@@ -220,7 +220,7 @@
     .line 17
     .line 18
     .line 19
-    const-string p0, "via_inject_blocker.css"
+    const-string p0, "web_inject_blocker.css"
 
     .line 20
     .line 21

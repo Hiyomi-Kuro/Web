@@ -316,7 +316,7 @@
 
     invoke-virtual {p4, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
 
-    const-string v1, " has been inflated via the <fragment> tag: id=0x"
+    const-string v1, " has been inflated web the <fragment> tag: id=0x"
 
     invoke-virtual {p4, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -397,7 +397,7 @@
 
     invoke-virtual {p4, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
 
-    const-string v1, " has been re-attached via the <fragment> tag: id=0x"
+    const-string v1, " has been re-attached web the <fragment> tag: id=0x"
 
     invoke-virtual {p4, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 

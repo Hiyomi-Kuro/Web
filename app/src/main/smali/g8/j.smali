@@ -173,7 +173,7 @@
 
     .line 18
     :cond_0
-    const-string v0, "via_inject_blocker.css"
+    const-string v0, "web_inject_blocker.css"
 
     .line 19
     .line 20

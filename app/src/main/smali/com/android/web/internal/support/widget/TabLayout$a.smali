@@ -1,0 +1,81 @@
+.class public Lcom/android/web/internal/support/widget/TabLayout$a;
+.super Ljava/lang/Object;
+.source "r8-map-id-e10138e7b5ea796a0c3e38db01d267ba62f753e01123b4e9cebe0d4bfa66e856"
+
+# interfaces
+.implements Li6/a$a;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lcom/android/web/internal/support/widget/TabLayout;->n()Landroid/widget/TextView;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x1
+    name = null
+.end annotation
+
+
+# instance fields
+.field public final synthetic a:Lcom/android/web/internal/support/widget/TabLayout;
+
+
+# direct methods
+.method public constructor <init>(Lcom/android/web/internal/support/widget/TabLayout;)V
+    .locals 0
+
+    .line 1
+    iput-object p1, p0, Lcom/android/web/internal/support/widget/TabLayout$a;->a:Lcom/android/web/internal/support/widget/TabLayout;
+
+    .line 2
+    .line 3
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+
+# virtual methods
+.method public bridge synthetic a(Ljava/lang/Object;)V
+    .locals 0
+
+    .line 1
+    check-cast p1, Landroid/widget/TextView;
+
+    .line 2
+    .line 3
+    invoke-virtual {p0, p1}, Lcom/android/web/internal/support/widget/TabLayout$a;->b(Landroid/widget/TextView;)V
+
+    .line 4
+    .line 5
+    .line 6
+    return-void
+.end method
+
+.method public b(Landroid/widget/TextView;)V
+    .locals 1
+
+    .line 1
+    const/4 v0, 0x1
+
+    .line 2
+    invoke-virtual {p1, v0}, Landroid/widget/TextView;->setMaxLines(I)V
+
+    .line 3
+    .line 4
+    .line 5
+    const/16 v0, 0x11
+
+    .line 6
+    .line 7
+    invoke-virtual {p1, v0}, Landroid/widget/TextView;->setGravity(I)V
+
+    .line 8
+    .line 9
+    .line 10
+    return-void
+.end method

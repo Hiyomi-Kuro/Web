@@ -45,7 +45,7 @@
 
     .line 2
     .line 3
-    invoke-static {v0}, Leb/i;->i3(Leb/i;)Lcom/tuyafeng/support/widget/y;
+    invoke-static {v0}, Leb/i;->i3(Leb/i;)Lcom/android/web/internal/support/widget/y;
 
     .line 4
     .line 5
@@ -68,7 +68,7 @@
 
     .line 12
     :goto_0
-    invoke-virtual {v0, v1}, Lcom/tuyafeng/support/widget/y;->setGestureEnabled(Z)V
+    invoke-virtual {v0, v1}, Lcom/android/web/internal/support/widget/y;->setGestureEnabled(Z)V
 
     .line 13
     .line 14

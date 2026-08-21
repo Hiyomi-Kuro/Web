@@ -88,8 +88,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">喔⑧腑喔∴福喔编笟</string>
-    <string name="bq">喔勦父喔撪笗喙夃腑喔囙涪喔浮喔｀副喔氞箒喔ム赴喔⑧复喔權涪喔浮喔傕箟喔竵喔赤斧喔權笖喔椸副喙夃竾喔浮喔斷竵喙堗腑喔權箑喔｀复喙堗浮喙冟笂喙夃笟喔｀复喔佮覆喔｀競喔竾喙€喔｀覆</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">AI</string>
     <string name="bs">AI prompt</string>
     <string name="bt">喔溹腹喙夃箖喔箟喔氞福喔脆竵喔侧福 AI</string>
@@ -106,7 +106,7 @@
     <string name="c4">喔曕副喙夃竾喙€喔涏箛喔權竸喙堗覆喙€喔｀复喙堗浮喔曕箟喔權箒喔ム箟喔</string>
     <string name="c5">喔佮腹喙夃竸喔粪笝喙€喔浮喔</string>
     <string name="c7">API key</string>
-    <string name="c8">Via 喔佮赋喔ム副喔囙笖喔侧抚喔權箤喙傕斧喔ム笖喙勦笩喔ム箤</string>
+    <string name="c8">Web 喔佮赋喔ム副喔囙笖喔侧抚喔權箤喙傕斧喔ム笖喙勦笩喔ム箤</string>
     <string name="c9">喙佮笗喔班箑喔炧阜喙堗腑喔斷腹喔佮覆喔｀笖喔侧抚喔權箤喙傕斧喔ム笖</string>
     <string name="c_">Web</string>
     <string name="ca">喔｀腹喔涏弗喔编竵喔┼笓喙</string>
@@ -262,8 +262,7 @@
     <string name="gc">喔傕腑喙冟斧喙夃箑喔о箛喔氞箘喔嬥笗喙屶箘喔∴箞喔傕覆喔⑧斧喔｀阜喔箒喔娻福喙屶競喙夃腑喔∴腹喔ム競喔竾喔夃副喔權箑喔炧阜喙堗腑喔涏竵喔涏箟喔竾喔勦抚喔侧浮喙€喔涏箛喔權釜喙堗抚喔權笗喔编抚 (喔椸笖喔ム腑喔?</string>
     <string name="gd">喙勦浮喙堗笗喔脆笖喔曕覆喔</string>
     <string name="ge">喔氞福喔脆笀喔侧竸</string>
-    <string name="gf">"喔覆喔佮竸喔膏笓喔娻腑喔氞箑喔氞福喔侧抚喙屶箑喔嬥腑喔｀箤 Via 喔勦父喔撪釜喔侧浮喔侧福喔栢笟喔｀复喔堗覆喔勦箑喔炧阜喙堗腑喔笝喔编笟喔笝喔膏笝喙€喔｀覆喙勦笖喙?Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">喙€喔福喙囙笀喔复喙夃笝</string>
     <string name="gh">喔涪喙堗覆喙€喔曕阜喔笝喔夃副喔權腑喔掂竵</string>
     <string name="gi">喔曕赋喙佮斧喔權箞喔囙笖喔侧抚喔權箤喙傕斧喔ム笖</string>
@@ -294,7 +293,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">喔椸赋喔嬥箟喔赤箒喔椸箛喔</string>
     <string name="h8">喙佮竵喙夃箘喔傕竵喔侧福喔浮喔编竸喔｀福喔编笟喔曕副喔о竵喔｀腑喔</string>
     <string name="h9">喙佮竵喙夃箘喔傕笅喔福喙屶釜喙傕竸喙夃笖</string>
-    <string name="h_">喔箞喔囙腑喔掂箑喔∴弗喔栢付喔囙笁喔编笝</string>
+    <string name="h_"></string>
     <string name="ha">喔о箞喔侧竾喙€喔涏弗喙堗覆</string>
     <string name="hb">喔佮福喔膏笓喔侧笡喙夃腑喔權福喔副喔笢喙堗覆喔權競喔竾喔勦父喔</string>
     <string name="hc">喔佮福喔膏笓喔侧笡喙夃腑喔權笂喔粪箞喔笢喔灌箟喙冟笂喙夃競喔竾喔勦父喔</string>
@@ -518,7 +517,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="n4">喔复喔椸笜喔脆箤喔佮覆喔｀箑喔傕箟喔侧笘喔多竾喔椸傅喙堗箑喔佮箛喔氞釜喔赤斧喔｀副喔氞笗喔赤箒喔笝喙堗竾喔斷覆喔о笝喙屶箓喔弗喔斷笘喔灌竵喔⑧竵喙€喔ム复喔佮箒喔ム箟喔?喔佮福喔膏笓喔侧箑喔ム阜喔竵喔曕赋喙佮斧喔權箞喔囙箓喔熰弗喙€喔斷腑喔｀箤喔斷覆喔о笝喙屶箓喔弗喔斷箖喔浮喙</string>
     <string name="n5">喔勦父喔撪箒喔權箞喙冟笀喔о箞喔侧笗喙夃腑喔囙竵喔侧福喔｀傅喙€喔嬥箛喔曕竵喔侧福喔曕副喙夃竾喔勦箞喔侧箑喔о箛喔氞箘喔嬥笗喙屶釜喔赤斧喔｀副喔?%1$s 喔福喔粪腑喙勦浮喙?</string>
     <string name="n6">喙€喔∴阜喙堗腑喙冟笂喙夃箒喔栢笟喔椸傅喙堗腑喔⑧腹喙?喙佮笝喔班笝喔</string>
-    <string name="n7">喔佮覆喔｀箖喔娻箟 Via 喔浮喔侧涪喔勦抚喔侧浮喔о箞喔侧竸喔膏笓喔⑧腑喔∴福喔编笟 %1$s 喙佮弗喔?%2$s 喔傕腑喔囙箑喔｀覆</string>
+    <string name="n7"></string>
     <string name="n8">喙€喔椸浮喙€喔炧弗喔曕競喙夃腑喔勦抚喔侧浮</string>
     <string name="n9">喔勦父喔撪箒喔權箞喙冟笀喔о箞喔侧笗喙夃腑喔囙竵喔侧福喔副喔涏箑喔斷笗 \"%1$s\" (%2$s -> %3$s) 喔福喔粪腑喙勦浮喙?</string>
     <string name="n_">Metaso</string>
@@ -576,7 +575,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="op">喔氞弗喙囙腑喔佮箑喔о箛喔氞箘喔嬥笗喙屶箘喔∴箞喙冟斧喙夃箑喔涏复喔斷箒喔笡喔傕腑喔囙竸喔膏笓</string>
     <string name="oq">喙勦浮喙堗笧喔氞箒喔笡喔椸傅喙堗箑喔佮傅喙堗涪喔о競喙夃腑喔囙箑喔炧阜喙堗腑喙€喔涏复喔斷弗喔脆竾喔佮箤</string>
     <string name="or">喙勦浮喙堗笧喔氞箒喔笡喔椸傅喙堗箑喔佮傅喙堗涪喔о競喙夃腑喔囙箑喔炧阜喙堗腑喙€喔涏复喔斷箘喔熰弗喙</string>
-    <string name="ot">喙€喔涏复喔斷箖喔?Via</string>
+    <string name="ot">喙€喔涏复喔斷箖喔?Web</string>
     <string name="ou">喙€喔涏复喔斷斧喔權箟喔侧釜喔｀箟喔侧竾喙佮弗喔班笀喔编笖喔佮覆喔?API Key</string>
     <string name="ow">喙冟笟喔笝喔膏笉喔侧笗喙傕腑喙€喔炧笝喔嬥腑喔｀箤喔</string>
     <string name="ox">喙€喔涏复喔斷笖喙夃抚喔</string>
@@ -637,7 +636,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="qe">喔涏箠喔笡喔副喔</string>
     <string name="qf">喔栢覆喔∴竵喙堗腑喔權竵喙堗腑喔權腑喔權父喔嵿覆喔曕箖喔箟喙€喔о箛喔氞箘喔嬥笗喙屶箒喔笖喔囙笡喙娻腑喔涏腑喔编笡</string>
     <string name="qg">喔炧复喔∴笧喙?PDF</string>
-    <string name="qh">喔權箓喔⑧笟喔侧涪喔勦抚喔侧浮喙€喔涏箛喔權釜喙堗抚喔權笗喔编抚</string>
+    <string name="qh"></string>
     <string name="qi">喔佮赋喔ム副喔囙笡喔｀赴喔∴抚喔ム笢喔ム競喙夃腑喔∴腹喔モ€</string>
     <string name="qj">QR code</string>
     <string name="qk">喙勦浮喙堗笧喔?QR code</string>
@@ -647,7 +646,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="qo">喙€喔涏复喔斷箖喔娻箟喔囙覆喔權竵喔侧福喔⑧箟喔笝喔佮弗喔编笟喙傕笖喔⑧箘喔∴箞喙傕斧喔ム笖喙冟斧喔∴箞喔赋喔福喔编笟喙€喔о箛喔氞箘喔嬥笗喙屶箑喔夃笧喔侧赴</string>
     <string name="qp">喔箞喔侧笝喔腑喔佮箑喔傅喔⑧竾</string>
     <string name="qq">喙佮笢喔囙腑喙堗覆喔權腑喔竵喙€喔傅喔⑧竾</string>
-    <string name="qr">喔佮福喔膏笓喔侧腑喙堗覆喔權箒喔ム赴喔⑧腑喔∴福喔编笟 %1$s 喙佮弗喔?%2$s</string>
+    <string name="qr"></string>
     <string name="qs">喔嬥箞喔笝喙傕斧喔∴笖喔箞喔侧笝喙佮弗喙夃抚</string>
     <string name="qt">喙佮釜喔斷竾喙傕斧喔∴笖喔箞喔侧笝喙佮弗喙夃抚</string>
     <string name="qu">喙傕斧喔∴笖喔箞喔侧笝</string>
@@ -712,7 +711,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="se">喙€喔勦福喔粪箞喔竾喔∴阜喔竸喙夃笝喔覆</string>
     <string name="sf">喔勦箟喔權斧喔</string>
     <string name="sg">喔涏福喔班抚喔编笗喔脆竵喔侧福喔勦箟喔權斧喔</string>
-    <string name="sh">喔勦箟喔權斧喔侧箖喔?Via</string>
+    <string name="sh">喔勦箟喔權斧喔侧箖喔?Web</string>
     <string name="si">喔箞喔о笝喔勦箟喔權斧喔</string>
     <string name="sj">喔嬥箞喔笝</string>
     <string name="sk">喙佮釜喔斷竾</string>
@@ -725,7 +724,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="sr">喔箞喔</string>
     <string name="ss">喔傕箟喔浮喔灌弗喔傕腑喔囙箑喔嬥复喔｀箤喔熰箑喔о腑喔｀箤喙€喔弗喙堗覆喔權傅喙夃箘喔∴箞喙勦笖喙夃笅喔脆竾喔勦箤喔佮副喔?喔勦父喔撪笀喔班笗喙夃腑喔囙箑喔傕箟喔侧釜喔灌箞喔｀赴喔氞笟喔傅喔佮竸喔｀副喙夃竾</string>
     <string name="st">喔曕箟喔竾喔佮覆喔｀笗喔编箟喔囙箑喔涏箛喔權斧喔權箟喔侧箒喔｀竵喔福喔粪腑喙勦浮喙?</string>
-    <string name="su">喔堗赴喔栢腹喔佮笗喔编箟喔囙箑喔涏箛喔權竸喙堗覆喙€喔｀复喙堗浮喔曕箟喔權斧喔ム副喔囙笀喔侧竵喙€喔涏复喔斷弗喔脆竾喔佮箤 %1$s 喔佮福喔膏笓喔侧箑喔ム阜喔竵 Via 喙€喔炧阜喙堗腑喙€喔涏复喔斷弗喔脆竾喔佮箤</string>
+    <string name="su">喔堗赴喔栢腹喔佮笗喔编箟喔囙箑喔涏箛喔權竸喙堗覆喙€喔｀复喙堗浮喔曕箟喔權斧喔ム副喔囙笀喔侧竵喙€喔涏复喔斷弗喔脆竾喔佮箤 %1$s 喔佮福喔膏笓喔侧箑喔ム阜喔竵 Web 喙€喔炧阜喙堗腑喙€喔涏复喔斷弗喔脆竾喔佮箤</string>
     <string name="sv">User-agent 喔栢腹喔佮笗喔编箟喔囙箑喔涏箛喔? %1$s</string>
     <string name="sw">喔曕副喙夃竾喙€喔涏箛喔權箑喔氞福喔侧抚喙屶箑喔嬥腑喔｀箤喙€喔｀复喙堗浮喔曕箟喔</string>
     <string name="sx">喔佮覆喔｀笗喔编箟喔囙竸喙堗覆</string>
@@ -747,7 +746,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="tc">喙佮釜喔斷竾喔傕箟喔竸喔о覆喔∴箒喔堗箟喔囙箑喔曕阜喔笝喙€喔炧阜喙堗腑喔⑧竵喙€喔ム复喔佮竵喔侧福喔涏复喔斷箒喔椸箛喔</string>
     <string name="td">喔傕箟喔竸喔о覆喔∴箒喔堗箟喔囙箑喔曕阜喔笝喔堗赴喙勦浮喙堗箒喔笖喔囙斧喔侧竵喙€喔涏复喔斷箓喔浮喔斷箘喔∴箞喔｀赴喔氞父喔曕副喔о笗喔</string>
     <string name="te">喔浮喔编竸喔｀釜喔∴覆喔娻复喔佮釜喔赤箑喔｀箛喔</string>
-    <string name="tf">"Via 喔｀腑喔囙福喔编笟喔曕副喔о竵喔｀腑喔?Adblock Plus 喙€喔佮阜喔笟喔椸副喙夃竾喔浮喔?
+    <string name="tf">"Web 喔｀腑喔囙福喔编笟喔曕副喔о竵喔｀腑喔?Adblock Plus 喙€喔佮阜喔笟喔椸副喙夃竾喔浮喔?
 喔勦父喔撪釜喔侧浮喔侧福喔栢笟喔ム箛喔竵喔勦赋喔傕腑喔堗覆喔?example.com 喔斷箟喔о涪喔曕副喔о竵喔｀腑喔囙箑喔娻箞喔? 
 ||example.com^ (喔福喔粪腑喔囙箞喔侧涪喙? example.com) 
 
@@ -759,7 +758,7 @@ example.com###ad
 
 喔勦父喔撪釜喔侧浮喔侧福喔栢涪喔佮箑喔ム复喔佮竵喔侧福喔氞弗喙囙腑喔佮竸喔赤競喔笧喔脆箑喔ㄠ俯喔斷箟喔о涪喔曕副喔о竵喔｀腑喔囙箑喔娻箞喔? 
 @@||example.com^"</string>
-    <string name="tg">&lt;b>喔氞弗喙囙腑喔?Metadata&lt;/b>&lt;br /> Metadata 喔曕箟喔竾喙€喔涏箛喔權箘喔涏笗喔侧浮喔｀腹喔涏箒喔氞笟:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: 喔娻阜喙堗腑喔傕腑喔?userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: 喔佮覆喔｀福喔о浮喔佮副喔權競喔竾 &lt;tt>@namespace&lt;/tt> 喙佮弗喔?&lt;tt>@name&lt;/tt> 喙€喔涏箛喔權笗喔编抚喔｀赴喔氞父喙€喔夃笧喔侧赴喔傕腑喔?userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: 喔佮赋喔笝喔斷竵喔庎箑喔炧阜喙堗腑喔曕副喔斷釜喔脆笝喙冟笀喔о箞喔侧竸喔о福喙€喔｀傅喔⑧竵喙冟笂喙夃釜喔勦福喔脆笡喔曕箤喔福喔粪腑喙勦浮喙?喙佮笝喔班笝喔赤箖喔箟喙冟笂喙?&lt;tt>@match&lt;/tt> 喙佮笚喔?&lt;tt>@include&lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: 喔о复喔樴傅喙€喔佮箞喔侧箖喔權竵喔侧福喔曕副喔斷釜喔脆笝喙冟笀喔о箞喔侧竸喔о福喙€喔｀傅喔⑧竵喙冟笂喙夃釜喔勦福喔脆笡喔曕箤喔福喔粪腑喙勦浮喙?&lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: 喙€喔о腑喔｀箤喔娻副喔權競喔竾 userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: 喔勦赋喔笜喔脆笟喔侧涪喔傕腑喔?userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: 喔溹腹喙夃箑喔傕傅喔⑧笝 userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: 喔复喙堗竾喔椸傅喙?userscript 喔曕箟喔竾喔佮覆喔?喔曕副喔о腑喔⑧箞喔侧竾喙€喔娻箞喔?&lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: 喔曕副喔斷釜喔脆笝喙冟笀喔о箞喔侧箑喔∴阜喙堗腑喙勦斧喔｀箞喔竸喔｀复喔涏笗喙屶笀喔班笚喔赤竾喔侧笝 &lt;tt>document-start&lt;/tt> 喙冟笂喙夃箑喔炧阜喙堗腑喔夃傅喔斷釜喔勦福喔脆笡喔曕箤喔佮箞喔笝喔笝喙夃覆喙€喔о箛喔氞箓喔弗喔?&lt;tt>document-end&lt;/tt> 喙冟笂喙夃箑喔炧阜喙堗腑喔夃傅喔斷釜喔勦福喔脆笡喔曕箤喔弗喔编竾喔堗覆喔佮斧喔權箟喔侧箑喔о箛喔氞箓喔弗喔?&lt;tt>document-idle&lt;/tt> 喙冟笂喙夃箑喔炧阜喙堗腑喔夃傅喔斷釜喔勦福喔脆笡喔曕箤喔弗喔编竾喔堗覆喔佮斧喔權箟喔侧箑喔о箛喔氞腑喔⑧腹喙堗箖喔權釜喔栢覆喔權赴 idle &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: 喔｀赴喔氞父喔о箞喔?API 喔炧复喙€喔ㄠ俯 GM_* 喙冟笖喔勦抚喔｀箘喔斷箟喔｀副喔氞腑喔權父喔嵿覆喔曕箒喔ム赴喔覆喔∴覆喔｀笘喙冟笂喙夃竾喔侧笝喙勦笖喙夃箑喔∴阜喙堗腑喔竸喔｀复喔涏笗喙屶笚喔赤竾喔侧笝&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: URL 喔椸傅喙堗釜喔侧浮喔侧福喔栢笖喔侧抚喔權箤喙傕斧喔ム笖喔竸喔｀复喔涏笗喙屶箘喔斷箟 &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: URL 喔｀腑喔囙福喔编笟喔傕腑喔?userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: URL 喔笝喙夃覆喙佮福喔佮競喔竾 userscript &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> 喙€喔涏箛喔權竵喔ム父喙堗浮喔傕腑喔?API 喔炧复喙€喔ㄠ俯喔椸傅喙堗箖喔箟喔氞福喔脆竵喔侧福喙傕笖喔?Via API 喔炧复喙€喔ㄠ俯喔椸傅喙堗福喔竾喔｀副喔氞箖喔權笡喔编笀喔堗父喔氞副喔?喙勦笖喙夃箒喔佮箞: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt> &lt;br />&lt;br /> &lt;b>喔佮覆喔｀笀喔编笟喔勦腹喙?lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> 喔佮赋喔笝喔斷竵喔庎竵喔侧福喔堗副喔氞竸喔灌箞 URL &lt;tt>@exclude-match&lt;/tt> 喔佮赋喔笝喔斷竵喔庎竵喔侧福喔堗副喔氞竸喔灌箞 喙佮笗喙堗箖喔娻箟喙€喔炧阜喙堗腑喔⑧竵喙€喔о箟喔?URL 喔椸傅喙堗笗喔｀竾喔佮副喔?喔勦弗喙夃覆喔⑧竵喔编笟 &lt;tt>@exclude&lt;/tt> &lt;br />&lt;br /> 喔曕副喔о腑喔⑧箞喔侧竾:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>喔氞弗喙囙腑喔?Metadata&lt;/b>&lt;br /> Metadata 喔曕箟喔竾喙€喔涏箛喔權箘喔涏笗喔侧浮喔｀腹喔涏箒喔氞笟:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: 喔娻阜喙堗腑喔傕腑喔?userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: 喔佮覆喔｀福喔о浮喔佮副喔權競喔竾 &lt;tt>@namespace&lt;/tt> 喙佮弗喔?&lt;tt>@name&lt;/tt> 喙€喔涏箛喔權笗喔编抚喔｀赴喔氞父喙€喔夃笧喔侧赴喔傕腑喔?userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: 喔佮赋喔笝喔斷竵喔庎箑喔炧阜喙堗腑喔曕副喔斷釜喔脆笝喙冟笀喔о箞喔侧竸喔о福喙€喔｀傅喔⑧竵喙冟笂喙夃釜喔勦福喔脆笡喔曕箤喔福喔粪腑喙勦浮喙?喙佮笝喔班笝喔赤箖喔箟喙冟笂喙?&lt;tt>@match&lt;/tt> 喙佮笚喔?&lt;tt>@include&lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: 喔о复喔樴傅喙€喔佮箞喔侧箖喔權竵喔侧福喔曕副喔斷釜喔脆笝喙冟笀喔о箞喔侧竸喔о福喙€喔｀傅喔⑧竵喙冟笂喙夃釜喔勦福喔脆笡喔曕箤喔福喔粪腑喙勦浮喙?&lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: 喙€喔о腑喔｀箤喔娻副喔權競喔竾 userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: 喔勦赋喔笜喔脆笟喔侧涪喔傕腑喔?userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: 喔复喙堗竾喔椸傅喙?userscript 喔曕箟喔竾喔佮覆喔?喔曕副喔о腑喔⑧箞喔侧竾喙€喔娻箞喔?&lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: 喔曕副喔斷釜喔脆笝喙冟笀喔о箞喔侧箑喔∴阜喙堗腑喙勦斧喔｀箞喔竸喔｀复喔涏笗喙屶笀喔班笚喔赤竾喔侧笝 &lt;tt>document-start&lt;/tt> 喙冟笂喙夃箑喔炧阜喙堗腑喔夃傅喔斷釜喔勦福喔脆笡喔曕箤喔佮箞喔笝喔笝喙夃覆喙€喔о箛喔氞箓喔弗喔?&lt;tt>document-end&lt;/tt> 喙冟笂喙夃箑喔炧阜喙堗腑喔夃傅喔斷釜喔勦福喔脆笡喔曕箤喔弗喔编竾喔堗覆喔佮斧喔權箟喔侧箑喔о箛喔氞箓喔弗喔?&lt;tt>document-idle&lt;/tt> 喙冟笂喙夃箑喔炧阜喙堗腑喔夃傅喔斷釜喔勦福喔脆笡喔曕箤喔弗喔编竾喔堗覆喔佮斧喔權箟喔侧箑喔о箛喔氞腑喔⑧腹喙堗箖喔權釜喔栢覆喔權赴 idle &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: 喔｀赴喔氞父喔о箞喔?API 喔炧复喙€喔ㄠ俯 GM_* 喙冟笖喔勦抚喔｀箘喔斷箟喔｀副喔氞腑喔權父喔嵿覆喔曕箒喔ム赴喔覆喔∴覆喔｀笘喙冟笂喙夃竾喔侧笝喙勦笖喙夃箑喔∴阜喙堗腑喔竸喔｀复喔涏笗喙屶笚喔赤竾喔侧笝&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: URL 喔椸傅喙堗釜喔侧浮喔侧福喔栢笖喔侧抚喔權箤喙傕斧喔ム笖喔竸喔｀复喔涏笗喙屶箘喔斷箟 &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: URL 喔｀腑喔囙福喔编笟喔傕腑喔?userscript &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: URL 喔笝喙夃覆喙佮福喔佮競喔竾 userscript &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> 喙€喔涏箛喔權竵喔ム父喙堗浮喔傕腑喔?API 喔炧复喙€喔ㄠ俯喔椸傅喙堗箖喔箟喔氞福喔脆竵喔侧福喙傕笖喔?Web API 喔炧复喙€喔ㄠ俯喔椸傅喙堗福喔竾喔｀副喔氞箖喔權笡喔编笀喔堗父喔氞副喔?喙勦笖喙夃箒喔佮箞: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt> &lt;br />&lt;br /> &lt;b>喔佮覆喔｀笀喔编笟喔勦腹喙?lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> 喔佮赋喔笝喔斷竵喔庎竵喔侧福喔堗副喔氞竸喔灌箞 URL &lt;tt>@exclude-match&lt;/tt> 喔佮赋喔笝喔斷竵喔庎竵喔侧福喔堗副喔氞竸喔灌箞 喙佮笗喙堗箖喔娻箟喙€喔炧阜喙堗腑喔⑧竵喙€喔о箟喔?URL 喔椸傅喙堗笗喔｀竾喔佮副喔?喔勦弗喙夃覆喔⑧竵喔编笟 &lt;tt>@exclude&lt;/tt> &lt;br />&lt;br /> 喔曕副喔о腑喔⑧箞喔侧竾:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">喔佮覆喔｀笗喔编箟喔囙竸喙堗覆喙€喔о箛喔氞箘喔嬥笗喙</string>
     <string name="ti">喔佮覆喔｀笗喔编箟喔囙竸喙堗覆喙€喔о箛喔氞箘喔嬥笗喙?(喙€喔涏复喔斷箖喔娻箟喔囙覆喔?</string>
     <string name="tj">喔傕箟喔浮喔灌弗喙€喔о箛喔氞箘喔嬥笗喙</string>
@@ -792,7 +791,7 @@ example.com###ad
     <string name="u8">999+</string>
     <string name="u9">喔涪喔灌箞喔曕箞喔</string>
     <string name="u_">喔涪喔膏笖</string>
-    <string name="ua">Via 喙勦笖喙夃笡喙夃腑喔囙竵喔编笝喔笝喙夃覆喙€喔о箛喔氞笗喙堗腑喙勦笡喔權傅喙夃箘喔∴箞喙冟斧喙夃箓喔弗喔?</string>
+    <string name="ua">Web 喙勦笖喙夃笡喙夃腑喔囙竵喔编笝喔笝喙夃覆喙€喔о箛喔氞笗喙堗腑喙勦笡喔權傅喙夃箘喔∴箞喙冟斧喙夃箓喔弗喔?</string>
     <string name="ub">喙€喔權阜喙堗腑喔囙笀喔侧竵喔曕副喔о竵喔｀腑喔囙笗喙堗腑喙勦笡喔權傅喙?</string>
     <string name="uc">喔涪喔膏笖喔箞喔侧笝喔腑喔佮箑喔傅喔⑧竾</string>
     <string name="ud">喔勦抚喔侧浮喙傕笡喔｀箞喔囙箖喔箑喔箟喔權競喔笟</string>
@@ -823,7 +822,7 @@ example.com###ad
     <string name="v2">喙佮笚喙囙笟喔栢腹喔佮笡喔脆笖喙佮弗喙夃抚</string>
     <string name="v3">喔佮覆喔｀笗喔编箟喔囙竸喙堗覆喙佮笚喙囙笟</string>
     <string name="v4">喙佮笚喙囙笟</string>
-    <string name="xh">喔傕箟喔竵喔赤斧喔權笖喔佮覆喔｀箖喔娻箟喔囙覆喔</string>
+    <string name="xh"></string>
     <string name="xi">喔傕箟喔竸喔о覆喔</string>
     <string name="xj">喔曕副喙夃竾喔勦箞喔侧競喔權覆喔斷競喙夃腑喔勦抚喔侧浮喔赋喔福喔编笟喙€喔о箛喔氞箘喔嬥笗喙屶箑喔夃笧喔侧赴</string>
     <string name="xk">喔笝喙夃覆喔⑧副喔囙箘喔∴箞喙勦笖喙夃箓喔弗喔斷箑喔曕箛喔</string>

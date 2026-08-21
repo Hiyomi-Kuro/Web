@@ -275,11 +275,11 @@
     return-void
 .end method
 
-.method public static synthetic Y2(Lxa/t;Lmark/via/common/widget/o0;)V
+.method public static synthetic Y2(Lxa/t;Lcom/android/web/common/widget/o0;)V
     .locals 4
 
     .line 1
-    new-instance v0, Lmark/via/common/widget/SizedLinearLayoutManager;
+    new-instance v0, Lcom/android/web/common/widget/SizedLinearLayoutManager;
 
     .line 2
     .line 3
@@ -291,7 +291,7 @@
     move-result-object v1
 
     .line 7
-    invoke-direct {v0, v1}, Lmark/via/common/widget/SizedLinearLayoutManager;-><init>(Landroid/content/Context;)V
+    invoke-direct {v0, v1}, Lcom/android/web/common/widget/SizedLinearLayoutManager;-><init>(Landroid/content/Context;)V
 
     .line 8
     .line 9
@@ -392,12 +392,12 @@
     move-result p0
 
     .line 58
-    invoke-virtual {v0, v1}, Lmark/via/common/widget/SizedLinearLayoutManager;->Q2(I)V
+    invoke-virtual {v0, v1}, Lcom/android/web/common/widget/SizedLinearLayoutManager;->Q2(I)V
 
     .line 59
     .line 60
     .line 61
-    invoke-virtual {v0, p0}, Lmark/via/common/widget/SizedLinearLayoutManager;->R2(I)V
+    invoke-virtual {v0, p0}, Lcom/android/web/common/widget/SizedLinearLayoutManager;->R2(I)V
 
     .line 62
     .line 63
@@ -929,7 +929,7 @@
 
     .line 146
     .line 147
-    new-instance p3, Lmark/via/common/widget/o0;
+    new-instance p3, Lcom/android/web/common/widget/o0;
 
     .line 148
     .line 149
@@ -941,7 +941,7 @@
     move-result-object v1
 
     .line 153
-    invoke-direct {p3, v1}, Lmark/via/common/widget/o0;-><init>(Landroid/content/Context;)V
+    invoke-direct {p3, v1}, Lcom/android/web/common/widget/o0;-><init>(Landroid/content/Context;)V
 
     .line 154
     .line 155

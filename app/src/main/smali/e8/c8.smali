@@ -20,7 +20,7 @@
 
 .field public p:Landroid/widget/ImageView;
 
-.field public q:Lcom/tuyafeng/support/widget/w;
+.field public q:Lcom/android/web/internal/support/widget/w;
 
 .field public r:Landroid/widget/ImageView;
 
@@ -1487,7 +1487,7 @@
     .line 521
     .line 522
     .line 523
-    new-instance v0, Lcom/tuyafeng/support/widget/w;
+    new-instance v0, Lcom/android/web/internal/support/widget/w;
 
     .line 524
     .line 525
@@ -1495,12 +1495,12 @@
 
     .line 526
     .line 527
-    invoke-direct {v0, v1}, Lcom/tuyafeng/support/widget/w;-><init>(Landroid/widget/ProgressBar;)V
+    invoke-direct {v0, v1}, Lcom/android/web/internal/support/widget/w;-><init>(Landroid/widget/ProgressBar;)V
 
     .line 528
     .line 529
     .line 530
-    iput-object v0, p0, Le8/c8;->q:Lcom/tuyafeng/support/widget/w;
+    iput-object v0, p0, Le8/c8;->q:Lcom/android/web/internal/support/widget/w;
 
     .line 531
     .line 532
@@ -1851,7 +1851,7 @@
 
     .line 7
     .line 8
-    new-instance p1, Lmark/via/common/widget/h1;
+    new-instance p1, Lcom/android/web/common/widget/h1;
 
     .line 9
     .line 10
@@ -1863,7 +1863,7 @@
     move-result-object v1
 
     .line 14
-    invoke-direct {p1, v1}, Lmark/via/common/widget/h1;-><init>(Landroid/content/Context;)V
+    invoke-direct {p1, v1}, Lcom/android/web/common/widget/h1;-><init>(Landroid/content/Context;)V
 
     .line 15
     .line 16
@@ -2238,11 +2238,11 @@
     .locals 1
 
     .line 1
-    iget-object v0, p0, Le8/c8;->q:Lcom/tuyafeng/support/widget/w;
+    iget-object v0, p0, Le8/c8;->q:Lcom/android/web/internal/support/widget/w;
 
     .line 2
     .line 3
-    invoke-virtual {v0, p1}, Lcom/tuyafeng/support/widget/w;->f(I)V
+    invoke-virtual {v0, p1}, Lcom/android/web/internal/support/widget/w;->f(I)V
 
     .line 4
     .line 5
@@ -2267,7 +2267,7 @@
 
     .line 7
     .line 8
-    instance-of v0, p1, Lmark/via/common/widget/h1;
+    instance-of v0, p1, Lcom/android/web/common/widget/h1;
 
     .line 9
     .line 10
@@ -2275,11 +2275,11 @@
 
     .line 11
     .line 12
-    check-cast p1, Lmark/via/common/widget/h1;
+    check-cast p1, Lcom/android/web/common/widget/h1;
 
     .line 13
     .line 14
-    invoke-virtual {p1}, Lmark/via/common/widget/h1;->a()V
+    invoke-virtual {p1}, Lcom/android/web/common/widget/h1;->a()V
 
     .line 15
     .line 16

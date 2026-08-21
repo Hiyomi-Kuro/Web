@@ -24,7 +24,11 @@
 
     .line 6
     .line 7
-    const-string v0, "https://c.viayoo.com/api/frontend"
+    const-string v0, "aHR0cHM6Ly9jLnZpYXlvby5jb20vYXBpL2Zyb250ZW5k"
+
+    invoke-static {v0}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v0
 
     .line 8
     .line 9
@@ -32,7 +36,11 @@
 
     .line 10
     :cond_0
-    const-string v0, "https://us-c.viayoo.com/api/frontend"
+    const-string v0, "aHR0cHM6Ly91cy1jLnZpYXlvby5jb20vYXBpL2Zyb250ZW5k"
+
+    invoke-static {v0}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v0
 
     .line 11
     .line 12

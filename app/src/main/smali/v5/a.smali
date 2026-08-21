@@ -69,7 +69,7 @@
     return-void
 .end method
 
-.method public constructor <init>(Landroid/hardware/Camera;Lcom/tuyafeng/scanner/camera/CameraSettings;)V
+.method public constructor <init>(Landroid/hardware/Camera;Lcom/android/web/internal/scanner/camera/CameraSettings;)V
     .locals 3
 
     .line 1
@@ -144,7 +144,7 @@
     move-result-object p1
 
     .line 38
-    invoke-virtual {p2}, Lcom/tuyafeng/scanner/camera/CameraSettings;->c()Z
+    invoke-virtual {p2}, Lcom/android/web/internal/scanner/camera/CameraSettings;->c()Z
 
     .line 39
     .line 40

@@ -1160,11 +1160,11 @@
     return-void
 .end method
 
-.method public Z2(Lcom/tuyafeng/support/widget/z;)V
+.method public Z2(Lcom/android/web/internal/support/widget/z;)V
     .locals 4
 
     .line 1
-    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 2
     .line 3
@@ -1181,12 +1181,12 @@
     move-result-object v0
 
     .line 10
-    invoke-static {p1, v0}, Lb9/t3;->b(Lcom/tuyafeng/support/widget/z;Ljava/lang/String;)V
+    invoke-static {p1, v0}, Lb9/t3;->b(Lcom/android/web/internal/support/widget/z;Ljava/lang/String;)V
 
     .line 11
     .line 12
     .line 13
-    new-instance v0, Lcom/tuyafeng/support/widget/z$b;
+    new-instance v0, Lcom/android/web/internal/support/widget/z$b;
 
     .line 14
     .line 15
@@ -1229,7 +1229,7 @@
     const/4 v3, 0x1
 
     .line 34
-    invoke-direct {v0, v3, v3, v1, v2}, Lcom/tuyafeng/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
+    invoke-direct {v0, v3, v3, v1, v2}, Lcom/android/web/internal/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
 
     .line 35
     .line 36
@@ -1243,7 +1243,7 @@
     .line 40
     .line 41
     .line 42
-    invoke-virtual {p1, v0, v1}, Lcom/tuyafeng/support/widget/z;->c(Lcom/tuyafeng/support/widget/z$b;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p1, v0, v1}, Lcom/android/web/internal/support/widget/z;->c(Lcom/android/web/internal/support/widget/z$b;Landroid/view/View$OnClickListener;)V
 
     .line 43
     .line 44

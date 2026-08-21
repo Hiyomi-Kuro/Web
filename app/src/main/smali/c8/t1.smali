@@ -854,7 +854,7 @@
 
     .line 142
     .line 143
-    const-string v1, "http://viayoo.com/"
+    const-string v1, "about:blank"
 
     .line 144
     .line 145
@@ -1251,7 +1251,7 @@
     move-result-object v1
 
     .line 25
-    const-class v2, Lmark/via/Shell;
+    const-class v2, Lcom/android/web/Shell;
 
     .line 26
     .line 27
@@ -1641,7 +1641,7 @@
 
     .line 10
     .line 11
-    const-string p1, "http://viayoo.com/"
+    const-string p1, "about:blank"
 
     .line 12
     .line 13

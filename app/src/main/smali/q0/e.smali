@@ -326,7 +326,7 @@
     move-exception p0
 
     # Older WebView providers may advertise the boundary incompletely; keep
-    # browsing functional and record the compatibility failure like Via does.
+    # browsing functional and record the compatibility failure like Web does.
     invoke-static {p0}, Lsc/a;->j(Ljava/lang/Throwable;)V
 
     return-void

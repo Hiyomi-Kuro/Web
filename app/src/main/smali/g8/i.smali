@@ -433,7 +433,7 @@
     move-result-object v0
 
     .line 88
-    const-string v2, "via"
+    const-string v2, "web"
 
     .line 89
     .line 90
@@ -454,7 +454,7 @@
     move-result-object v0
 
     .line 99
-    const-string v2, "via_gm"
+    const-string v2, "web_gm"
 
     .line 100
     .line 101

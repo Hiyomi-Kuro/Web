@@ -61,8 +61,8 @@
     <string name="bi">IE 11 (PC)</string>
     <string name="bk">Safari (iPhone)</string>
     <string name="bm">Nokia Browser</string>
-    <string name="bp">Sunt de acord</string>
-    <string name="bq">Trebuie s膬 fi葲i de acord cu 葯i s膬 accepta葲i to葲i termenii 卯nainte s膬 ne utiliza葲i serviciul.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="c0">Permitere odat膬</string>
     <string name="c2">Permite葲i site-ului s膬 deschid膬 %1$s?</string>
     <string name="c4">Deja setat ca prestabilit</string>
@@ -147,9 +147,7 @@ V膬 rug膬m introduce葲i-v膬 parola pentru a trimite cererea de 葯tergere."<
     <string name="ga">Nu sunt de acord</string>
     <string name="gd">Do not track</string>
     <string name="ge">Doneaz膬</string>
-    <string name="gf">"Dac膬 卯葲i place browser-ul Via, po葲i dona ca s膬 ne supor葲i.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Terminat</string>
     <string name="gi">Desc膬rcare loca葲ie</string>
     <string name="gl">Desc膬rcare finalizat膬;</string>
@@ -284,7 +282,7 @@ Dore葯te s膬 v膬 utilizeze loca葲ia"</string>
     <string name="pv">Salvare parole</string>
     <string name="q5">Paste &amp; Go</string>
     <string name="qa">Imagine</string>
-    <string name="qh">Politica de confiden葲ialitate</string>
+    <string name="qh"></string>
     <string name="qm">Merge葲i 卯napoi f膬r膬 re卯nc膬rcare</string>
     <string name="ra">Asta va lua efect dac膬 JavaScript este activat</string>
     <string name="rc">Ap膬sa葲i pentru un element pentru previzualizare, sau 葲ine葲i ap膬sat pentru a-l desc膬rca sau a face altceva cu el.</string>
@@ -309,7 +307,7 @@ Detectarea fi葯ierelor media este mai u葯oar膬 c芒nd se red膬 audio sau vid
     <string name="sp">Selectare dosar</string>
     <string name="ss">Datele acestor servere nu sunt sincronizate. Va trebui s膬 v膬 autentifica葲i din nou.</string>
     <string name="st">Dori葲i s膬 卯l seta葲i ca pagin膬 de pornire?</string>
-    <string name="su">Va fi setat ca prestabilit dup膬 deschiderea linkului %1$s. Alege葲i Via pentru a deschide linkul.</string>
+    <string name="su">Va fi setat ca prestabilit dup膬 deschiderea linkului %1$s. Alege葲i Web pentru a deschide linkul.</string>
     <string name="sv">Useragent-ul este setat ca: %1$s</string>
     <string name="sw">Setare ca browser implicit</string>
     <string name="sx">Set膬ri</string>
@@ -324,7 +322,7 @@ Detectarea fi葯ierelor media este mai u葯oar膬 c芒nd se red膬 audio sau vid
     <string name="t7">ShenMa</string>
     <string name="tb">Afi葯are buton sniffer automat</string>
     <string name="te">脦nregistrare complet膬</string>
-    <string name="tf">"Via suport膬 aproape toate filtrele Adblock Plus. 
+    <string name="tf">"Web suport膬 aproape toate filtrele Adblock Plus. 
 Pute葲i bloca cererile de la example.com a葯a: 
 ||example.com^ (sau doar example.com) 
 
@@ -354,7 +352,7 @@ Pute葲i debloca cererile speciale cu un filtru ca:
     <string name="uq">Preferin葲ele 葯i set膬rile locale vor fi suprascrise. Continua葲i?</string>
     <string name="uy">Sincronizare finalizat膬</string>
     <string name="uz">Managerul de desc膬rc膬ri al sistemului</string>
-    <string name="xh">Termeni de utilizare</string>
+    <string name="xh"></string>
     <string name="xi">Text</string>
     <string name="xs">Selector aplica葲ie</string>
     <string name="xw">Pagin膬 de pornire particularizat膬</string>

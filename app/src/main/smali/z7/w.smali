@@ -4,7 +4,7 @@
 
 
 # direct methods
-.method public static bridge synthetic a(Lmark/via/Search;)Landroid/net/Uri;
+.method public static bridge synthetic a(Lcom/android/web/Search;)Landroid/net/Uri;
     .locals 0
 
     .line 1

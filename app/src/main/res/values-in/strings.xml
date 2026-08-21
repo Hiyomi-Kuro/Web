@@ -88,8 +88,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">Setuju</string>
-    <string name="bq">Anda harus menyetujui dan menerima semua persyaratan sebelum anda mulai menggunakan layanan kami.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">AI</string>
     <string name="bs">Prompt AI</string>
     <string name="bt">Penyedia layanan AI</string>
@@ -106,7 +106,7 @@
     <string name="c4">Sudah ditetapkan sebagai default</string>
     <string name="c5">Selalu pulihkan</string>
     <string name="c7">Kunci API</string>
-    <string name="c8">Via sedang mengunduh berkas</string>
+    <string name="c8">Web sedang mengunduh berkas</string>
     <string name="c9">Ketuk untuk melihat unduhan</string>
     <string name="c_">Web</string>
     <string name="ca">Tampilan</string>
@@ -264,9 +264,7 @@ Silakan masukkan kata sandi anda untuk mengirimkan permintaan."</string>
     <string name="gc">Minta situs web untuk tidak menjual atau membagikan data anda untuk melindungi privasi (percobaan)</string>
     <string name="gd">Jangan lacak</string>
     <string name="ge">Donasi</string>
-    <string name="gf">"Jika anda menyukai Via browser, Anda dapat berdonasi untuk mendukung kami.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Selesai</string>
     <string name="gh">Jangan ingatkan saya lagi</string>
     <string name="gi">Lokasi unduhan</string>
@@ -297,7 +295,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">Tab duplikat</string>
     <string name="h8">Edit filter langganan</string>
     <string name="h9">Edit kode sumber</string>
-    <string name="h_">Email ku</string>
+    <string name="h_"></string>
     <string name="ha">Kosong</string>
     <string name="hb">Silakan masukkan kata sandi anda</string>
     <string name="hc">Silakan masukkan nama pengguna anda</string>
@@ -522,7 +520,7 @@ Ingin menggunakan lokasi anda"</string>
     <string name="n4">Izin penyimpanan untuk lokasi unduhan telah dicabut. Silakan pilih kembali lokasi folder unduhan.</string>
     <string name="n5">Yakin ingin menyetel ulang konfigurasi situs untuk %1$s?</string>
     <string name="n6">Saat menggunakan bilah alamat, sarankan</string>
-    <string name="n7">Dengan menggunakan Via, Anda menyetujui %1$s dan %2$s kami.</string>
+    <string name="n7"></string>
     <string name="n8">Template pesan</string>
     <string name="n9">Yakin ingin memperbarui \"%1$s\"(%2$s -> %3$s)?</string>
     <string name="n_">Metaso</string>
@@ -580,7 +578,7 @@ Ingin menggunakan lokasi anda"</string>
     <string name="op">Blokir situs untuk membuka aplikasi Anda</string>
     <string name="oq">Tidak dapat menemukan aplikasi terkait untuk membuka tautan</string>
     <string name="or">Tidak dapat menemukan aplikasi terkait untuk membuka berkas</string>
-    <string name="ot">Buka di Via</string>
+    <string name="ot">Buka di Web</string>
     <string name="ou">Buka halaman pembuatan dan pengelolaan Kunci API</string>
     <string name="ow">Lisensi sumber terbuka</string>
     <string name="ox">Buka dengan</string>
@@ -641,7 +639,7 @@ Ingin menggunakan lokasi anda"</string>
     <string name="qe">Pop-ups</string>
     <string name="qf">Tanyakan terlebih dahulu sebelum mengizinkan situs menampilkan pop-up</string>
     <string name="qg">Cetak/PDF</string>
-    <string name="qh">Kebijakan privasi</string>
+    <string name="qh"></string>
     <string name="qi">Memproses data blob...</string>
     <string name="qj">Kode QR</string>
     <string name="qk">Kode QR tidak terdeteksi</string>
@@ -651,7 +649,7 @@ Ingin menggunakan lokasi anda"</string>
     <string name="qo">Aktifkan kembali tanpa memuat ulang untuk situs tertentu.</string>
     <string name="qp">Bacakan</string>
     <string name="qq">Panel pembaca</string>
-    <string name="qr">Harap baca dan setujui %1$s dan %2$s</string>
+    <string name="qr"></string>
     <string name="qs">Pembaca disembunyikan</string>
     <string name="qt">Pembaca ditampilkan</string>
     <string name="qu">Mode baca</string>
@@ -716,7 +714,7 @@ Lebih mudah melacak berkas media saat musik atau video diputar. Pelacak sumber d
     <string name="se">Mesin pencari</string>
     <string name="sf">Cari</string>
     <string name="sg">Riwayat pencarian</string>
-    <string name="sh">Cari di Via</string>
+    <string name="sh">Cari di Web</string>
     <string name="si">Bagian pencarian</string>
     <string name="sj">Sembunyikan</string>
     <string name="sk">Perlihatkan</string>
@@ -729,7 +727,7 @@ Lebih mudah melacak berkas media saat musik atau video diputar. Pelacak sumber d
     <string name="sr">Kirim</string>
     <string name="ss">Data server ini tidak disinkronkan. Anda akan diminta untuk masuk lagi.</string>
     <string name="st">Apakah anda ingin menjadikannya sebagai beranda?</string>
-    <string name="su">Ini akan disetel sebagai default setelah membuka tautan %1$s. Silakan pilih Via untuk membuka tautan.</string>
+    <string name="su">Ini akan disetel sebagai default setelah membuka tautan %1$s. Silakan pilih Web untuk membuka tautan.</string>
     <string name="sv">Agen-pengguna ditetapkan sebagai: %1$s</string>
     <string name="sw">Tetapkan sebagai browser default</string>
     <string name="sx">Setelan</string>
@@ -751,7 +749,7 @@ Lebih mudah melacak berkas media saat musik atau video diputar. Pelacak sumber d
     <string name="tc">Tampilkan pesan singkat untuk membatalkan penutupan tab</string>
     <string name="td">Pesan singkat tidak akan ditampilkan jika mode penyamaran aktif</string>
     <string name="te">Pendaftaran berhasil</string>
-    <string name="tf">"Via mendukung hampir semua filter Adblock Plus. 
+    <string name="tf">"Web mendukung hampir semua filter Adblock Plus. 
 Anda dapat memblokir permintaan dari example.com dengan filter seperti: 
 ||example.com^ (atau cukup: example.com) 
 
@@ -763,7 +761,7 @@ example.com###ad
 
 Anda dapat membuka blokir permintaan khusus dengan filter seperti: 
 @@||example.com^"</string>
-    <string name="tg">&lt;b>Blok metadata&lt;/b>&lt;br /> Metadata harus mengikuti format:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: Nama skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: Kombinasi &lt;tt>@namespace&lt;/tt> dan &lt;tt>@name&lt;/tt> adalah pengenal unik untuk skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Menentukan aturan untuk memutuskan apakah skrip harus dijalankan. Sebaiknya gunakan &lt;tt>@match&lt;/tt> daripada &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: Cara lama untuk memutuskan apakah skrip harus dijalankan. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: Versi skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: Deskripsi skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: Penulis skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: Persyaratan skrip pengguna. Misalnya, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Putuskan kapan skrip akan dieksekusi. &lt;tt>document-start&lt;/tt> digunakan untuk menyuntikkan skrip sebelum halaman dimuat, &lt;tt>document-end&lt;/tt> digunakan untuk menyuntikkan skrip setelah pemuatan halaman, &lt;tt>document-idle&lt;/tt> digunakan untuk menyuntikkan skrip setelah halaman tidak aktif. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Tentukan GM_* APIs khusus mana yang harus diberikan dan dapat digunakan saat skrip dijalankan.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: URL tempat skrip dapat diunduh. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: URL dukungan skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: URL beranda skrip pengguna. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> adalah sekelompok API khusus yang disediakan oleh Via. API khusus yang saat ini didukung meliputi: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Pencocokan&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> menentukan aturan pencocokan URL. &lt;tt>@exclude-match&lt;/tt> menentukan aturan kecocokan tetapi digunakan untuk mengecualikan URL yang cocok, mirip dengan &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> Misalnya:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>Blok metadata&lt;/b>&lt;br /> Metadata harus mengikuti format:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: Nama skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: Kombinasi &lt;tt>@namespace&lt;/tt> dan &lt;tt>@name&lt;/tt> adalah pengenal unik untuk skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Menentukan aturan untuk memutuskan apakah skrip harus dijalankan. Sebaiknya gunakan &lt;tt>@match&lt;/tt> daripada &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: Cara lama untuk memutuskan apakah skrip harus dijalankan. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: Versi skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: Deskripsi skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: Persyaratan skrip pengguna. Misalnya, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Putuskan kapan skrip akan dieksekusi. &lt;tt>document-start&lt;/tt> digunakan untuk menyuntikkan skrip sebelum halaman dimuat, &lt;tt>document-end&lt;/tt> digunakan untuk menyuntikkan skrip setelah pemuatan halaman, &lt;tt>document-idle&lt;/tt> digunakan untuk menyuntikkan skrip setelah halaman tidak aktif. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Tentukan GM_* APIs khusus mana yang harus diberikan dan dapat digunakan saat skrip dijalankan.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: URL tempat skrip dapat diunduh. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: URL dukungan skrip pengguna. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: URL beranda skrip pengguna. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> adalah sekelompok API khusus yang disediakan oleh Web. API khusus yang saat ini didukung meliputi: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Pencocokan&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> menentukan aturan pencocokan URL. &lt;tt>@exclude-match&lt;/tt> menentukan aturan kecocokan tetapi digunakan untuk mengecualikan URL yang cocok, mirip dengan &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> Misalnya:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">Konfigurasi situs</string>
     <string name="ti">Konfigurasi situs (Diaktifkan)</string>
     <string name="tj">Informasi situs</string>
@@ -796,7 +794,7 @@ Tetap lanjutkan?"</string>
     <string name="u8">999+</string>
     <string name="u9">Tinggal</string>
     <string name="u_">Hentikan</string>
-    <string name="ua">Via telah mencegah pemuatan halaman berikut:</string>
+    <string name="ua">Web telah mencegah pemuatan halaman berikut:</string>
     <string name="ub">Karena filter berikut:</string>
     <string name="uc">Berhenti membacakan</string>
     <string name="ud">Keburaman batas</string>
@@ -827,7 +825,7 @@ Tetap lanjutkan?"</string>
     <string name="v2">Tab ditutup</string>
     <string name="v3">Pengaturan tab</string>
     <string name="v4">Tab</string>
-    <string name="xh">Syarat Penggunaan</string>
+    <string name="xh"></string>
     <string name="xi">Teks</string>
     <string name="xj">Atur ukuran teks untuk situs tertentu.</string>
     <string name="xk">Halaman belum dimuat sepenuhnya</string>

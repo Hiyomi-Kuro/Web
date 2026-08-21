@@ -64,7 +64,7 @@
     .line 9
     .line 10
     .line 11
-    const-string v1, "(function(){if(void 0!==window.__setMarkerEnabled)return;var e=!1,t=null,n=!1,r=[],i=-1;const o=function(n){t=n;if(!0===e){s(n);n.preventDefault()}};(function(){var e=document.getElementById(\"__via_marker__\");if(!e){(e=document.createElement(\"style\")).type=\"text/css\";e.charset=\"UTF-8\";e.id=\"__via_marker__\";e.appendChild(document.createTextNode(\"\"));document.head.appendChild(e)}})();function l(e){const t=document.getElementById(\"__via_marker__\");t&&(t.innerText=e?e+\"{border:5px solid red!important;}\":\"\")}function u(){return a(i)}function a(e){return e<0||e>=r.length?null:r[e]}function c(e,t){if(t){e=Math.min(Math.max(0,e),r.length);r.splice(e,0,t)}}function f(e){document.removeEventListener(e,o);document.addEventListener(e,o,!1)}function s(e){var t=e||event,n=t.srcElement?t.srcElement:t.target;d(n=n||e)}function d(e){if(!e)return;const t=(o=e)?r.indexOf(o):-1;var o;if(t<0){r=[e];i=0}else i=t;const u=m(e,[]).reverse().join(\">\");l(u);if(!0===n){try{var a=location.host;a&&window.via.postMessage(\""
+    const-string v1, "(function(){if(void 0!==window.__setMarkerEnabled)return;var e=!1,t=null,n=!1,r=[],i=-1;const o=function(n){t=n;if(!0===e){s(n);n.preventDefault()}};(function(){var e=document.getElementById(\"__web_marker__\");if(!e){(e=document.createElement(\"style\")).type=\"text/css\";e.charset=\"UTF-8\";e.id=\"__web_marker__\";e.appendChild(document.createTextNode(\"\"));document.head.appendChild(e)}})();function l(e){const t=document.getElementById(\"__web_marker__\");t&&(t.innerText=e?e+\"{border:5px solid red!important;}\":\"\")}function u(){return a(i)}function a(e){return e<0||e>=r.length?null:r[e]}function c(e,t){if(t){e=Math.min(Math.max(0,e),r.length);r.splice(e,0,t)}}function f(e){document.removeEventListener(e,o);document.addEventListener(e,o,!1)}function s(e){var t=e||event,n=t.srcElement?t.srcElement:t.target;d(n=n||e)}function d(e){if(!e)return;const t=(o=e)?r.indexOf(o):-1;var o;if(t<0){r=[e];i=0}else i=t;const u=m(e,[]).reverse().join(\">\");l(u);if(!0===n){try{var a=location.host;a&&window.web.postMessage(\""
 
     .line 12
     .line 13
@@ -78,7 +78,7 @@
     .line 17
     .line 18
     .line 19
-    const-string v1, "\",JSON.stringify({action:103,host:a,filter:u}))}catch(e){}n=!1}else window.via.postMessage(\""
+    const-string v1, "\",JSON.stringify({action:103,host:a,filter:u}))}catch(e){}n=!1}else window.web.postMessage(\""
 
     .line 20
     .line 21
@@ -167,7 +167,7 @@
     .line 9
     .line 10
     .line 11
-    const-string v1, "(function(){var e=document.getElementById(\"__via__marker_temp__\");if(e)e.innerText+=\""
+    const-string v1, "(function(){var e=document.getElementById(\"__web__marker_temp__\");if(e)e.innerText+=\""
 
     .line 12
     .line 13
@@ -181,7 +181,7 @@
     .line 17
     .line 18
     .line 19
-    const-string v1, "{display:none !important}\";else{(e=document.createElement(\"style\")).type=\"text/css\";e.charset=\"UTF-8\";e.id=\"__via__marker_temp__\";e.appendChild(document.createTextNode(\""
+    const-string v1, "{display:none !important}\";else{(e=document.createElement(\"style\")).type=\"text/css\";e.charset=\"UTF-8\";e.id=\"__web__marker_temp__\";e.appendChild(document.createTextNode(\""
 
     .line 20
     .line 21

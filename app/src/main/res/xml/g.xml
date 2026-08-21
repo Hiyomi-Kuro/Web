@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <shortcuts
   xmlns:android="http://schemas.android.com/apk/res/android">
     <shortcut android:icon="@drawable/af" android:enabled="true">
-        <intent android:targetPackage="com.android.web" android:action="mark.via.SCAN" android:targetClass="mark.via.Trampoline" />
+        <intent android:targetPackage="com.android.web" android:action="com.android.web.SCAN" android:targetClass="com.android.web.Trampoline" />
     </shortcut>
     <shortcut android:icon="@drawable/ag" android:enabled="true">
-        <intent android:targetPackage="com.android.web" android:action="mark.via.SEARCH" android:targetClass="mark.via.Trampoline" />
+        <intent android:targetPackage="com.android.web" android:action="com.android.web.SEARCH" android:targetClass="com.android.web.Trampoline" />
     </shortcut>
     <shortcut android:icon="@drawable/ae" android:enabled="true">
-        <intent android:targetPackage="com.android.web" android:action="mark.via.HISTORY" android:targetClass="mark.via.Trampoline" />
+        <intent android:targetPackage="com.android.web" android:action="com.android.web.HISTORY" android:targetClass="com.android.web.Trampoline" />
     </shortcut>
     <shortcut android:icon="@drawable/ad" android:enabled="true">
-        <intent android:targetPackage="com.android.web" android:action="mark.via.BOOKMARK" android:targetClass="mark.via.Trampoline" />
+        <intent android:targetPackage="com.android.web" android:action="com.android.web.BOOKMARK" android:targetClass="com.android.web.Trampoline" />
     </shortcut>
 </shortcuts>
 

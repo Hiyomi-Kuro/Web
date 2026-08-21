@@ -104,7 +104,7 @@
 
     .line 20
     .line 21
-    const-string p1, "http://viayoo.com/"
+    const-string p1, "about:blank"
 
     .line 22
     .line 23

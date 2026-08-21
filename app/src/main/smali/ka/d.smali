@@ -420,7 +420,7 @@
     .line 87
     .line 88
     .line 89
-    const-string v4, "// @namespace    https://viayoo.com/"
+    const-string v4, "// @namespace    Web"
 
     .line 90
     .line 91
@@ -469,7 +469,11 @@
     .line 114
     .line 115
     .line 116
-    const-string v4, "https://app.viayoo.com/addons/"
+    const-string v4, "aHR0cHM6Ly9hcHAudmlheW9vLmNvbS9hZGRvbnMv"
+
+    invoke-static {v4}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v4
 
     .line 117
     .line 118
@@ -513,11 +517,11 @@
     move-result v4
 
     .line 139
-    if-nez v4, :cond_4
+    goto :cond_4
 
     .line 140
     .line 141
-    const-string v4, "// @author       "
+    const-string v4, ""
 
     .line 142
     .line 143

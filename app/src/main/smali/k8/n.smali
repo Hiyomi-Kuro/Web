@@ -16,7 +16,7 @@
     return-void
 .end method
 
-.method public static synthetic l(Landroid/content/Context;Lcom/tuyafeng/support/widget/d;)V
+.method public static synthetic l(Landroid/content/Context;Lcom/android/web/internal/support/widget/d;)V
     .locals 2
 
     .line 1
@@ -86,7 +86,7 @@
     int-to-float v1, v1
 
     .line 33
-    invoke-virtual {p1, v0, v1}, Lcom/tuyafeng/support/widget/d;->d(FF)V
+    invoke-virtual {p1, v0, v1}, Lcom/android/web/internal/support/widget/d;->d(FF)V
 
     .line 34
     .line 35
@@ -103,7 +103,7 @@
     move-result p0
 
     .line 42
-    invoke-virtual {p1, p0}, Lcom/tuyafeng/support/widget/d;->setDrawableTint(I)V
+    invoke-virtual {p1, p0}, Lcom/android/web/internal/support/widget/d;->setDrawableTint(I)V
 
     .line 43
     .line 44
@@ -251,7 +251,7 @@
 
     .line 32
     .line 33
-    check-cast p1, Lcom/tuyafeng/support/widget/d;
+    check-cast p1, Lcom/android/web/internal/support/widget/d;
 
     .line 34
     .line 35
@@ -279,7 +279,7 @@
     const/4 v0, 0x0
 
     .line 47
-    invoke-virtual {p1, v0, p2, v0, v0}, Lcom/tuyafeng/support/widget/d;->setCompoundDrawables(Landroid/graphics/drawable/Drawable;Landroid/graphics/drawable/Drawable;Landroid/graphics/drawable/Drawable;Landroid/graphics/drawable/Drawable;)V
+    invoke-virtual {p1, v0, p2, v0, v0}, Lcom/android/web/internal/support/widget/d;->setCompoundDrawables(Landroid/graphics/drawable/Drawable;Landroid/graphics/drawable/Drawable;Landroid/graphics/drawable/Drawable;Landroid/graphics/drawable/Drawable;)V
 
     .line 48
     .line 49
@@ -295,11 +295,11 @@
 
     .line 2
     .line 3
-    new-instance v0, Lcom/tuyafeng/support/widget/d;
+    new-instance v0, Lcom/android/web/internal/support/widget/d;
 
     .line 4
     .line 5
-    invoke-direct {v0, p1}, Lcom/tuyafeng/support/widget/d;-><init>(Landroid/content/Context;)V
+    invoke-direct {v0, p1}, Lcom/android/web/internal/support/widget/d;-><init>(Landroid/content/Context;)V
 
     .line 6
     .line 7
@@ -409,7 +409,7 @@
     move-result-object p1
 
     .line 61
-    check-cast p1, Lcom/tuyafeng/support/widget/d;
+    check-cast p1, Lcom/android/web/internal/support/widget/d;
 
     .line 62
     .line 63

@@ -88,8 +88,8 @@
     <string name="bm">賲乇賵乇诏乇 賳賵讴蹖丕</string>
     <string name="bn">賵蹖賳丿賵夭 (讴乇賵賲)</string>
     <string name="bo">賵蹖賳丿賵夭 (丕蹖賳鬲乇賳鬲 丕讴爻倬賱賵乇賽乇 11)</string>
-    <string name="bp">賲蹖鈥屬矩佰屫辟</string>
-    <string name="bq">賯亘賱 丕夭 卮乇賵毓 丕爻鬲賮丕丿賴 丕夭 禺丿賲丕鬲 賲丕 亘丕蹖丿 亘丕 賴賲賴 卮乇丕蹖胤 賲賵丕賮賯鬲 讴乇丿賴 賵 丌賳 乇丕 亘倬匕蹖乇蹖丿.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">賴賵卮鈥屬呚蒂嗁堌观</string>
     <string name="bs">丿乇禺賵丕爻鬲 賴賵卮鈥屬呚蒂嗁堌观</string>
     <string name="bt">丕乇丕卅賴 讴賳賳丿賴 禺丿賲丕鬲 賴賵卮鈥屬呚蒂嗁堌观</string>
@@ -260,9 +260,7 @@
     <string name="gc">丿乇禺賵丕爻鬲 讴賳蹖丿 讴賴 賵亘鈥屫池й屫?丿丕丿賴鈥屬囏й?卮賲丕 乇丕 亘乇丕蹖 丨賮丕馗鬲 丕夭 丨乇蹖賲 禺氐賵氐蹖 賳賮乇賵卮丿 蹖丕 亘賴 丕卮鬲乇丕讴 賳诏匕丕乇丿 (丌夭賲丕蹖卮蹖)</string>
     <string name="gd">乇丿蹖丕亘蹖 賳讴賳蹖丿</string>
     <string name="ge">丨賲丕蹖鬲 賲丕賱蹖</string>
-    <string name="gf">"丕诏賴 丕夭 賲乇賵乇诏乇 賵蹖丕 禺賵卮鬲賵賳 丕賵賲丿, 賲蹖鬲賵賳蹖丿 亘丕 丨賲丕蹖鬲 賲丕賱蹖 丕夭 賲丕 倬卮鬲蹖亘丕賳蹖 讴賳蹖丿.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">丕賳噩丕賲 卮丿</string>
     <string name="gh">丿賵亘丕乇賴 蹖丕丿丌賵乇蹖 賳讴賳</string>
     <string name="gi">賲丨賱 丿丕賳賱賵丿</string>
@@ -293,7 +291,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">鬲讴乇丕乇 讴乇丿賳 夭亘丕賳賴</string>
     <string name="h8">賵蹖乇丕蹖卮 丕卮鬲乇丕讴 賮蹖賱鬲乇</string>
     <string name="h9">賵蹖乇丕蹖卮 讴丿 賲賳亘毓</string>
-    <string name="h_">丕乇爻丕賱 丕蹖賲蹖賱</string>
+    <string name="h_"></string>
     <string name="ha">禺丕賱蹖</string>
     <string name="hb">賱胤賮丕 乇賲夭毓亘賵乇 禺賵丿 乇丕 賵丕乇丿 讴賳蹖丿</string>
     <string name="hc">賱胤賮丕 賳丕賲 讴丕乇亘乇蹖 禺賵丿 乇丕 賵丕乇丿 讴賳蹖丿</string>
@@ -516,7 +514,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="n4">賲噩賵夭 丿爻鬲乇爻蹖 亘賴 賲丨賱 丿丕賳賱賵丿 賱睾賵 卮丿賴 丕爻鬲. 賱胤賮丕賸 賲丨賱 倬賵卮賴 丿丕賳賱賵丿 乇丕 賲噩丿丿丕賸 丕賳鬲禺丕亘 讴賳蹖丿.</string>
     <string name="n5">丌蹖丕 賲胤賲卅賳 賴爻鬲蹖丿 讴賴 賲蹖鈥屫堌з囒屫?鬲賳馗蹖賲丕鬲 爻丕蹖鬲 亘乇丕蹖 %1$s 乇丕 亘丕夭賳卮丕賳蹖 讴賳蹖丿責</string>
     <string name="n6">賴賳诏丕賲 丕爻鬲賮丕丿賴 丕夭 賳賵丕乇 丌丿乇爻貙 倬蹖卮賳賴丕丿 亘丿賴</string>
-    <string name="n7">亘丕 丕爻鬲賮丕丿賴 丕夭 賵蹖丕貙 亘丕 %1$s 賵 %2$s 賲丕 賲賵丕賮賯鬲 賲蹖 讴賳蹖丿.</string>
+    <string name="n7"></string>
     <string name="n8">丕賱诏賵蹖 倬蹖丕賲</string>
     <string name="n9">丌蹖丕 賲胤賲卅賳 賴爻鬲蹖丿 讴賴 賲蹖鈥屫堌з囒屫?\"%1$s\" (%2$s -> %3$s) 乇丕 亘賴鈥屫辟堌藏必池з嗃?讴賳蹖丿責</string>
     <string name="n_">Metaso</string>
@@ -632,7 +630,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="qe">倬賳噩乇賴 亘丕夭卮賵</string>
     <string name="qf">倬乇爻卮 賯亘賱 丿丕丿賳 丕噩丕夭賴 丕爻鬲賮丕丿賴 丕夭 賳賲丕蹖卮 倬賳噩乇賴 亘丕夭卮賵 亘賴 爻丕蹖鬲 賴丕</string>
     <string name="qg">趩丕倬/PDF</string>
-    <string name="qh">爻蹖丕爻鬲 丨賮馗 丨乇蹖賲 禺氐賵氐蹖</string>
+    <string name="qh"></string>
     <string name="qi">丿乇 丨丕賱 倬乇丿丕夭卮 丿丕丿賴 賴丕蹖 丨亘丕亘鈥</string>
     <string name="qj">讴丿 QR</string>
     <string name="qk">QR 讴丿 卮賳丕爻丕蹖蹖 賳卮丿.</string>
@@ -642,7 +640,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="qo">賮毓丕賱 讴乇丿賳 亘丕夭诏卮鬲 亘丿賵賳 亘丕乇诏匕丕乇蹖 賲噩丿丿 亘乇丕蹖 蹖讴 爻丕蹖鬲 禺丕氐.</string>
     <string name="qp">亘賱賳丿 禺賵丕賳丿賳</string>
     <string name="qq">氐賮丨賴 亘賱賳丿 禺賵丕賳丿賳</string>
-    <string name="qr">賱胤賮丕賸 %1$s 賵 %2$s 乇丕 亘禺賵丕賳蹖丿 賵 亘倬匕蹖乇蹖丿.</string>
+    <string name="qr"></string>
     <string name="qs">禺賵丕賳丿賳 賲禺賮蹖 丕爻鬲</string>
     <string name="qt">禺賵丕賳丿賳 丿乇 丨丕賱 賳賲丕蹖卮</string>
     <string name="qu">丨丕賱鬲 禺賵丕賳丿賳</string>
@@ -748,7 +746,7 @@ PayPal: wiar1824@gmail.com"</string>
 
 亘乇丕蹖 賮蹖賱鬲乇 毓賳氐乇 氐賮丨賴 賵亘 貙 賲丕賳賳丿: 
 鈥璭xample.com###ad鈥?</string>
-    <string name="tg">&lt;b>亘賱賵讴 賮乇丕丿丕丿賴&lt;/b>&lt;br /> 賮乇丕丿丕丿賴 亘丕蹖丿 賮乇賲鬲 乇丕 乇毓丕蹖鬲 讴賳丿:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: 賳丕賲 讴丕乇亘乇鈥屫ж弛┴臂屬矩? &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: 鬲乇讴蹖亘蹖 丕夭 &lt;tt>@namespace&lt;/tt> 賵 &lt;tt>@name&lt;/tt> 卮賳丕爻賴 賲賳丨氐乇 亘賴 賮乇丿 亘乇丕蹖 蹖讴 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: 鬲毓乇蹖賮 賯賵丕毓丿 亘乇丕蹖 鬲氐賲蹖賲鈥屭屫臂?丿乇亘丕乇賴 丕蹖賳讴賴 丌蹖丕 蹖讴 丕爻讴乇蹖倬鬲 亘丕蹖丿 丕噩乇丕 卮賵丿 蹖丕 禺蹖乇. 倬蹖卮賳賴丕丿 賲蹖鈥屫促堌?讴賴 丕夭 &lt;tt>@match&lt;/tt> 亘賴 噩丕蹖 &lt;tt>@include&lt;/tt> 丕爻鬲賮丕丿賴 卮賵丿. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: 乇賵卮 賯丿蹖賲蹖 亘乇丕蹖 鬲氐賲蹖賲鈥屭屫臂?丿乇 賲賵乇丿 丕蹖賳讴賴 丌蹖丕 蹖讴 丕爻讴乇蹖倬鬲 亘丕蹖丿 丕噩乇丕 卮賵丿 蹖丕 禺蹖乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: 賳爻禺賴 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: 卮乇丨 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: 賳賵蹖爻賳丿賴 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: 賳蹖丕夭 丕爻讴乇蹖倬鬲 讴丕乇亘乇. 亘賴 毓賳賵丕賳 賲孬丕賱貙 &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: 鬲氐賲蹖賲 亘诏蹖乇蹖丿 讴賴 丕爻讴乇蹖倬鬲 趩賴 夭賲丕賳蹖 丕噩乇丕 卮賵丿. &lt;tt>document-start&lt;/tt>亘乇丕蹖 鬲夭乇蹖賯 丕爻讴乇蹖倬鬲 賴丕 賯亘賱 丕夭 亘丕乇诏蹖乇蹖 氐賮丨賴貙 &lt;tt>document-end&lt;/tt> 亘乇丕蹖 鬲夭乇蹖賯 丕爻讴乇蹖倬鬲 賴丕 倬爻 丕夭 亘丕乇诏蹖乇蹖 氐賮丨賴貙 &lt;tt>document-idle&lt;/tt> 亘乇丕蹖 鬲夭乇蹖賯 丕爻讴乇蹖倬鬲 賴丕 倬爻 丕夭 亘蹖讴丕乇蹖 氐賮丨賴 丕爻鬲賮丕丿賴 賲蹖 卮賵丿. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: 賲卮禺氐 讴賳蹖丿 讴丿丕賲 API賴丕蹖 賵蹖跇賴 GM_* 亘丕蹖丿 丕毓胤丕 卮賵賳丿 賵 賲蹖鈥屫堌з嗁嗀?賴賳诏丕賲 丕噩乇丕蹖 丕爻讴乇蹖倬鬲 丕爻鬲賮丕丿賴 卮賵賳丿.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: 丌丿乇爻 丕蹖賳鬲乇賳鬲蹖 讴賴 丕爻讴乇蹖倬鬲 丕夭 丌賳 賯丕亘賱 丿丕賳賱賵丿 丕爻鬲. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: 賳卮丕賳蹖 丕蹖賳鬲乇賳鬲蹖 倬卮鬲蹖亘丕賳蹖 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: 賳卮丕賳蹖 賵亘 氐賮丨賴 丕氐賱蹖 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> 诏乇賵賴蹖 丕夭 API賴丕蹖 賵蹖跇賴 丕乇丕卅賴 卮丿賴 鬲賵爻胤 賵蹖丕 賴爻鬲賳丿. API 賴丕蹖 賵蹖跇賴 丕蹖 讴賴 丿乇 丨丕賱 丨丕囟乇 倬卮鬲蹖亘丕賳蹖 賲蹖 卮賵賳丿 毓亘丕乇鬲賳丿 丕夭: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Matching&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> 賯丕賳賵賳 鬲胤亘蹖賯 賳卮丕賳蹖 乇丕 鬲毓乇蹖賮 賲蹖 讴賳丿. &lt;tt>@exclude-match&lt;/tt> 蹖讴 賯丕賳賵賳 鬲胤丕亘賯 乇丕 鬲毓乇蹖賮 賲蹖 讴賳丿貙 丕賲丕 亘乇丕蹖 丨匕賮 賳卮丕賳蹖 賴丕蹖 賲賳胤亘賯貙 卮亘蹖賴 亘賴 &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> 亘乇丕蹖 賲孬丕賱:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>亘賱賵讴 賮乇丕丿丕丿賴&lt;/b>&lt;br /> 賮乇丕丿丕丿賴 亘丕蹖丿 賮乇賲鬲 乇丕 乇毓丕蹖鬲 讴賳丿:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: 賳丕賲 讴丕乇亘乇鈥屫ж弛┴臂屬矩? &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: 鬲乇讴蹖亘蹖 丕夭 &lt;tt>@namespace&lt;/tt> 賵 &lt;tt>@name&lt;/tt> 卮賳丕爻賴 賲賳丨氐乇 亘賴 賮乇丿 亘乇丕蹖 蹖讴 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: 鬲毓乇蹖賮 賯賵丕毓丿 亘乇丕蹖 鬲氐賲蹖賲鈥屭屫臂?丿乇亘丕乇賴 丕蹖賳讴賴 丌蹖丕 蹖讴 丕爻讴乇蹖倬鬲 亘丕蹖丿 丕噩乇丕 卮賵丿 蹖丕 禺蹖乇. 倬蹖卮賳賴丕丿 賲蹖鈥屫促堌?讴賴 丕夭 &lt;tt>@match&lt;/tt> 亘賴 噩丕蹖 &lt;tt>@include&lt;/tt> 丕爻鬲賮丕丿賴 卮賵丿. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: 乇賵卮 賯丿蹖賲蹖 亘乇丕蹖 鬲氐賲蹖賲鈥屭屫臂?丿乇 賲賵乇丿 丕蹖賳讴賴 丌蹖丕 蹖讴 丕爻讴乇蹖倬鬲 亘丕蹖丿 丕噩乇丕 卮賵丿 蹖丕 禺蹖乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: 賳爻禺賴 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: 卮乇丨 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: 賳蹖丕夭 丕爻讴乇蹖倬鬲 讴丕乇亘乇. 亘賴 毓賳賵丕賳 賲孬丕賱貙 &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: 鬲氐賲蹖賲 亘诏蹖乇蹖丿 讴賴 丕爻讴乇蹖倬鬲 趩賴 夭賲丕賳蹖 丕噩乇丕 卮賵丿. &lt;tt>document-start&lt;/tt>亘乇丕蹖 鬲夭乇蹖賯 丕爻讴乇蹖倬鬲 賴丕 賯亘賱 丕夭 亘丕乇诏蹖乇蹖 氐賮丨賴貙 &lt;tt>document-end&lt;/tt> 亘乇丕蹖 鬲夭乇蹖賯 丕爻讴乇蹖倬鬲 賴丕 倬爻 丕夭 亘丕乇诏蹖乇蹖 氐賮丨賴貙 &lt;tt>document-idle&lt;/tt> 亘乇丕蹖 鬲夭乇蹖賯 丕爻讴乇蹖倬鬲 賴丕 倬爻 丕夭 亘蹖讴丕乇蹖 氐賮丨賴 丕爻鬲賮丕丿賴 賲蹖 卮賵丿. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: 賲卮禺氐 讴賳蹖丿 讴丿丕賲 API賴丕蹖 賵蹖跇賴 GM_* 亘丕蹖丿 丕毓胤丕 卮賵賳丿 賵 賲蹖鈥屫堌з嗁嗀?賴賳诏丕賲 丕噩乇丕蹖 丕爻讴乇蹖倬鬲 丕爻鬲賮丕丿賴 卮賵賳丿.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: 丌丿乇爻 丕蹖賳鬲乇賳鬲蹖 讴賴 丕爻讴乇蹖倬鬲 丕夭 丌賳 賯丕亘賱 丿丕賳賱賵丿 丕爻鬲. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: 賳卮丕賳蹖 丕蹖賳鬲乇賳鬲蹖 倬卮鬲蹖亘丕賳蹖 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: 賳卮丕賳蹖 賵亘 氐賮丨賴 丕氐賱蹖 丕爻讴乇蹖倬鬲 讴丕乇亘乇. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> 诏乇賵賴蹖 丕夭 API賴丕蹖 賵蹖跇賴 丕乇丕卅賴 卮丿賴 鬲賵爻胤 賵蹖丕 賴爻鬲賳丿. API 賴丕蹖 賵蹖跇賴 丕蹖 讴賴 丿乇 丨丕賱 丨丕囟乇 倬卮鬲蹖亘丕賳蹖 賲蹖 卮賵賳丿 毓亘丕乇鬲賳丿 丕夭: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Matching&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> 賯丕賳賵賳 鬲胤亘蹖賯 賳卮丕賳蹖 乇丕 鬲毓乇蹖賮 賲蹖 讴賳丿. &lt;tt>@exclude-match&lt;/tt> 蹖讴 賯丕賳賵賳 鬲胤丕亘賯 乇丕 鬲毓乇蹖賮 賲蹖 讴賳丿貙 丕賲丕 亘乇丕蹖 丨匕賮 賳卮丕賳蹖 賴丕蹖 賲賳胤亘賯貙 卮亘蹖賴 亘賴 &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> 亘乇丕蹖 賲孬丕賱:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">倬蹖讴乇亘賳丿蹖 爻丕蹖鬲</string>
     <string name="ti">倬蹖讴乇亘賳丿蹖 爻丕蹖鬲 (賮毓丕賱)</string>
     <string name="tj">丕胤賱丕毓丕鬲 爻丕蹖鬲</string>
@@ -810,7 +808,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="v2">夭亘丕賳賴 亘爻鬲賴 卮丿.</string>
     <string name="v3">鬲賳馗蹖賲丕鬲 夭亘丕賳賴</string>
     <string name="v4">夭亘丕賳賴鈥屬囏</string>
-    <string name="xh">賳丨賵賴 丕爻鬲賮丕丿賴</string>
+    <string name="xh"></string>
     <string name="xi">賲鬲賳</string>
     <string name="xj">鬲賳馗蹖賲 丕賳丿丕夭賴 賲鬲賳 亘乇丕蹖 蹖讴 爻丕蹖鬲 禺丕氐.</string>
     <string name="xk">氐賮丨賴 亘賴鈥屫焚堌?讴丕賲賱 亘丕乇诏匕丕乇蹖 賳卮丿賴</string>

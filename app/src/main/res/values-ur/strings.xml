@@ -88,8 +88,8 @@
     <string name="bm">爻賲亘蹖賳 (Symbian)</string>
     <string name="bn">賵賳趫賵夭 (Chrome)</string>
     <string name="bo">賵賳趫賵夭 (IE 11)</string>
-    <string name="bp">丕鬲賮丕賯 讴乇蹖诤</string>
-    <string name="bq">蹃賲丕乇蹖 爻乇賵爻 丕爻鬲毓賲丕賱 讴乇賳蹝 爻蹝 倬蹃賱蹝 丌倬 讴賵 鬲賲丕賲 卮乇丕卅胤 爻蹝 丕鬲賮丕賯 讴乇賳丕 丕賵乇 丕賳蹃蹖诤 賯亘賵賱 讴乇賳丕 蹃賵诏丕蹟</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">丕蹝 丌卅蹖 (AI)</string>
     <string name="bs">丕蹝 丌卅蹖 倬乇丕賲倬俟 (AI prompt)</string>
     <string name="bt">丕蹝 丌卅蹖 爻乇賵爻 倬乇賵賵丕卅蹖趫乇</string>
@@ -106,7 +106,7 @@
     <string name="c4">蹖蹃 倬蹃賱蹝 爻蹝 蹃蹖 趫蹖賮丕賱俟 爻蹖俟 蹃蹝蹟</string>
     <string name="c5">蹃賲蹖卮蹃 亘丨丕賱 讴乇蹖诤</string>
     <string name="c7">丕蹝 倬蹖 丌卅蹖 讴蹖 (API key)</string>
-    <string name="c8">Via 賮丕卅賱蹖诤 趫丕丐賳 賱賵趫 讴乇 乇蹃丕 蹃蹝</string>
+    <string name="c8">Web 賮丕卅賱蹖诤 趫丕丐賳 賱賵趫 讴乇 乇蹃丕 蹃蹝</string>
     <string name="c9">趫丕丐賳 賱賵趫夭 丿蹖讴诰賳蹝 讴蹝 賱蹖蹝 鬲诰倬鬲诰倬丕卅蹖诤</string>
     <string name="c_">Web</string>
     <string name="ca">丿讴诰丕賵俟 (Appearance)</string>
@@ -264,9 +264,7 @@
     <string name="gc">倬乇丕卅蹖賵蹖爻蹖 讴蹖 丨賮丕馗鬲 讴蹝 賱蹖蹝 賵蹖亘 爻丕卅俟 爻蹝 丿乇禺賵丕爻鬲 讴乇蹖诤 讴蹃 賵蹃 賲蹖乇丕 趫蹖俟丕 賮乇賵禺鬲 蹖丕 卮蹖卅乇 賳蹃 讴乇蹝 (鬲噩乇亘丕鬲蹖)</string>
     <string name="gd">俟乇蹖讴 賳蹃 讴乇蹖诤 (Do not track)</string>
     <string name="ge">毓胤蹖蹃 讴乇蹖诤</string>
-    <string name="gf">"丕诏乇 丌倬 讴賵 Via 亘乇丕丐夭乇 倬爻賳丿 蹃蹝貙 鬲賵 丌倬 蹃賲丕乇蹖 賲丿丿 讴蹝 賱蹖蹝 毓胤蹖蹃 讴乇 爻讴鬲蹝 蹃蹖诤蹟
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">趫賳 (Done)</string>
     <string name="gh">賲噩诰蹝 丿賵亘丕乇蹃 蹖丕丿 賳蹃 丿賱丕卅蹖诤</string>
     <string name="gi">趫丕丐賳 賱賵趫 賱賵讴蹖卮賳</string>
@@ -297,7 +295,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">趫倬賱蹖讴蹖俟 俟蹖亘 亘賳丕卅蹖诤</string>
     <string name="h8">賮賱俟乇 爻亘爻讴乇倬卮賳 丕蹖趫俟 讴乇蹖诤</string>
     <string name="h9">爻賵乇爻 讴賵趫 丕蹖趫俟 讴乇蹖诤</string>
-    <string name="h_">賲噩诰蹝 丕蹖 賲蹖賱 讴乇蹖诤</string>
+    <string name="h_"></string>
     <string name="ha">禺丕賱蹖</string>
     <string name="hb">亘乇丕蹃 讴乇賲 丕倬賳丕 倬丕爻 賵乇趫 賱讴诰蹖诤</string>
     <string name="hc">亘乇丕蹃 讴乇賲 丕倬賳丕 蹖賵夭乇 賳蹖賲 賱讴诰蹖诤</string>
@@ -520,7 +518,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="n4">趫丕丐賳 賱賵趫 賱賵讴蹖卮賳 讴蹝 賱蹖蹝 丕爻俟賵乇蹖噩 讴蹖 丕噩丕夭鬲 賲賳爻賵禺 讴乇 丿蹖 诏卅蹖 蹃蹝蹟 亘乇丕蹃 讴乇賲 趫丕丐賳 賱賵趫 賮賵賱趫乇 讴蹖 賱賵讴蹖卮賳 丿賵亘丕乇蹃 賲賳鬲禺亘 讴乇蹖诤蹟</string>
     <string name="n5">讴蹖丕 丌倬 賵丕賯毓蹖 %1$s 讴蹝 賱蹖蹝 爻丕卅俟 讴賳賮蹖诏乇蹖卮賳 乇蹖 爻蹖俟 讴乇賳丕 趩丕蹃鬲蹝 蹃蹖诤責</string>
     <string name="n6">丕蹖趫乇蹖爻 亘丕乇 丕爻鬲毓賲丕賱 讴乇鬲蹝 賵賯鬲貙 鬲噩賵蹖夭 讴乇蹖诤</string>
-    <string name="n7">Via 丕爻鬲毓賲丕賱 讴乇 讴蹝貙 丌倬 蹃賲丕乇蹖 %1$s 丕賵乇 %2$s 爻蹝 丕鬲賮丕賯 讴乇鬲蹝 蹃蹖诤蹟</string>
+    <string name="n7"></string>
     <string name="n8">賲蹖爻噩 俟蹖賲倬賱蹖俟</string>
     <string name="n9">讴蹖丕 丌倬 賵丕賯毓蹖 \"%1$s\"(%2$s -> %3$s) 讴賵 丕倬 趫蹖俟 讴乇賳丕 趩丕蹃鬲蹝 蹃蹖诤責</string>
     <string name="n_">Metaso</string>
@@ -578,7 +576,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="op">爻丕卅俟爻 讴賵 丌倬 讴蹖 丕蹖倬 讴诰賵賱賳蹝 爻蹝 亘賱丕讴 讴乇蹖诤</string>
     <string name="oq">賱賳讴 讴诰賵賱賳蹝 讴蹝 賱蹖蹝 賲鬲毓賱賯蹃 丕蹖倬 賳蹃蹖诤 賲賱蹖</string>
     <string name="or">賮丕卅賱 讴诰賵賱賳蹝 讴蹝 賱蹖蹝 賲鬲毓賱賯蹃 丕蹖倬 賳蹃蹖诤 賲賱蹖</string>
-    <string name="ot">Via 賲蹖诤 讴诰賵賱蹖诤</string>
+    <string name="ot">Web 賲蹖诤 讴诰賵賱蹖诤</string>
     <string name="ou">API 讴蹖 (Key) 亘賳丕賳蹝 丕賵乇 賲蹖賳蹖噩 讴乇賳蹝 讴丕 倬蹖噩 讴诰賵賱蹖诤</string>
     <string name="ow">丕賵倬賳 爻賵乇爻 賱丕卅爻賳爻夭</string>
     <string name="ox">丕爻 讴蹝 爻丕鬲诰 讴诰賵賱蹖诤</string>
@@ -639,7 +637,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="qe">倬丕倬 丕倬爻 (Pop-ups)</string>
     <string name="qf">爻丕卅俟爻 讴賵 倬丕倬 丕倬爻 丿讴诰丕賳蹝 讴蹖 丕噩丕夭鬲 丿蹖賳蹝 爻蹝 倬蹃賱蹝 倬賵趩诰蹖诤</string>
     <string name="qg">倬乇賳俟 / 倬蹖 趫蹖 丕蹖賮 (PDF)</string>
-    <string name="qh">倬乇丕卅蹖賵蹖爻蹖 倬丕賱蹖爻蹖</string>
+    <string name="qh"></string>
     <string name="qi">亘賱丕賵亘 (blob) 趫蹖俟丕 倬乇賵爻蹖爻 蹃賵 乇蹃丕 蹃蹝鈥</string>
     <string name="qj">讴蹖賵 丌乇 (QR) 讴賵趫</string>
     <string name="qk">讴蹖賵 丌乇 讴賵趫 賳蹃蹖诤 賲賱丕</string>
@@ -649,7 +647,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="qo">讴爻蹖 禺丕氐 爻丕卅俟 讴蹝 賱蹖蹝 乇蹖賱賵趫 讴蹖蹝 亘睾蹖乇 倬蹖趩诰蹝 噩丕賳丕 丌賳 讴乇蹖诤蹟</string>
     <string name="qp">倬趹诰 讴乇 爻賳丕卅蹖诤</string>
     <string name="qq">倬趹诰 讴乇 爻賳丕賳蹝 讴丕 倬蹖賳賱</string>
-    <string name="qr">亘乇丕蹃 讴乇賲 %1$s 丕賵乇 %2$s 倬趹诰蹖诤 丕賵乇 賲鬲賮賯 蹃賵诤</string>
+    <string name="qr"></string>
     <string name="qs">乇蹖趫乇 趩诰倬丕蹖丕 诏蹖丕 蹃蹝</string>
     <string name="qt">乇蹖趫乇 丿讴诰丕蹖丕 诏蹖丕 蹃蹝</string>
     <string name="qu">乇蹖趫乇 賲賵趫</string>
@@ -714,7 +712,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="se">爻乇趩 丕賳噩賳夭</string>
     <string name="sf">鬲賱丕卮 讴乇蹖诤</string>
     <string name="sg">爻乇趩 蹃爻俟乇蹖</string>
-    <string name="sh">Via 賲蹖诤 鬲賱丕卮 讴乇蹖诤</string>
+    <string name="sh">Web 賲蹖诤 鬲賱丕卮 讴乇蹖诤</string>
     <string name="si">爻乇趩 讴丕 丨氐蹃</string>
     <string name="sj">趩诰倬丕卅蹖诤</string>
     <string name="sk">丿讴诰丕卅蹖诤</string>
@@ -727,7 +725,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="sr">亘诰蹖噩蹖诤</string>
     <string name="ss">丕賳 爻乇賵乇夭 讴丕 趫蹖俟丕 爻賳讴 賳蹃蹖诤 蹃蹝蹟 丌倬 讴賵 丿賵亘丕乇蹃 賱丕诏 丕賳 讴乇賳丕 倬趹蹝 诏丕蹟</string>
     <string name="st">讴蹖丕 丌倬 丕爻蹝 蹃賵賲 倬蹖噩 亘賳丕賳丕 趩丕蹃鬲蹝 蹃蹖诤責</string>
-    <string name="su">賱賳讴 %1$s 讴诰賵賱賳蹝 讴蹝 亘毓丿 丕爻蹝 趫蹖賮丕賱俟 讴蹝 胤賵乇 倬乇 爻蹖俟 讴乇 丿蹖丕 噩丕卅蹝 诏丕蹟 亘乇丕蹃 讴乇賲 賱賳讴 讴诰賵賱賳蹝 讴蹝 賱蹖蹝 Via 讴賵 賲賳鬲禺亘 讴乇蹖诤蹟</string>
+    <string name="su">賱賳讴 %1$s 讴诰賵賱賳蹝 讴蹝 亘毓丿 丕爻蹝 趫蹖賮丕賱俟 讴蹝 胤賵乇 倬乇 爻蹖俟 讴乇 丿蹖丕 噩丕卅蹝 诏丕蹟 亘乇丕蹃 讴乇賲 賱賳讴 讴诰賵賱賳蹝 讴蹝 賱蹖蹝 Web 讴賵 賲賳鬲禺亘 讴乇蹖诤蹟</string>
     <string name="sv">蹖賵夭乇 丕蹖噩賳俟 爻蹖俟 蹃蹝: %1$s</string>
     <string name="sw">趫蹖賮丕賱俟 亘乇丕丐夭乇 爻蹖俟 讴乇蹖诤</string>
     <string name="sx">爻蹖俟賳诏夭</string>
@@ -749,7 +747,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="tc">俟蹖亘 亘賳丿 讴乇賳蹝 讴賵 丕賳 趫賵 (undo) 讴乇賳蹝 讴蹝 賱蹖蹝 俟賵爻俟 丿讴诰丕卅蹖诤</string>
     <string name="td">丕诏乇 丕賳讴賵诏賳蹖俟賵 賲賵趫 丌賳 蹃蹝 鬲賵 俟賵爻俟 賳蹃蹖诤 丿讴诰丕蹖丕 噩丕卅蹝 诏丕</string>
     <string name="te">爻丕卅賳 丕倬 讴丕賲蹖丕亘</string>
-    <string name="tf">"Via 鬲賯乇蹖亘丕賸 鬲賲丕賲 丕蹖趫 亘賱丕讴 倬賱爻 賮賱俟乇夭 讴賵 爻倬賵乇俟 讴乇鬲丕 蹃蹝蹟 
+    <string name="tf">"Web 鬲賯乇蹖亘丕賸 鬲賲丕賲 丕蹖趫 亘賱丕讴 倬賱爻 賮賱俟乇夭 讴賵 爻倬賵乇俟 讴乇鬲丕 蹃蹝蹟 
 丌倬 讴爻蹖 賮賱俟乇 讴蹝 匕乇蹖毓蹝 example.com 爻蹝 丿乇禺賵丕爻鬲蹖诤 亘賱丕讴 讴乇 爻讴鬲蹝 蹃蹖诤 噩蹖爻蹝: 
 ||example.com^ (蹖丕 氐乇賮: example.com) 
 
@@ -794,7 +792,7 @@ example.com###ad
     <string name="u8">+999</string>
     <string name="u9">乇讴蹖诤</string>
     <string name="u_">乇賵讴蹖诤</string>
-    <string name="ua">Via 賳蹝 丿乇噩 匕蹖賱 倬蹖噩 讴賵 賱賵趫 蹃賵賳蹝 爻蹝 乇賵讴 丿蹖丕 蹃蹝:</string>
+    <string name="ua">Web 賳蹝 丿乇噩 匕蹖賱 倬蹖噩 讴賵 賱賵趫 蹃賵賳蹝 爻蹝 乇賵讴 丿蹖丕 蹃蹝:</string>
     <string name="ub">丕爻 賮賱俟乇 讴蹖 賵噩蹃 爻蹝:</string>
     <string name="uc">倬趹诰 讴乇 爻賳丕賳丕 亘賳丿 讴乇蹖诤</string>
     <string name="ud">亘丕乇趫乇 讴蹖 丕賵倬蹖爻俟蹖 (Opacity)</string>
@@ -825,7 +823,7 @@ example.com###ad
     <string name="v2">俟蹖亘 亘賳丿 蹃蹝</string>
     <string name="v3">俟蹖亘 爻蹖俟賳诏夭</string>
     <string name="v4">俟蹖亘夭</string>
-    <string name="xh">丕爻鬲毓賲丕賱 讴蹖 卮乇丕卅胤</string>
+    <string name="xh"></string>
     <string name="xi">俟蹖讴爻俟</string>
     <string name="xj">讴爻蹖 禺丕氐 爻丕卅俟 讴蹝 賱蹖蹝 俟蹖讴爻俟 讴丕 爻丕卅夭 爻蹖俟 讴乇蹖诤蹟</string>
     <string name="xk">倬蹖噩 倬賵乇蹖 胤乇丨 賱賵趫 賳蹃蹖诤 蹃賵丕 蹃蹝</string>

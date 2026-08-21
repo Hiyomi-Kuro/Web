@@ -66,7 +66,7 @@
 
     .line 11
     .line 12
-    invoke-static {v0}, Lv5/b;->a(Lv5/b;)Lcom/tuyafeng/scanner/camera/b;
+    invoke-static {v0}, Lv5/b;->a(Lv5/b;)Lcom/android/web/internal/scanner/camera/b;
 
     .line 13
     .line 14
@@ -74,7 +74,7 @@
     move-result-object v0
 
     .line 16
-    invoke-virtual {v0}, Lcom/tuyafeng/scanner/camera/b;->v()V
+    invoke-virtual {v0}, Lcom/android/web/internal/scanner/camera/b;->v()V
 
     .line 17
     .line 18
@@ -83,7 +83,7 @@
 
     .line 20
     .line 21
-    invoke-static {v0}, Lv5/b;->a(Lv5/b;)Lcom/tuyafeng/scanner/camera/b;
+    invoke-static {v0}, Lv5/b;->a(Lv5/b;)Lcom/android/web/internal/scanner/camera/b;
 
     .line 22
     .line 23
@@ -91,7 +91,7 @@
     move-result-object v0
 
     .line 25
-    invoke-virtual {v0}, Lcom/tuyafeng/scanner/camera/b;->d()V
+    invoke-virtual {v0}, Lcom/android/web/internal/scanner/camera/b;->d()V
     :try_end_0
     .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
 

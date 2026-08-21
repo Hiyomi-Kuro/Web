@@ -1210,11 +1210,11 @@
     return-void
 .end method
 
-.method public Z2(Lcom/tuyafeng/support/widget/z;)V
+.method public Z2(Lcom/android/web/internal/support/widget/z;)V
     .locals 1
 
     .line 1
-    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 2
     .line 3
@@ -1231,7 +1231,7 @@
     move-result-object v0
 
     .line 10
-    invoke-static {p1, v0}, Lb9/t3;->b(Lcom/tuyafeng/support/widget/z;Ljava/lang/String;)V
+    invoke-static {p1, v0}, Lb9/t3;->b(Lcom/android/web/internal/support/widget/z;Ljava/lang/String;)V
 
     .line 11
     .line 12
@@ -1401,7 +1401,7 @@
     move-result-object v0
 
     .line 11
-    check-cast v0, Lcom/tuyafeng/support/widget/y;
+    check-cast v0, Lcom/android/web/internal/support/widget/y;
 
     .line 12
     .line 13
@@ -1409,7 +1409,7 @@
 
     .line 14
     .line 15
-    invoke-virtual {v0, p1}, Lcom/tuyafeng/support/widget/y;->setGestureEnabled(Z)V
+    invoke-virtual {v0, p1}, Lcom/android/web/internal/support/widget/y;->setGestureEnabled(Z)V
 
     .line 16
     .line 17

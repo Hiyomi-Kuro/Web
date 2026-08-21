@@ -5,7 +5,7 @@
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingMethod;
-    value = Lq8/h$b;->b(Lcom/tuyafeng/support/widget/z;)V
+    value = Lq8/h$b;->b(Lcom/android/web/internal/support/widget/z;)V
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;

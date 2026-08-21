@@ -995,7 +995,7 @@
     move-result-object v1
 
     .line 11
-    const-string v2, "mark.via.BROWSER"
+    const-string v2, "com.android.web.BROWSER"
 
     .line 12
     .line 13
@@ -1066,7 +1066,7 @@
 
     .line 43
     .line 44
-    const-string v3, "mark.via."
+    const-string v3, "com.android.web."
 
     .line 45
     .line 46
@@ -1767,7 +1767,7 @@
     move-result-object v2
 
     .line 15
-    const-string v3, "mark.via."
+    const-string v3, "com.android.web."
 
     .line 16
     .line 17
@@ -1864,7 +1864,7 @@
 
     .line 61
     .line 62
-    const-string v1, "mark.via.BROWSER"
+    const-string v1, "com.android.web.BROWSER"
 
     .line 63
     .line 64
@@ -2180,7 +2180,7 @@
 
     .line 19
     .line 20
-    const-class v1, Lmark/via/Shell;
+    const-class v1, Lcom/android/web/Shell;
 
     .line 21
     .line 22
@@ -2198,7 +2198,7 @@
 
     .line 29
     .line 30
-    const-string v1, "mark.via.BROWSER"
+    const-string v1, "com.android.web.BROWSER"
 
     .line 31
     .line 32
@@ -6600,7 +6600,7 @@
 
     .line 10
     .line 11
-    const-string v2, "mark.via.BOOKMARK"
+    const-string v2, "com.android.web.BOOKMARK"
 
     .line 12
     .line 13
@@ -6624,7 +6624,7 @@
 
     .line 22
     :cond_1
-    const-string v2, "mark.via.HISTORY"
+    const-string v2, "com.android.web.HISTORY"
 
     .line 23
     .line 24
@@ -6648,7 +6648,7 @@
 
     .line 33
     :cond_2
-    const-string v2, "mark.via.SCAN"
+    const-string v2, "com.android.web.SCAN"
 
     .line 34
     .line 35
@@ -6680,7 +6680,7 @@
 
     .line 48
     :cond_3
-    const-string v2, "mark.via.DOWNLOADER"
+    const-string v2, "com.android.web.DOWNLOADER"
 
     .line 49
     .line 50
@@ -6712,7 +6712,7 @@
 
     .line 63
     :cond_4
-    const-string v2, "mark.via.READ_ALOUD"
+    const-string v2, "com.android.web.READ_ALOUD"
 
     .line 64
     .line 65
@@ -6744,7 +6744,7 @@
 
     .line 78
     :cond_5
-    const-string v2, "mark.via.SEARCH"
+    const-string v2, "com.android.web.SEARCH"
 
     .line 79
     .line 80

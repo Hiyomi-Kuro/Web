@@ -94,7 +94,7 @@
 
     .line 24
     .line 25
-    invoke-static {v0}, Lk8/j;->s3(Lk8/j;)Lmark/via/common/widget/g1;
+    invoke-static {v0}, Lk8/j;->s3(Lk8/j;)Lcom/android/web/common/widget/g1;
 
     .line 26
     .line 27
@@ -102,7 +102,7 @@
     move-result-object v0
 
     .line 29
-    invoke-virtual {v0, p1}, Lmark/via/common/widget/g1;->setCurrentIndex(I)V
+    invoke-virtual {v0, p1}, Lcom/android/web/common/widget/g1;->setCurrentIndex(I)V
 
     .line 30
     .line 31
@@ -164,7 +164,7 @@
 
     .line 24
     .line 25
-    invoke-static {v0}, Lk8/j;->s3(Lk8/j;)Lmark/via/common/widget/g1;
+    invoke-static {v0}, Lk8/j;->s3(Lk8/j;)Lcom/android/web/common/widget/g1;
 
     .line 26
     .line 27
@@ -172,7 +172,7 @@
     move-result-object v0
 
     .line 29
-    invoke-virtual {v0, p1}, Lmark/via/common/widget/g1;->setCurrentIndex(I)V
+    invoke-virtual {v0, p1}, Lcom/android/web/common/widget/g1;->setCurrentIndex(I)V
 
     .line 30
     .line 31

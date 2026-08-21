@@ -3393,7 +3393,7 @@
 
     .line 93
     .line 94
-    const-string v19, "viayoo."
+    const-string v19, "web."
 
     .line 95
     .line 96

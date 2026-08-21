@@ -88,8 +88,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">霃欖潣 氚?瓿勳啀</string>
-    <string name="bq">靹滊箘鞀?鞚挫毄鞚?鞁滌瀾頃橁赴 鞝勳棎 氇摖 鞎疥磤鞐?霃欖潣頃挫暭 頃╇媹雼?</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">AI</string>
     <string name="bs">AI 頂勲‖頂勴姼</string>
     <string name="bt">AI 靹滊箘鞀?鞝滉车鞐呾泊</string>
@@ -106,7 +106,7 @@
     <string name="c4">鞚措 旮半掣 敫岆澕鞖办爛搿?靹れ爼霅橃柎 鞛堨姷雼堧嫟.</string>
     <string name="c5">頃儊 氤奠洂</string>
     <string name="c7">API 韨</string>
-    <string name="c8">Via臧€ 韺岇澕鞚?雼れ毚搿滊摐頃橁碃 鞛堨姷雼堧嫟.</string>
+    <string name="c8">Web臧€ 韺岇澕鞚?雼れ毚搿滊摐頃橁碃 鞛堨姷雼堧嫟.</string>
     <string name="c9">韮晿鞐?雼れ毚搿滊摐 氤搓赴</string>
     <string name="c_">Web</string>
     <string name="ca">氇枒</string>
@@ -262,9 +262,7 @@
     <string name="gc">臧滌澑鞝曤炒 氤错樃毳?鞙勴暣 鞗轨偓鞚错姼鞐?雮?雿办澊韯?韺愲Г 霕愲姅 瓿奠湢 旮堨毳?鞖旍箔頃╇媹雼?(鞁ろ棙鞝?旮半姤)</string>
     <string name="gd">於旍爜 鞎?頃</string>
     <string name="ge">旮半秬</string>
-    <string name="gf">"Via 敫岆澕鞖办爛臧€ 毵堨潓鞐?霌滌叏雼る┐, 臧滊皽鞚?歆€鞗愴晿旮?鞙勴暣 旮半秬頃橃嫟 靾?鞛堨姷雼堧嫟.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">鞕勲</string>
     <string name="gh">雼れ嫓 鞎岆Μ歆€ 鞎婈赴</string>
     <string name="gi">雼れ毚搿滊摐 鞙勳箻</string>
@@ -295,7 +293,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">韮?氤奠牅</string>
     <string name="h8">頃勴劙 甑弲 靾橃爼</string>
     <string name="h9">靻岇姢 旖旊摐 靾橃爼</string>
-    <string name="h_">鞚措鞚?氤措偞旮</string>
+    <string name="h_"></string>
     <string name="ha">牍勳柎 鞛堨潓</string>
     <string name="hb">牍勲皜氩堩樃毳?鞛呺牓頃橃劯鞖?</string>
     <string name="hc">靷毄鞛?鞚措鞚?鞛呺牓頃橃劯鞖?</string>
@@ -518,7 +516,7 @@ SSL 瓴疥碃毳?氍挫嫓頃橂┐ 鞗轨偓鞚错姼鞕€鞚?鞐瓣舶鞚?鞎
     <string name="n4">雼れ毚搿滊摐 鞙勳箻鞐?雽€頃?鞝€鞛レ唽 甓岉暅鞚?旆唽霅橃棃鞀惦媹雼? 雼れ毚搿滊摐 韽措崝 鞙勳箻毳?雼れ嫓 靹犿儩頃挫＜靹胳殧.</string>
     <string name="n5">%1$s 靷澊韸胳潣 靹れ爼鞚?齑堦赴頇旐晿鞁滉矤鞀惦媹旯?</string>
     <string name="n6">欤检唽彀?靷毄 鞁?鞝滌晥</string>
-    <string name="n7">Via毳?靷毄頃溂搿滌崹 攴€頃橂姅 雼轨偓鞚?%1$s 氚?%2$s鞐?霃欖潣頃橂姅 瓴冹瀰雼堧嫟.</string>
+    <string name="n7"></string>
     <string name="n8">氅旍嫓歆€ 韰滍攲毽</string>
     <string name="n9">%1$s(%2$s -> %3$s)毳?鞐呺嵃鞚错姼頃橃嫓瓴犾姷雼堦箤?</string>
     <string name="n_">Metaso</string>
@@ -635,7 +633,7 @@ SSL 瓴疥碃毳?氍挫嫓頃橂┐ 鞗轨偓鞚错姼鞕€鞚?鞐瓣舶鞚?鞎
     <string name="qe">韺濎梾</string>
     <string name="qf">靷澊韸戈皜 韺濎梾鞚?響滌嫓頃橁赴 鞝勳棎 毹检爛 氍魂赴</string>
     <string name="qg">鞚胳噭/PDF</string>
-    <string name="qh">臧滌澑鞝曤炒觳橂Μ氚╈龚</string>
+    <string name="qh"></string>
     <string name="qi">Blob 雿办澊韯?觳橂Μ 欷戔€</string>
     <string name="qj">QR 旖旊摐</string>
     <string name="qk">QR 旖旊摐毳?臧愳頃橃 氇豁枅鞀惦媹雼?</string>
@@ -645,7 +643,7 @@ SSL 瓴疥碃毳?氍挫嫓頃橂┐ 鞗轨偓鞚错姼鞕€鞚?鞐瓣舶鞚?鞎
     <string name="qo">韸轨爼 靷澊韸胳棎靹?靸堧瓿犾龚 鞐嗢澊 霋る臧€旮?頇滌劚頇</string>
     <string name="qp">靻岆Μ 雮挫柎 鞚疥赴</string>
     <string name="qq">靻岆Μ 雮挫柎 鞚疥赴 韺剱</string>
-    <string name="qr">%1$s 氚?%2$s毳?鞚疥碃 霃欖潣頃挫＜靹胳殧.</string>
+    <string name="qr"></string>
     <string name="qs">鞚疥赴 氇摐 靾波歆</string>
     <string name="qt">鞚疥赴 氇摐 響滌嫓霅</string>
     <string name="qu">鞚疥赴 氇摐</string>
@@ -710,7 +708,7 @@ SSL 瓴疥碃毳?氍挫嫓頃橂┐ 鞗轨偓鞚错姼鞕€鞚?鞐瓣舶鞚?鞎
     <string name="se">瓴€靸?鞐旍</string>
     <string name="sf">瓴€靸</string>
     <string name="sg">瓴€靸?旮半</string>
-    <string name="sh">Via鞐愳劀 瓴€靸</string>
+    <string name="sh">Web鞐愳劀 瓴€靸</string>
     <string name="si">瓴€靸?攵€攵</string>
     <string name="sj">靾赴旮</string>
     <string name="sk">響滌嫓</string>
@@ -723,7 +721,7 @@ SSL 瓴疥碃毳?氍挫嫓頃橂┐ 鞗轨偓鞚错姼鞕€鞚?鞐瓣舶鞚?鞎
     <string name="sr">氤措偞旮</string>
     <string name="ss">鞚?靹滊矂霌れ潣 雿办澊韯半姅 霃欔赴頇旊悩歆€ 鞎婌姷雼堧嫟. 雼れ嫓 搿滉犯鞚疙暣鞎?頃╇媹雼?</string>
     <string name="st">鞚?韼橃澊歆€毳?頇堩帢鞚挫搿?靹れ爼頃橃嫓瓴犾姷雼堦箤?</string>
-    <string name="su">%1$s 毵來伂毳?鞐?頉?旮半掣 敫岆澕鞖办爛搿?靹れ爼霅╇媹雼? Via毳?靹犿儩頃橃棳 毵來伂毳?鞐劯鞖?</string>
+    <string name="su">%1$s 毵來伂毳?鞐?頉?旮半掣 敫岆澕鞖办爛搿?靹れ爼霅╇媹雼? Web毳?靹犿儩頃橃棳 毵來伂毳?鞐劯鞖?</string>
     <string name="sv">靷毄鞛?鞐愳澊鞝勴姼臧€ 雼れ潓鞙茧 靹れ爼霅橃棃鞀惦媹雼? %1$s</string>
     <string name="sw">旮半掣 敫岆澕鞖办爛搿?靹れ爼</string>
     <string name="sx">靹れ爼</string>
@@ -745,7 +743,7 @@ SSL 瓴疥碃毳?氍挫嫓頃橂┐ 鞗轨偓鞚错姼鞕€鞚?鞐瓣舶鞚?鞎
     <string name="tc">韮?雼赴 旆唽 鞎岆 響滌嫓</string>
     <string name="td">鞁滍伂毽?氇摐臧€ 旒滌牳 鞛堨溂氅?鞎岆鞚?響滌嫓霅橃 鞎婌姷雼堧嫟.</string>
     <string name="te">臧€鞛呾澊 鞕勲霅橃棃鞀惦媹雼?</string>
-    <string name="tf">"Via電?瓯办潣 氇摖 Adblock Plus 頃勴劙毳?歆€鞗愴暕雼堧嫟. 
+    <string name="tf">"Web電?瓯办潣 氇摖 Adblock Plus 頃勴劙毳?歆€鞗愴暕雼堧嫟. 
 雼れ潓瓿?臧欖潃 頃勴劙搿?example.com鞚?鞖旍箔鞚?彀嫧頃?靾?鞛堨姷雼堧嫟: 
 ||example.com^ (霕愲姅 臧勲嫧頌? example.com) 
 
@@ -757,7 +755,7 @@ example.com###ad
 
 雼れ潓瓿?臧欖潃 頃勴劙搿?韸轨爼 鞖旍箔鞚?彀嫧 頃挫牅頃?靾?鞛堨姷雼堧嫟: 
 @@||example.com^"</string>
-    <string name="tg">&lt;b>氅旐儉雿办澊韯?敫旊&lt;/b>&lt;br /> 氅旐儉雿办澊韯半姅 雼れ潓 順曥嫕鞚?霐半澕鞎?頃╇媹雼?&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?鞚措鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: &lt;tt>@namespace&lt;/tt>鞕€ &lt;tt>@name&lt;/tt>鞚?臁绊暕鞚€ 靷毄鞛?鞀ろ伂毽巾姼鞚?瓿犾湢 鞁濍硠鞛愳瀰雼堧嫟. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼 鞁ろ枆 鞐秬毳?瓴办爼頃橂姅 攴滌箼鞚?鞝曥潣頃╇媹雼? &lt;tt>@include&lt;/tt> 雽€鞁?&lt;tt>@match&lt;/tt>毳?靷毄頃橂姅 瓴冹澊 膦嬱姷雼堧嫟. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼 鞁ろ枆 鞐秬毳?瓴办爼頃橂姅 鞚挫爠 氚╈嫕鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?氩勳爠鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?靹る獏鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?鞛戩劚鞛愳瀰雼堧嫟. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?require鞛呺媹雼? 鞓? &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼臧€ 鞁ろ枆霅?鞁滌爯鞚?瓴办爼頃╇媹雼? &lt;tt>document-start&lt;/tt>電?韼橃澊歆€ 搿滊摐 鞝勳棎 鞀ろ伂毽巾姼毳?欤检瀰頃橂姅 雿?靷毄霅橁碃, &lt;tt>document-end&lt;/tt>電?韼橃澊歆€ 搿滊摐 頉勳棎 鞀ろ伂毽巾姼毳?欤检瀰頃橂姅 雿?靷毄霅橂┌, &lt;tt>document-idle&lt;/tt>電?韼橃澊歆€臧€ 鞙犿湸 靸來儨鞚?霑?鞀ろ伂毽巾姼毳?欤检瀰頃橂姅 雿?靷毄霅╇媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼臧€ 鞁ろ枆霅?霑?攵€鞐悩瓿?靷毄頃?靾?鞛堧姅 韸轨垬 GM_* API毳?歆€鞝曧暕雼堧嫟.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼毳?雼れ毚搿滊摐頃?靾?鞛堧姅 欤检唽鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?歆€鞗?欤检唽鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?頇堩帢鞚挫 欤检唽鞛呺媹雼? &lt;br />&lt;br /> &lt;b>GM_* API&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt>鞚€ Via鞐愳劀 鞝滉车頃橂姅 韸轨垬 API 攴鸽９鞛呺媹雼? 順勳灛 歆€鞗愲悩電?韸轨垬 API電?雼れ潓瓿?臧欖姷雼堧嫟: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>毵れ弓&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt>電?URL 毵れ弓 攴滌箼鞚?鞝曥潣頃╇媹雼? &lt;tt>@exclude-match&lt;/tt>電?毵れ弓 攴滌箼鞚?鞝曥潣頃橃毵?&lt;tt>@exclude&lt;/tt>鞕€ 鞙犾偓頃橁矊 毵れ弓霅?URL鞚?鞝滌櫢頃橂姅 雿?靷毄霅╇媹雼? &lt;br />&lt;br /> 鞓?&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>氅旐儉雿办澊韯?敫旊&lt;/b>&lt;br /> 氅旐儉雿办澊韯半姅 雼れ潓 順曥嫕鞚?霐半澕鞎?頃╇媹雼?&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?鞚措鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: &lt;tt>@namespace&lt;/tt>鞕€ &lt;tt>@name&lt;/tt>鞚?臁绊暕鞚€ 靷毄鞛?鞀ろ伂毽巾姼鞚?瓿犾湢 鞁濍硠鞛愳瀰雼堧嫟. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼 鞁ろ枆 鞐秬毳?瓴办爼頃橂姅 攴滌箼鞚?鞝曥潣頃╇媹雼? &lt;tt>@include&lt;/tt> 雽€鞁?&lt;tt>@match&lt;/tt>毳?靷毄頃橂姅 瓴冹澊 膦嬱姷雼堧嫟. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼 鞁ろ枆 鞐秬毳?瓴办爼頃橂姅 鞚挫爠 氚╈嫕鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?氩勳爠鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?靹る獏鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?require鞛呺媹雼? 鞓? &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼臧€ 鞁ろ枆霅?鞁滌爯鞚?瓴办爼頃╇媹雼? &lt;tt>document-start&lt;/tt>電?韼橃澊歆€ 搿滊摐 鞝勳棎 鞀ろ伂毽巾姼毳?欤检瀰頃橂姅 雿?靷毄霅橁碃, &lt;tt>document-end&lt;/tt>電?韼橃澊歆€ 搿滊摐 頉勳棎 鞀ろ伂毽巾姼毳?欤检瀰頃橂姅 雿?靷毄霅橂┌, &lt;tt>document-idle&lt;/tt>電?韼橃澊歆€臧€ 鞙犿湸 靸來儨鞚?霑?鞀ろ伂毽巾姼毳?欤检瀰頃橂姅 雿?靷毄霅╇媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼臧€ 鞁ろ枆霅?霑?攵€鞐悩瓿?靷毄頃?靾?鞛堧姅 韸轨垬 GM_* API毳?歆€鞝曧暕雼堧嫟.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: 鞀ろ伂毽巾姼毳?雼れ毚搿滊摐頃?靾?鞛堧姅 欤检唽鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?歆€鞗?欤检唽鞛呺媹雼? &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: 靷毄鞛?鞀ろ伂毽巾姼鞚?頇堩帢鞚挫 欤检唽鞛呺媹雼? &lt;br />&lt;br /> &lt;b>GM_* API&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt>鞚€ Web鞐愳劀 鞝滉车頃橂姅 韸轨垬 API 攴鸽９鞛呺媹雼? 順勳灛 歆€鞗愲悩電?韸轨垬 API電?雼れ潓瓿?臧欖姷雼堧嫟: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>毵れ弓&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt>電?URL 毵れ弓 攴滌箼鞚?鞝曥潣頃╇媹雼? &lt;tt>@exclude-match&lt;/tt>電?毵れ弓 攴滌箼鞚?鞝曥潣頃橃毵?&lt;tt>@exclude&lt;/tt>鞕€ 鞙犾偓頃橁矊 毵れ弓霅?URL鞚?鞝滌櫢頃橂姅 雿?靷毄霅╇媹雼? &lt;br />&lt;br /> 鞓?&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">靷澊韸?靹れ爼</string>
     <string name="ti">靷澊韸?靹れ爼 (頇滌劚頇旊惃)</string>
     <string name="tj">靷澊韸?鞝曤炒</string>
@@ -790,7 +788,7 @@ example.com###ad
     <string name="u8">999+</string>
     <string name="u9">毹鸽毳搓赴</string>
     <string name="u_">欷戩</string>
-    <string name="ua">Via臧€ 雼れ潓 韼橃澊歆€鞚?搿滊敥鞚?欷戨嫧頄堨姷雼堧嫟:</string>
+    <string name="ua">Web臧€ 雼れ潓 韼橃澊歆€鞚?搿滊敥鞚?欷戨嫧頄堨姷雼堧嫟:</string>
     <string name="ub">雼れ潓 頃勴劙 霑岆鞛呺媹雼?</string>
     <string name="uc">靻岆Μ 雮挫柎 鞚疥赴 欷戩</string>
     <string name="ud">韰岆憪毽?攵堩埇氇呺弰</string>
@@ -821,7 +819,7 @@ example.com###ad
     <string name="v2">韮澊 雼様鞀惦媹雼?</string>
     <string name="v3">韮?靹れ爼</string>
     <string name="v4">韮</string>
-    <string name="xh">鞚挫毄鞎疥磤</string>
+    <string name="xh"></string>
     <string name="xi">韰嶌姢韸</string>
     <string name="xj">韸轨爼 靷澊韸胳潣 旮€鞛?韥赴 靹れ爼</string>
     <string name="xk">韼橃澊歆€臧€ 鞕勳爠頌?搿滊摐霅橃 鞎婌晿鞀惦媹雼?</string>

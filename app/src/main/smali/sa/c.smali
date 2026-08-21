@@ -12,7 +12,7 @@
 
     .line 2
     .line 3
-    const-class v1, Lmark/via/service/DownloadService;
+    const-class v1, Lcom/android/web/service/DownloadService;
 
     .line 4
     .line 5
@@ -55,7 +55,7 @@
 
     .line 2
     .line 3
-    const-class v1, Lmark/via/service/DownloadService;
+    const-class v1, Lcom/android/web/service/DownloadService;
 
     .line 4
     .line 5
@@ -98,7 +98,7 @@
 
     .line 2
     .line 3
-    const-class v1, Lmark/via/service/DownloadService;
+    const-class v1, Lcom/android/web/service/DownloadService;
 
     .line 4
     .line 5
@@ -141,7 +141,7 @@
 
     .line 2
     .line 3
-    const-class v1, Lmark/via/service/DownloadService;
+    const-class v1, Lcom/android/web/service/DownloadService;
 
     .line 4
     .line 5

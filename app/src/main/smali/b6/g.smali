@@ -203,11 +203,11 @@
 
     .line 2
     .line 3
-    new-instance v0, Lcom/tuyafeng/support/widget/d;
+    new-instance v0, Lcom/android/web/internal/support/widget/d;
 
     .line 4
     .line 5
-    invoke-direct {v0, p1}, Lcom/tuyafeng/support/widget/d;-><init>(Landroid/content/Context;)V
+    invoke-direct {v0, p1}, Lcom/android/web/internal/support/widget/d;-><init>(Landroid/content/Context;)V
 
     .line 6
     .line 7

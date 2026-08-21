@@ -89,8 +89,8 @@ ekran"</string>
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">Akceptuj臋</string>
-    <string name="bq">Zaakceptuj tre艣膰 poni偶szych dokument贸w, aby kontynuowa膰.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">Sztuczna inteligencja</string>
     <string name="bs">Polecnie SI</string>
     <string name="bt">Dostawca us艂ug SI</string>
@@ -104,10 +104,10 @@ ekran"</string>
     <string name="c1">Dost臋p stron do schowka</string>
     <string name="c2">Zezwoli膰 stronie na otwarcie aplikacji %1$s?</string>
     <string name="c3">Zezw贸l</string>
-    <string name="c4">Via jest ju偶 domy艣ln膮 przegl膮dark膮.</string>
+    <string name="c4">Web jest ju偶 domy艣ln膮 przegl膮dark膮.</string>
     <string name="c5">Zawsze przywracaj</string>
     <string name="c7">Klucz API</string>
-    <string name="c8">Via pobiera pliki</string>
+    <string name="c8">Web pobiera pliki</string>
     <string name="c9">Dotknij, aby zobaczy膰 post臋py</string>
     <string name="c_">Web</string>
     <string name="ca">Wygl膮d</string>
@@ -265,9 +265,7 @@ Wprowad藕 has艂o, aby przes艂a膰 pro艣b臋."</string>
     <string name="gc">Wymagaj od stron, aby nie sprzedawa艂y, ani nie udost臋pnia艂y twoich danych w celu ochrony prywatno艣ci (opcja eksperymentalna).</string>
     <string name="gd">Nie 艣led藕 mnie</string>
     <string name="ge">Wspom贸偶</string>
-    <string name="gf">"Je艣li lubisz korzysta膰 z naszej aplikacji, wesprzyj nas.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Zrobione</string>
     <string name="gh">Nie przypominaj mi wi臋cej</string>
     <string name="gi">Miejsce pobierania</string>
@@ -298,7 +296,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">Skopiuj kart臋</string>
     <string name="h8">Edytuj list臋 filtr贸w</string>
     <string name="h9">Edytuj kod 藕r贸d艂owy</string>
-    <string name="h_">Napisz do mnie e-maila</string>
+    <string name="h_"></string>
     <string name="ha">"Cicho wsz臋dzie,
 g艂ucho wsz臋dzie鈥?</string>
     <string name="hb">Wprowad藕 has艂o</string>
@@ -391,7 +389,7 @@ g艂ucho wsz臋dzie鈥?</string>
     <string name="jl">Tryb gry</string>
     <string name="jm">Naci艣nij przycisk jeszcze raz, aby wyj艣膰 z trybu gry.</string>
     <string name="jn">Tryb gry jest w艂膮czony. Naci艣nij dwukrotnie przycisk wstecz, aby z niego wyj艣膰.</string>
-    <string name="jo">Przegl膮darka Via</string>
+    <string name="jo">Przegl膮darka Web</string>
     <string name="jp">Globalny</string>
     <string name="jq">Obiektyw Google</string>
     <string name="jr">Google</string>
@@ -525,7 +523,7 @@ Ignorowanie certyfikat贸w SSL sprawia, 偶e po艂膮czenie ze stronami mo偶e b
     <string name="n4">Uprawnienie do zapisu w tym miejscu zosta艂o cofni臋te. Ustaw ponownie miejsce do pobierania plik贸w.</string>
     <string name="n5">Zresetowa膰 konfiguracj臋 dla strony %1$s?</string>
     <string name="n6">Przy korzystaniu z paska adresu sugeruj poni偶sz膮 zawarto艣膰:</string>
-    <string name="n7">Korzystaj膮c z aplikacji Via, akceptujesz tre艣膰 dokument贸w: %1$s i %2$s.</string>
+    <string name="n7"></string>
     <string name="n8">Wz贸r wiadomo艣ci</string>
     <string name="n9">Zaktualizowa膰 skrypt \"%1$s\"(%2$s -> %3$s)?</string>
     <string name="n_">Metaso</string>
@@ -584,7 +582,7 @@ Ignorowanie certyfikat贸w SSL sprawia, 偶e po艂膮czenie ze stronami mo偶e b
     <string name="oq">Nie uda艂o mi si臋 znale藕膰 aplikacji do otworzenia tego linku</string>
     <string name="or">Nie znaleziono aplikacji mog膮cej otworzy膰 ten plik.</string>
     <string name="os">Brak dost臋pnych sposob贸w otwarcia tego pliku.</string>
-    <string name="ot">Otw贸rz w Via</string>
+    <string name="ot">Otw贸rz w Web</string>
     <string name="ou">Otw贸rz stron臋 z zarz膮dzaniem kluczami API</string>
     <string name="ov">Podgl膮d PDF</string>
     <string name="ow">Licencje kodu 藕r贸d艂owego</string>
@@ -646,7 +644,7 @@ Ignorowanie certyfikat贸w SSL sprawia, 偶e po艂膮czenie ze stronami mo偶e b
     <string name="qe">Wyskakuj膮ce okna</string>
     <string name="qf">Zapytaj przed zezwoleniem</string>
     <string name="qg">Drukuj / PDF</string>
-    <string name="qh">Polityka prywatno艣ci</string>
+    <string name="qh"></string>
     <string name="qi">Przetwarzanie blob贸w鈥</string>
     <string name="qj">Kod QR</string>
     <string name="qk">Nie wykryto kodu QR</string>
@@ -656,7 +654,7 @@ Ignorowanie certyfikat贸w SSL sprawia, 偶e po艂膮czenie ze stronami mo偶e b
     <string name="qo">Tu cofanie bez od艣wie偶ania b臋dzie w艂膮czone</string>
     <string name="qp">Czytaj na g艂os</string>
     <string name="qq">Panel czytania na g艂os</string>
-    <string name="qr">%1$s i %2$s - akceptuj臋</string>
+    <string name="qr"></string>
     <string name="qs">Tryb czytnika wy艂膮czony</string>
     <string name="qt">Tryb czytnika w艂膮czony</string>
     <string name="qu">Tryb czytnika</string>
@@ -734,7 +732,7 @@ Odtw贸rz w niej jaki艣 film lub muzyk臋. Uwaga: wykrywacz nie wsz臋dzie dzia
     <string name="sr">Wy艣lij</string>
     <string name="ss">Dane serwer贸w nie s膮 zsynchronizowane. Konieczne b臋dzie ponowne zalogowanie si臋.</string>
     <string name="st">Ustawi膰 jako stron臋 domow膮?</string>
-    <string name="su">Przegl膮darka Via zostanie ustawiona jako domy艣lna po u偶yciu jej do otwarcia linku (%1$s). Wybierz j膮, aby otworzy膰 link.</string>
+    <string name="su">Przegl膮darka Web zostanie ustawiona jako domy艣lna po u偶yciu jej do otwarcia linku (%1$s). Wybierz j膮, aby otworzy膰 link.</string>
     <string name="sv">Zmieniono agenta u偶ytkownika na %1$s.</string>
     <string name="sw">Domy艣lna przegl膮darka</string>
     <string name="sx">Ustawienia</string>
@@ -756,7 +754,7 @@ Odtw贸rz w niej jaki艣 film lub muzyk臋. Uwaga: wykrywacz nie wsz臋dzie dzia
     <string name="tc">Powiadomienie z opcj膮 cofni臋cia</string>
     <string name="td">Nie dzia艂a w trybie prywatnym.</string>
     <string name="te">Zarejestrowano konto.</string>
-    <string name="tf">"Via wspiera niemal wszystkie fitry z Adblock Plusa. 
+    <string name="tf">"Web wspiera niemal wszystkie fitry z Adblock Plusa. 
 Blokowanie wszystkich 偶膮da艅: 
 ||przyk艂ad.com^ (albo przyk艂ad.com) 
 
@@ -768,7 +766,7 @@ Odblokowanie 偶膮da艅 specjalnych:
 
 Blokowanie konkretnego elementu strony: 
 przyk艂ad.com###reklama"</string>
-    <string name="tg">&lt;b>Blok metadanych&lt;/b>&lt;br /> Metadane musz膮 by膰 w poni偶szym formacie:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @klucz warto艣膰&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: Nazwa skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: Kombinacja klucza &lt;tt>@namespace&lt;/tt> i &lt;tt>@name&lt;/tt> stanowi unikatowy identyfikator skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Okre艣l czy skrypt powinien by膰 wykonywany. Zalecane jest korzystanie z klucza &lt;tt>@match&lt;/tt> zamiast &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: Stary spos贸b na okre艣lenie czy skrypt powinien by膰 wykonywany. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: Wersja skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: Opis skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: Autor(zy) skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: Wymagania skryptu. Na przyk艂ad: &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Okre艣l kiedy skrypt ma by膰 wykonywany. Klucz &lt;tt>document-start&lt;/tt> jest u偶ywany do wstrzykiwania skrypt贸w przed za艂adowaniem si臋 strony, a &lt;tt>document-end&lt;/tt> - po za艂adowaniu si臋 strony. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Okre艣l kt贸re specjalne API GM_* powinny by膰 do艂膮czone i u偶yte przy wykonywaniu skryptu.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: Adres, z kt贸rego skrypt mo偶e zosta膰 pobrany. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: Adres wsparcia dla skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: Strona internetowa skryptu. &lt;br />&lt;br /> &lt;b>API GM_*&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> to grupa specjalnych API dost臋pnych w aplikacji Via. Obecnie wspierane API: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Dopasowanie&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> definiuje regu艂臋 dopasowania adresu. &lt;tt>@exclude-match&lt;/tt> wyklucza dopasowane adresy, podobnie jak &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> Na przyk艂ad:&lt;br /> &lt;tt> // @match https://www.google.com/co艣tam &lt;br /> // @match https://www.google.com/cokolwiek/* &lt;br /> // @exclude-match https://www.google.com/cokolwiek/ale-nie-to &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>Blok metadanych&lt;/b>&lt;br /> Metadane musz膮 by膰 w poni偶szym formacie:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @klucz warto艣膰&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: Nazwa skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: Kombinacja klucza &lt;tt>@namespace&lt;/tt> i &lt;tt>@name&lt;/tt> stanowi unikatowy identyfikator skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Okre艣l czy skrypt powinien by膰 wykonywany. Zalecane jest korzystanie z klucza &lt;tt>@match&lt;/tt> zamiast &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: Stary spos贸b na okre艣lenie czy skrypt powinien by膰 wykonywany. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: Wersja skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: Opis skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: Wymagania skryptu. Na przyk艂ad: &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Okre艣l kiedy skrypt ma by膰 wykonywany. Klucz &lt;tt>document-start&lt;/tt> jest u偶ywany do wstrzykiwania skrypt贸w przed za艂adowaniem si臋 strony, a &lt;tt>document-end&lt;/tt> - po za艂adowaniu si臋 strony. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Okre艣l kt贸re specjalne API GM_* powinny by膰 do艂膮czone i u偶yte przy wykonywaniu skryptu.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: Adres, z kt贸rego skrypt mo偶e zosta膰 pobrany. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: Adres wsparcia dla skryptu. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: Strona internetowa skryptu. &lt;br />&lt;br /> &lt;b>API GM_*&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> to grupa specjalnych API dost臋pnych w aplikacji Web. Obecnie wspierane API: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Dopasowanie&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> definiuje regu艂臋 dopasowania adresu. &lt;tt>@exclude-match&lt;/tt> wyklucza dopasowane adresy, podobnie jak &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> Na przyk艂ad:&lt;br /> &lt;tt> // @match https://www.google.com/co艣tam &lt;br /> // @match https://www.google.com/cokolwiek/* &lt;br /> // @exclude-match https://www.google.com/cokolwiek/ale-nie-to &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">Ustawienia stron</string>
     <string name="ti">Konfiguracja strony (w艂膮cz)</string>
     <string name="tj">Inf. o stronie</string>
@@ -801,7 +799,7 @@ Kontynuowa膰?"</string>
     <string name="u8">999+</string>
     <string name="u9">Zosta艅</string>
     <string name="u_">Zatrzymaj</string>
-    <string name="ua">Via zapobieg艂a za艂adowaniu si臋 poni偶szej strony:</string>
+    <string name="ua">Web zapobieg艂a za艂adowaniu si臋 poni偶szej strony:</string>
     <string name="ub">Przez poni偶szy filtr:</string>
     <string name="uc">Przesta艅 czyta膰 na g艂os</string>
     <string name="ud">Przezr. kraw臋dzi</string>
@@ -832,7 +830,7 @@ Kontynuowa膰?"</string>
     <string name="v2">Karta zosta艂a zamkni臋ta</string>
     <string name="v3">Ustawienia kart</string>
     <string name="v4">Karty</string>
-    <string name="xh">Warunki korzystania</string>
+    <string name="xh"></string>
     <string name="xi">Tekst</string>
     <string name="xj">Tu rozmiar tekstu b臋dzie inny</string>
     <string name="xk">Strona nie wczyta艂a si臋 w ca艂o艣ci</string>

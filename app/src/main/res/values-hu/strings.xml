@@ -90,9 +90,7 @@
     <string name="g5">Letilt谩s</string>
     <string name="gd">Ne K枚vessenek</string>
     <string name="ge">T谩mogat谩s</string>
-    <string name="gf">"Ha szereted a Via B枚ng茅sz艖t, adom谩nnyal t谩mogatni tudsz minket.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gi">Let枚lt茅s Helye</string>
     <string name="gl">Let枚lt茅s k茅sz</string>
     <string name="gx">Let枚lt茅s Megkezd茅se鈥</string>
@@ -191,7 +189,7 @@ Megjegyz茅s: k枚nnyebb 煤gy megszerezni, ha zene vagy vide贸 lej谩tsz贸dik
     <string name="sd">Keres茅s k茅p alapj谩n</string>
     <string name="sf">Keres茅s</string>
     <string name="st">Be谩ll铆tod kezd艖lapnak?</string>
-    <string name="su">Alap茅rtelmez茅sk茅nt lesz be谩ll铆tva egy link megnyit谩sa ut谩n, k茅rlek v谩laszd ki a Via-t link megnyit谩s谩hoz.</string>
+    <string name="su">Alap茅rtelmez茅sk茅nt lesz be谩ll铆tva egy link megnyit谩sa ut谩n, k茅rlek v谩laszd ki a Web-t link megnyit谩s谩hoz.</string>
     <string name="sv">%1$s felhaszn谩l贸i 眉gyn枚k kiv谩lasztva</string>
     <string name="sw">Be谩ll铆t谩s alap茅rtelmezett b枚ng茅sz艖k茅nt</string>
     <string name="sx">Be谩ll铆t谩sok</string>

@@ -440,7 +440,7 @@
     .locals 1
 
     .line 1
-    invoke-virtual {p0}, Lu5/k;->getBarcodeView()Lcom/tuyafeng/scanner/BarcodeView;
+    invoke-virtual {p0}, Lu5/k;->getBarcodeView()Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 2
     .line 3
@@ -530,7 +530,7 @@
     return-void
 .end method
 
-.method public static synthetic a3(Lcom/tuyafeng/support/widget/z;)V
+.method public static synthetic a3(Lcom/android/web/internal/support/widget/z;)V
     .locals 2
 
     .line 1
@@ -538,7 +538,7 @@
 
     .line 2
     .line 3
-    invoke-static {p0, v0}, Lb9/t3;->a(Lcom/tuyafeng/support/widget/z;I)V
+    invoke-static {p0, v0}, Lb9/t3;->a(Lcom/android/web/internal/support/widget/z;I)V
 
     .line 4
     .line 5
@@ -554,12 +554,12 @@
     const/4 v1, -0x1
 
     .line 11
-    invoke-virtual {p0, v1}, Lcom/tuyafeng/support/widget/z;->setContentColor(I)V
+    invoke-virtual {p0, v1}, Lcom/android/web/internal/support/widget/z;->setContentColor(I)V
 
     .line 12
     .line 13
     .line 14
-    invoke-virtual {p0, v0}, Lcom/tuyafeng/support/widget/z;->setDividerColor(I)V
+    invoke-virtual {p0, v0}, Lcom/android/web/internal/support/widget/z;->setDividerColor(I)V
 
     .line 15
     .line 16
@@ -1200,7 +1200,7 @@
 
     .line 91
     .line 92
-    new-instance p3, Lcom/tuyafeng/support/widget/z;
+    new-instance p3, Lcom/android/web/internal/support/widget/z;
 
     .line 93
     .line 94
@@ -1212,7 +1212,7 @@
     move-result-object v1
 
     .line 98
-    invoke-direct {p3, v1}, Lcom/tuyafeng/support/widget/z;-><init>(Landroid/content/Context;)V
+    invoke-direct {p3, v1}, Lcom/android/web/internal/support/widget/z;-><init>(Landroid/content/Context;)V
 
     .line 99
     .line 100
@@ -1259,7 +1259,7 @@
     move-result-object p2
 
     .line 123
-    check-cast p2, Lcom/tuyafeng/support/widget/z;
+    check-cast p2, Lcom/android/web/internal/support/widget/z;
 
     .line 124
     .line 125
@@ -1924,7 +1924,7 @@
 
     .line 50
     .line 51
-    invoke-virtual {p2}, Lu5/k;->getBarcodeView()Lcom/tuyafeng/scanner/BarcodeView;
+    invoke-virtual {p2}, Lu5/k;->getBarcodeView()Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 52
     .line 53
@@ -1945,7 +1945,7 @@
     .line 60
     .line 61
     .line 62
-    invoke-virtual {p2, v0}, Lcom/tuyafeng/scanner/BarcodeView;->setDecoderFactory(Lu5/h;)V
+    invoke-virtual {p2, v0}, Lcom/android/web/internal/scanner/BarcodeView;->setDecoderFactory(Lu5/h;)V
 
     .line 63
     .line 64
@@ -2496,7 +2496,7 @@
 
     .line 78
     .line 79
-    invoke-virtual {v1}, Lu5/k;->getBarcodeView()Lcom/tuyafeng/scanner/BarcodeView;
+    invoke-virtual {v1}, Lu5/k;->getBarcodeView()Lcom/android/web/internal/scanner/BarcodeView;
 
     .line 80
     .line 81

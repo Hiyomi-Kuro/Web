@@ -122,11 +122,11 @@
 
     .line 2
     .line 3
-    new-instance v0, Lmark/via/common/widget/w;
+    new-instance v0, Lcom/android/web/common/widget/w;
 
     .line 4
     .line 5
-    invoke-direct {v0, p1}, Lmark/via/common/widget/w;-><init>(Landroid/content/Context;)V
+    invoke-direct {v0, p1}, Lcom/android/web/common/widget/w;-><init>(Landroid/content/Context;)V
 
     .line 6
     .line 7
@@ -191,7 +191,7 @@
 
     .line 8
     .line 9
-    check-cast v0, Lmark/via/common/widget/w;
+    check-cast v0, Lcom/android/web/common/widget/w;
 
     .line 10
     .line 11
@@ -268,7 +268,7 @@
     .line 46
     .line 47
     :cond_0
-    invoke-virtual {v0}, Lmark/via/common/widget/w;->getTextView()Landroid/widget/TextView;
+    invoke-virtual {v0}, Lcom/android/web/common/widget/w;->getTextView()Landroid/widget/TextView;
 
     .line 48
     .line 49
@@ -456,7 +456,7 @@
 
     .line 139
     .line 140
-    invoke-virtual {v0}, Lmark/via/common/widget/w;->getIconView()Landroid/widget/ImageView;
+    invoke-virtual {v0}, Lcom/android/web/common/widget/w;->getIconView()Landroid/widget/ImageView;
 
     .line 141
     .line 142
@@ -473,7 +473,7 @@
 
     .line 148
     :cond_5
-    invoke-virtual {v0}, Lmark/via/common/widget/w;->getIconView()Landroid/widget/ImageView;
+    invoke-virtual {v0}, Lcom/android/web/common/widget/w;->getIconView()Landroid/widget/ImageView;
 
     .line 149
     .line 150
@@ -491,7 +491,7 @@
     .line 156
     .line 157
     :goto_1
-    invoke-virtual {v0}, Lmark/via/common/widget/w;->getCloseView()Landroid/widget/ImageView;
+    invoke-virtual {v0}, Lcom/android/web/common/widget/w;->getCloseView()Landroid/widget/ImageView;
 
     .line 158
     .line 159
@@ -524,7 +524,7 @@
     .line 172
     .line 173
     .line 174
-    invoke-virtual {v0}, Lmark/via/common/widget/w;->getCloseView()Landroid/widget/ImageView;
+    invoke-virtual {v0}, Lcom/android/web/common/widget/w;->getCloseView()Landroid/widget/ImageView;
 
     .line 175
     .line 176
@@ -546,7 +546,7 @@
     .line 184
     .line 185
     .line 186
-    invoke-virtual {v0}, Lmark/via/common/widget/w;->getIconView()Landroid/widget/ImageView;
+    invoke-virtual {v0}, Lcom/android/web/common/widget/w;->getIconView()Landroid/widget/ImageView;
 
     .line 187
     .line 188

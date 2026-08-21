@@ -37,11 +37,11 @@
 
     .line 2
     .line 3
-    check-cast p1, Lcom/tuyafeng/support/widget/TabLayout;
+    check-cast p1, Lcom/android/web/internal/support/widget/TabLayout;
 
     .line 4
     .line 5
-    invoke-static {v0, p1}, Leb/i;->e3(Leb/i;Lcom/tuyafeng/support/widget/TabLayout;)V
+    invoke-static {v0, p1}, Leb/i;->e3(Leb/i;Lcom/android/web/internal/support/widget/TabLayout;)V
 
     .line 6
     .line 7

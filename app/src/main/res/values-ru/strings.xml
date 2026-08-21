@@ -88,8 +88,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">袩褉懈薪褟褌褜</string>
-    <string name="bq">袙褘 写芯谢卸薪褘 锌褉懈薪褟褌褜 胁褋械 褍褋谢芯胁懈褟, 锌褉械卸写械 褔械屑 薪邪褔邪褌褜 锌芯谢褜蟹芯胁邪褌褜褋褟 薪邪褕懈屑 褋械褉胁懈褋芯屑.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">袠袠</string>
     <string name="bs">袟邪锌褉芯褋 袠袠</string>
     <string name="bt">袩芯褋褌邪胁褖懈泻 袠袠</string>
@@ -103,10 +103,10 @@
     <string name="c1">袪邪蟹褉械褕懈褌褜 褋邪泄褌褍 写芯褋褌褍锌 泻 斜褍褎械褉褍 芯斜屑械薪邪</string>
     <string name="c2">袪邪蟹褉械褕懈褌褜 褋邪泄褌褍 芯褌泻褉褘褌褜 %1$s?</string>
     <string name="c3">袪邪蟹褉械褕械薪芯</string>
-    <string name="c4">Via 褍卸械 褍褋褌邪薪芯胁谢械薪 斜褉邪褍蟹械褉芯屑 锌芯 褍屑芯谢褔邪薪懈褞</string>
+    <string name="c4">Web 褍卸械 褍褋褌邪薪芯胁谢械薪 斜褉邪褍蟹械褉芯屑 锌芯 褍屑芯谢褔邪薪懈褞</string>
     <string name="c5">袙芯褋褋褌邪薪邪胁谢懈胁邪褌褜</string>
     <string name="c7">袣谢褞褔 API</string>
-    <string name="c8">Via 蟹邪谐褉褍卸邪械褌 褎邪泄谢褘</string>
+    <string name="c8">Web 蟹邪谐褉褍卸邪械褌 褎邪泄谢褘</string>
     <string name="c9">袧邪卸屑懈褌械 写谢褟 锌褉芯褋屑芯褌褉邪 蟹邪谐褉褍蟹芯泻</string>
     <string name="c_">Web</string>
     <string name="ca">袙薪械褕薪懈泄 胁懈写</string>
@@ -264,9 +264,7 @@
     <string name="gc">孝褉械斜芯胁邪褌褜 芯褌 褋邪泄褌邪 薪械 锌褉芯写邪胁邪褌褜 懈 薪械 褉邪蟹谐谢邪褕邪褌褜 屑芯懈 写邪薪薪褘械 写谢褟 蟹邪褖懈褌褘 泻芯薪褎懈写械薪褑懈邪谢褜薪芯褋褌懈 (褝泻褋锌械褉懈屑械薪褌邪谢褜薪芯)</string>
     <string name="gd">袟邪锌褉械褌懈褌褜 芯褌褋谢械卸懈胁邪薪懈械</string>
     <string name="ge">袩芯卸械褉褌胁芯胁邪薪懈械</string>
-    <string name="gf">"袝褋谢懈 胁邪屑 薪褉邪胁懈褌褋褟 锌褉懈谢芯卸械薪懈械, 屑芯卸械褌械 褋写械谢邪褌褜 锌芯卸械褉褌胁芯胁邪薪懈械:
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">袚芯褌芯胁芯</string>
     <string name="gh">袘芯谢褜褕械 薪械 薪邪锌芯屑懈薪邪褌褜</string>
     <string name="gi">袩褍褌褜 蟹邪谐褉褍蟹泻懈</string>
@@ -297,7 +295,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">袛褍斜谢懈褉芯胁邪褌褜 胁泻谢邪写泻褍</string>
     <string name="h8">袠蟹屑械薪懈褌褜 锌芯写锌懈褋泻褍</string>
     <string name="h9">袠蟹屑械薪懈褌褜 懈褋褏芯写薪褘泄 泻芯写</string>
-    <string name="h_">袧邪锌懈褋邪褌褜 锌懈褋褜屑芯 褉邪蟹褉邪斜芯褌褔懈泻褍</string>
+    <string name="h_"></string>
     <string name="ha">袩褍褋褌芯鈥</string>
     <string name="hb">袙胁械写懈褌械 锌邪褉芯谢褜</string>
     <string name="hc">袙胁械写懈褌械 懈屑褟 锌芯谢褜蟹芯胁邪褌械谢褟</string>
@@ -522,7 +520,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="n4">袪邪蟹褉械褕械薪懈械 薪邪 写芯褋褌褍锌 泻 褏褉邪薪懈谢懈褖褍 写谢褟 胁褘锌芯谢薪械薪懈褟 蟹邪谐褉褍蟹泻懈 锌芯 褍泻邪蟹邪薪薪芯屑褍 锌褍褌懈 斜褘谢芯 芯褌芯蟹胁邪薪芯. 袙褘斜械褉懈褌械 锌邪锌泻褍 蟹邪谐褉褍蟹泻懈 械褖褢 褉邪蟹.</string>
     <string name="n5">小斜褉芯褋懈褌褜 薪邪褋褌褉芯泄泻懈 褋邪泄褌邪 %1$s?</string>
     <string name="n6">袩褉懈 懈褋锌芯谢褜蟹芯胁邪薪懈懈 邪写褉械褋薪芯泄 褋褌褉芯泻懈 锌褉械写谢邪谐邪褌褜</string>
-    <string name="n7">袠褋锌芯谢褜蟹褍褟 Via, 胁褘 褋芯谐谢邪褕邪械褌械褋褜 褋 %1$s 懈 %2$s.</string>
+    <string name="n7"></string>
     <string name="n8">楔邪斜谢芯薪 褋芯芯斜褖械薪懈褟</string>
     <string name="n9">袨斜薪芯胁懈褌褜 \"%1$s\" (%2$s 鈫?%3$s)?</string>
     <string name="n_">Metaso</string>
@@ -581,7 +579,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="oq">袧械 薪邪泄写械薪芯 褋芯芯褌胁械褌褋褌胁褍褞褖械械 锌褉懈谢芯卸械薪懈械, 褔褌芯斜褘 芯褌泻褉褘褌褜 褋褋褘谢泻褍</string>
     <string name="or">袧械 薪邪泄写械薪芯 褋芯芯褌胁械褌褋褌胁褍褞褖械械 锌褉懈谢芯卸械薪懈械 写谢褟 芯褌泻褉褘褌懈褟 写邪薪薪芯谐芯 褎邪泄谢邪</string>
     <string name="os">袧械胁芯蟹屑芯卸薪芯 芯褌泻褉褘褌褜 褎邪泄谢.</string>
-    <string name="ot">袨褌泻褉褘褌褜 胁 Via</string>
+    <string name="ot">袨褌泻褉褘褌褜 胁 Web</string>
     <string name="ou">袨褌泻褉褘褌褜 褋褌褉邪薪懈褑褍 褋芯蟹写邪薪懈褟 懈 褍锌褉邪胁谢械薪懈褟 泻谢褞褔邪屑懈 API</string>
     <string name="ov">袩褉芯褋屑芯褌褉 PDF</string>
     <string name="ow">袥懈褑械薪蟹懈懈 芯褌泻褉褘褌芯谐芯 懈褋褏芯写薪芯谐芯 泻芯写邪</string>
@@ -643,7 +641,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="qe">袙褋锌谢褘胁邪褞褖懈械 芯泻薪邪</string>
     <string name="qf">袟邪锌褉邪褕懈胁邪褌褜 褉邪蟹褉械褕械薪懈械 薪邪 芯褌芯斜褉邪卸械薪懈械 褋邪泄褌邪屑懈 胁褋锌谢褘胁邪褞褖懈褏 芯泻芯薪</string>
     <string name="qg">袩械褔邪褌褜/PDF</string>
-    <string name="qh">袩芯谢懈褌懈泻邪 泻芯薪褎懈写械薪褑懈邪谢褜薪芯褋褌懈</string>
+    <string name="qh"></string>
     <string name="qi">袨斜褉邪斜芯褌泻邪 斜芯谢褜褕懈褏 写胁芯懈褔薪褘褏 芯斜褗械泻褌芯胁 写邪薪薪褘褏鈥</string>
     <string name="qj">QR-泻芯写</string>
     <string name="qk">QR-泻芯写 薪械 芯斜薪邪褉褍卸械薪</string>
@@ -653,7 +651,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="qo">袪邪蟹褉械褕邪褌褜 胁芯蟹胁褉邪褌 斜械蟹 锌械褉械蟹邪谐褉褍蟹泻懈 褋褌褉邪薪懈褑褘 薪邪 芯锌褉械写械谢褢薪薪芯屑 褋邪泄褌械.</string>
     <string name="qp">效懈褌邪褌褜 胁褋谢褍褏</string>
     <string name="qq">袩邪薪械谢褜 褔褌械薪懈褟 胁褋谢褍褏</string>
-    <string name="qr">袧械芯斜褏芯写懈屑芯 锌褉芯褔懈褌邪褌褜 懈 锌褉懈薪褟褌褜 %1$s 懈 %2$s</string>
+    <string name="qr"></string>
     <string name="qs">袪械卸懈屑 褔褌械薪懈褟 芯褌泻谢褞褔褢薪</string>
     <string name="qt">袪械卸懈屑 褔褌械薪懈褟 胁泻谢褞褔褢薪</string>
     <string name="qu">袪械卸懈屑 褔褌械薪懈褟</string>
@@ -718,7 +716,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="se">袩芯懈褋泻芯胁褘械 褋懈褋褌械屑褘</string>
     <string name="sf">袩芯懈褋泻</string>
     <string name="sg">袠褋褌芯褉懈褟 锌芯懈褋泻邪</string>
-    <string name="sh">袩芯懈褋泻 胁 Via</string>
+    <string name="sh">袩芯懈褋泻 胁 Web</string>
     <string name="si">袩邪薪械谢褜 锌芯懈褋泻邪</string>
     <string name="sj">小泻褉褘褌邪</string>
     <string name="sk">袙懈写薪邪</string>
@@ -731,7 +729,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="sr">袨褌锌褉邪胁懈褌褜</string>
     <string name="ss">袛邪薪薪褘械 褝褌懈褏 褋械褉胁械褉芯胁 薪械 褋懈薪褏褉芯薪懈蟹懈褉芯胁邪薪褘. 袙邪屑 锌芯褌褉械斜褍械褌褋褟 褋薪芯胁邪 胁芯泄褌懈 胁 褋懈褋褌械屑褍.</string>
     <string name="st">校褋褌邪薪芯胁懈褌褜 胁 泻邪褔械褋褌胁械 写芯屑邪褕薪械泄 褋褌褉邪薪懈褑褘?</string>
-    <string name="su">Via 斜褍写械褌 褍褋褌邪薪芯胁谢械薪 斜褉邪褍蟹械褉芯屑 锌芯 褍屑芯谢褔邪薪懈褞 锌芯褋谢械 懈褋锌芯谢褜蟹芯胁邪薪懈褟 械谐芯 写谢褟 芯褌泻褉褘褌懈褟 褋褋褘谢泻懈 %1$s. 袙褘斜械褉懈褌械 Via 写谢褟 械褢 芯褌泻褉褘褌懈褟.</string>
+    <string name="su">Web 斜褍写械褌 褍褋褌邪薪芯胁谢械薪 斜褉邪褍蟹械褉芯屑 锌芯 褍屑芯谢褔邪薪懈褞 锌芯褋谢械 懈褋锌芯谢褜蟹芯胁邪薪懈褟 械谐芯 写谢褟 芯褌泻褉褘褌懈褟 褋褋褘谢泻懈 %1$s. 袙褘斜械褉懈褌械 Web 写谢褟 械褢 芯褌泻褉褘褌懈褟.</string>
     <string name="sv">校褋褌邪薪芯胁谢械薪 UserAgent: %1$s</string>
     <string name="sw">小写械谢邪褌褜 斜褉邪褍蟹械褉芯屑 锌芯 褍屑芯谢褔邪薪懈褞</string>
     <string name="sx">袧邪褋褌褉芯泄泻懈</string>
@@ -753,7 +751,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="tc">袙芯蟹屑芯卸薪芯褋褌褜 芯褌屑械薪褘 蟹邪泻褉褘褌懈褟 胁泻谢邪写泻懈</string>
     <string name="td">袩褉懈 胁泻谢褞褔褢薪薪芯屑 褉械卸懈屑械 \"懈薪泻芯谐薪懈褌芯\" 胁褋锌谢褘胁邪褞褖械械 褍胁械写芯屑谢械薪懈械 写谢褟 芯褌屑械薪褘 蟹邪泻褉褘褌懈褟 薪械 芯褌芯斜褉邪卸邪械褌褋褟</string>
     <string name="te">袪械谐懈褋褌褉邪褑懈褟 胁褘锌芯谢薪械薪邪 褍褋锌械褕薪芯</string>
-    <string name="tf">"Via 锌芯写写械褉卸懈胁邪械褌 锌芯褔褌懈 胁褋械 褎懈谢褜褌褉褘 Adblock Plus. 
+    <string name="tf">"Web 锌芯写写械褉卸懈胁邪械褌 锌芯褔褌懈 胁褋械 褎懈谢褜褌褉褘 Adblock Plus. 
 袘谢芯泻懈褉芯胁邪褌褜 蟹邪锌褉芯褋褘 芯褌 example.com 屑芯卸薪芯 褋 锌芯屑芯褖褜褞 褌邪泻芯谐芯 褎懈谢褜褌褉邪: 
 ||example.com^ (懈谢懈 锌褉芯褋褌芯: example.com) 
 
@@ -765,7 +763,7 @@ example.com###ad
 
 袪邪蟹斜谢芯泻懈褉芯胁邪褌褜 褋锌械褑懈邪谢褜薪褘械 蟹邪锌褉芯褋褘 屑芯卸薪芯 褋 锌芯屑芯褖褜褞 褎懈谢褜褌褉邪: 
 @@||example.com^"</string>
-    <string name="tg">&lt;b>袘谢芯泻 屑械褌邪写邪薪薪褘褏&lt;/b>&lt;br /> 袦械褌邪写邪薪薪褘械 写芯谢卸薪褘 褋芯芯褌胁械褌褋褌胁芯胁邪褌褜 褎芯褉屑邪褌褍:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @泻谢褞褔 蟹薪邪褔械薪懈械&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: 薪邪蟹胁邪薪懈械 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: 泻芯屑斜懈薪邪褑懈褟 &lt;tt>@namespace&lt;/tt> 懈 &lt;tt>@name&lt;/tt> 褟胁谢褟械褌褋褟 褍薪懈泻邪谢褜薪褘屑 懈写械薪褌懈褎懈泻邪褌芯褉芯屑 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: 锌褉邪胁懈谢邪, 芯锌褉械写械谢褟褞褖懈械, 褋谢械写褍械褌 谢懈 胁褘锌芯谢薪褟褌褜 褋泻褉懈锌褌. 袪械泻芯屑械薪写褍械褌褋褟 懈褋锌芯谢褜蟹芯胁邪褌褜 &lt;tt>@match&lt;/tt> 胁屑械褋褌芯 &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: 褋褌邪褉褘泄 褋锌芯褋芯斜 芯锌褉械写械谢械薪懈褟 薪械芯斜褏芯写懈屑芯褋褌懈 胁褘锌芯谢薪械薪懈褟 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: 胁械褉褋懈褟 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: 芯锌懈褋邪薪懈械 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: 邪胁褌芯褉 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: 蟹邪胁懈褋懈屑芯褋褌懈 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. 袧邪锌褉懈屑械褉, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: 芯锌褉械写械谢褟械褌 屑芯屑械薪褌 蟹邪锌褍褋泻邪 褋泻褉懈锌褌邪. &lt;tt>document-start&lt;/tt> 懈褋锌芯谢褜蟹褍械褌褋褟 写谢褟 胁褋褌褉邪懈胁邪薪懈褟 褋泻褉懈锌褌芯胁 锌械褉械写 蟹邪谐褉褍蟹泻芯泄 褋褌褉邪薪懈褑褘, &lt;tt>document-end&lt;/tt> 懈褋锌芯谢褜蟹褍械褌褋褟 写谢褟 胁褋褌褉邪懈胁邪薪懈褟 褋泻褉懈锌褌芯胁 锌芯褋谢械 蟹邪谐褉褍蟹泻懈 褋褌褉邪薪懈褑褘, &lt;tt>document-idle&lt;/tt> 懈褋锌芯谢褜蟹褍械褌褋褟 写谢褟 胁褋褌褉邪懈胁邪薪懈褟 褋泻褉懈锌褌芯胁 锌褉懈 锌褉芯褋褌芯械 褋褌褉邪薪懈褑褘. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: 芯锌褉械写械谢褟械褌, 泻邪泻懈械 褋锌械褑懈邪谢褜薪褘械 API GM_* 写芯谢卸薪褘 斜褘褌褜 锌褉械写芯褋褌邪胁谢械薪褘 懈 屑芯谐褍褌 斜褘褌褜 懈褋锌芯谢褜蟹芯胁邪薪褘 锌褉懈 胁褘锌芯谢薪械薪懈懈 褋泻褉懈锌褌邪.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: 褋褋褘谢泻邪 蟹邪谐褉褍蟹泻懈 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: 褋褋褘谢泻邪 锌芯写写械褉卸泻懈 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: 褋褋褘谢泻邪 写芯屑邪褕薪械泄 褋褌褉邪薪懈褑褘 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>API GM_*&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> 鈥?褝褌芯 谐褉褍锌锌邪 褋锌械褑懈邪谢褜薪褘褏 API, 锌褉械写芯褋褌邪胁谢褟械屑邪褟 Via. 袙 薪邪褋褌芯褟褖懈泄 屑芯屑械薪褌 褋锌械褑懈邪谢褜薪褘械 API 胁泻谢褞褔邪褞褌 胁 褋械斜褟: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>小芯锌芯褋褌邪胁谢械薪懈械&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> 芯锌褉械写械谢褟械褌 锌褉邪胁懈谢芯 褋芯锌芯褋褌邪胁谢械薪懈褟 褋褋褘谢芯泻. &lt;tt>@exclude-match&lt;/tt> 芯锌褉械写械谢褟械褌 锌褉邪胁懈谢芯 褋芯锌芯褋褌邪胁谢械薪懈褟, 薪芯 懈褋锌芯谢褜蟹褍械褌褋褟 写谢褟 懈褋泻谢褞褔械薪懈褟 褋芯胁锌邪写邪褞褖懈褏 褋褋褘谢芯泻, 邪薪邪谢芯谐懈褔薪芯 &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> 袧邪锌褉懈屑械褉:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>袘谢芯泻 屑械褌邪写邪薪薪褘褏&lt;/b>&lt;br /> 袦械褌邪写邪薪薪褘械 写芯谢卸薪褘 褋芯芯褌胁械褌褋褌胁芯胁邪褌褜 褎芯褉屑邪褌褍:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @泻谢褞褔 蟹薪邪褔械薪懈械&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: 薪邪蟹胁邪薪懈械 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: 泻芯屑斜懈薪邪褑懈褟 &lt;tt>@namespace&lt;/tt> 懈 &lt;tt>@name&lt;/tt> 褟胁谢褟械褌褋褟 褍薪懈泻邪谢褜薪褘屑 懈写械薪褌懈褎懈泻邪褌芯褉芯屑 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: 锌褉邪胁懈谢邪, 芯锌褉械写械谢褟褞褖懈械, 褋谢械写褍械褌 谢懈 胁褘锌芯谢薪褟褌褜 褋泻褉懈锌褌. 袪械泻芯屑械薪写褍械褌褋褟 懈褋锌芯谢褜蟹芯胁邪褌褜 &lt;tt>@match&lt;/tt> 胁屑械褋褌芯 &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: 褋褌邪褉褘泄 褋锌芯褋芯斜 芯锌褉械写械谢械薪懈褟 薪械芯斜褏芯写懈屑芯褋褌懈 胁褘锌芯谢薪械薪懈褟 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: 胁械褉褋懈褟 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: 芯锌懈褋邪薪懈械 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: 蟹邪胁懈褋懈屑芯褋褌懈 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. 袧邪锌褉懈屑械褉, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: 芯锌褉械写械谢褟械褌 屑芯屑械薪褌 蟹邪锌褍褋泻邪 褋泻褉懈锌褌邪. &lt;tt>document-start&lt;/tt> 懈褋锌芯谢褜蟹褍械褌褋褟 写谢褟 胁褋褌褉邪懈胁邪薪懈褟 褋泻褉懈锌褌芯胁 锌械褉械写 蟹邪谐褉褍蟹泻芯泄 褋褌褉邪薪懈褑褘, &lt;tt>document-end&lt;/tt> 懈褋锌芯谢褜蟹褍械褌褋褟 写谢褟 胁褋褌褉邪懈胁邪薪懈褟 褋泻褉懈锌褌芯胁 锌芯褋谢械 蟹邪谐褉褍蟹泻懈 褋褌褉邪薪懈褑褘, &lt;tt>document-idle&lt;/tt> 懈褋锌芯谢褜蟹褍械褌褋褟 写谢褟 胁褋褌褉邪懈胁邪薪懈褟 褋泻褉懈锌褌芯胁 锌褉懈 锌褉芯褋褌芯械 褋褌褉邪薪懈褑褘. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: 芯锌褉械写械谢褟械褌, 泻邪泻懈械 褋锌械褑懈邪谢褜薪褘械 API GM_* 写芯谢卸薪褘 斜褘褌褜 锌褉械写芯褋褌邪胁谢械薪褘 懈 屑芯谐褍褌 斜褘褌褜 懈褋锌芯谢褜蟹芯胁邪薪褘 锌褉懈 胁褘锌芯谢薪械薪懈懈 褋泻褉懈锌褌邪.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: 褋褋褘谢泻邪 蟹邪谐褉褍蟹泻懈 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: 褋褋褘谢泻邪 锌芯写写械褉卸泻懈 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: 褋褋褘谢泻邪 写芯屑邪褕薪械泄 褋褌褉邪薪懈褑褘 锌芯谢褜蟹芯胁邪褌械谢褜褋泻芯谐芯 褋泻褉懈锌褌邪. &lt;br />&lt;br /> &lt;b>API GM_*&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> 鈥?褝褌芯 谐褉褍锌锌邪 褋锌械褑懈邪谢褜薪褘褏 API, 锌褉械写芯褋褌邪胁谢褟械屑邪褟 Web. 袙 薪邪褋褌芯褟褖懈泄 屑芯屑械薪褌 褋锌械褑懈邪谢褜薪褘械 API 胁泻谢褞褔邪褞褌 胁 褋械斜褟: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>小芯锌芯褋褌邪胁谢械薪懈械&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> 芯锌褉械写械谢褟械褌 锌褉邪胁懈谢芯 褋芯锌芯褋褌邪胁谢械薪懈褟 褋褋褘谢芯泻. &lt;tt>@exclude-match&lt;/tt> 芯锌褉械写械谢褟械褌 锌褉邪胁懈谢芯 褋芯锌芯褋褌邪胁谢械薪懈褟, 薪芯 懈褋锌芯谢褜蟹褍械褌褋褟 写谢褟 懈褋泻谢褞褔械薪懈褟 褋芯胁锌邪写邪褞褖懈褏 褋褋褘谢芯泻, 邪薪邪谢芯谐懈褔薪芯 &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> 袧邪锌褉懈屑械褉:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">袧邪褋褌褉芯泄泻懈 褋邪泄褌邪</string>
     <string name="ti">袧邪褋褌褉芯泄泻懈 褋邪泄褌邪 (胁泻谢褞褔械薪芯)</string>
     <string name="tj">袠薪褎芯褉屑邪褑懈褟 芯 褋邪泄褌械</string>
@@ -798,7 +796,7 @@ example.com###ad
     <string name="u8">>999</string>
     <string name="u9">袨褋褌邪褌褜褋褟</string>
     <string name="u_">袨褋褌邪薪芯胁懈褌褜</string>
-    <string name="ua">Via 蟹邪锌褉械褌懈谢 蟹邪谐褉褍蟹泻褍 褋褌褉邪薪懈褑褘:</string>
+    <string name="ua">Web 蟹邪锌褉械褌懈谢 蟹邪谐褉褍蟹泻褍 褋褌褉邪薪懈褑褘:</string>
     <string name="ub">袪褍泻芯胁芯写褋褌胁褍褟褋褜 褎懈谢褜褌褉芯屑:</string>
     <string name="uc">袩褉械泻褉邪褌懈褌褜 褔褌械薪懈械 胁褋谢褍褏</string>
     <string name="ud">袟邪褌械薪械薪懈械 褉邪屑泻懈</string>
@@ -829,7 +827,7 @@ example.com###ad
     <string name="v2">袙泻谢邪写泻邪 蟹邪泻褉褘褌邪</string>
     <string name="v3">袧邪褋褌褉芯泄泻懈 胁泻谢邪写泻懈</string>
     <string name="v4">袙泻谢邪写泻懈</string>
-    <string name="xh">校褋谢芯胁懈褟 懈褋锌芯谢褜蟹芯胁邪薪懈褟</string>
+    <string name="xh"></string>
     <string name="xi">孝械泻褋褌</string>
     <string name="xj">校褋褌邪薪芯胁懈褌褜 褉邪蟹屑械褉 褌械泻褋褌邪 薪邪 芯锌褉械写械谢褢薪薪芯屑 褋邪泄褌械.</string>
     <string name="xk">小褌褉邪薪懈褑邪 蟹邪谐褉褍卸械薪邪 薪械 锌芯谢薪芯褋褌褜褞</string>

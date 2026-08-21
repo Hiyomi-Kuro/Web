@@ -7,9 +7,9 @@
 
 
 # instance fields
-.field public a:Lcom/tuyafeng/scanner/camera/b;
+.field public a:Lcom/android/web/internal/scanner/camera/b;
 
-.field public b:Lcom/tuyafeng/scanner/camera/CameraSettings;
+.field public b:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
 .field public c:Landroid/hardware/Sensor;
 
@@ -19,7 +19,7 @@
 
 
 # direct methods
-.method public constructor <init>(Landroid/content/Context;Lcom/tuyafeng/scanner/camera/b;Lcom/tuyafeng/scanner/camera/CameraSettings;)V
+.method public constructor <init>(Landroid/content/Context;Lcom/android/web/internal/scanner/camera/b;Lcom/android/web/internal/scanner/camera/CameraSettings;)V
     .locals 0
 
     .line 1
@@ -32,11 +32,11 @@
 
     .line 5
     .line 6
-    iput-object p2, p0, Lq3/a;->a:Lcom/tuyafeng/scanner/camera/b;
+    iput-object p2, p0, Lq3/a;->a:Lcom/android/web/internal/scanner/camera/b;
 
     .line 7
     .line 8
-    iput-object p3, p0, Lq3/a;->b:Lcom/tuyafeng/scanner/camera/CameraSettings;
+    iput-object p3, p0, Lq3/a;->b:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 9
     .line 10
@@ -56,11 +56,11 @@
     return-void
 .end method
 
-.method public static synthetic a(Lq3/a;)Lcom/tuyafeng/scanner/camera/b;
+.method public static synthetic a(Lq3/a;)Lcom/android/web/internal/scanner/camera/b;
     .locals 0
 
     .line 1
-    iget-object p0, p0, Lq3/a;->a:Lcom/tuyafeng/scanner/camera/b;
+    iget-object p0, p0, Lq3/a;->a:Lcom/android/web/internal/scanner/camera/b;
 
     .line 2
     .line 3
@@ -98,11 +98,11 @@
     .locals 3
 
     .line 1
-    iget-object v0, p0, Lq3/a;->b:Lcom/tuyafeng/scanner/camera/CameraSettings;
+    iget-object v0, p0, Lq3/a;->b:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 2
     .line 3
-    invoke-virtual {v0}, Lcom/tuyafeng/scanner/camera/CameraSettings;->d()Z
+    invoke-virtual {v0}, Lcom/android/web/internal/scanner/camera/CameraSettings;->d()Z
 
     .line 4
     .line 5
@@ -235,7 +235,7 @@
 
     .line 5
     .line 6
-    iget-object v1, p0, Lq3/a;->a:Lcom/tuyafeng/scanner/camera/b;
+    iget-object v1, p0, Lq3/a;->a:Lcom/android/web/internal/scanner/camera/b;
 
     .line 7
     .line 8

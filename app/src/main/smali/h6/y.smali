@@ -2192,11 +2192,11 @@
 
     .line 34
     .line 35
-    new-instance v3, Lmark/via/common/widget/h1;
+    new-instance v3, Lcom/android/web/common/widget/h1;
 
     .line 36
     .line 37
-    invoke-direct {v3, p3}, Lmark/via/common/widget/h1;-><init>(Landroid/content/Context;)V
+    invoke-direct {v3, p3}, Lcom/android/web/common/widget/h1;-><init>(Landroid/content/Context;)V
 
     .line 38
     .line 39
@@ -2286,11 +2286,11 @@
 
     .line 82
     :cond_1
-    new-instance p2, Lcom/tuyafeng/support/widget/y;
+    new-instance p2, Lcom/android/web/internal/support/widget/y;
 
     .line 83
     .line 84
-    invoke-direct {p2, p3}, Lcom/tuyafeng/support/widget/y;-><init>(Landroid/content/Context;)V
+    invoke-direct {p2, p3}, Lcom/android/web/internal/support/widget/y;-><init>(Landroid/content/Context;)V
 
     .line 85
     .line 86
@@ -2318,7 +2318,7 @@
     .line 98
     .line 99
     .line 100
-    invoke-virtual {p2, p0, p1}, Lcom/tuyafeng/support/widget/y;->m(Landroidx/fragment/app/Fragment;Landroid/view/View;)V
+    invoke-virtual {p2, p0, p1}, Lcom/android/web/internal/support/widget/y;->m(Landroidx/fragment/app/Fragment;Landroid/view/View;)V
 
     .line 101
     .line 102
@@ -2326,7 +2326,7 @@
     const/4 p0, -0x2
 
     .line 104
-    invoke-virtual {p2, p0}, Lcom/tuyafeng/support/widget/y;->setEdgeSize(I)V
+    invoke-virtual {p2, p0}, Lcom/android/web/internal/support/widget/y;->setEdgeSize(I)V
 
     .line 105
     .line 106
@@ -2346,7 +2346,7 @@
     int-to-float p0, p0
 
     .line 114
-    invoke-virtual {p2, p0}, Lcom/tuyafeng/support/widget/y;->setScrollThresHoldSize(F)V
+    invoke-virtual {p2, p0}, Lcom/android/web/internal/support/widget/y;->setScrollThresHoldSize(F)V
 
     .line 115
     .line 116
@@ -2557,7 +2557,7 @@
     return-void
 .end method
 
-.method public static synthetic e(Landroid/content/Context;Lmark/via/common/widget/h1;)V
+.method public static synthetic e(Landroid/content/Context;Lcom/android/web/common/widget/h1;)V
     .locals 3
 
     .line 1
@@ -4126,7 +4126,7 @@
     return p0
 .end method
 
-.method public static w(Landroid/content/Context;)Lcom/tuyafeng/support/widget/y;
+.method public static w(Landroid/content/Context;)Lcom/android/web/internal/support/widget/y;
     .locals 2
 
     .line 1
@@ -4177,7 +4177,7 @@
     move-result-object p0
 
     .line 22
-    instance-of v1, p0, Lcom/tuyafeng/support/widget/y;
+    instance-of v1, p0, Lcom/android/web/internal/support/widget/y;
 
     .line 23
     .line 24
@@ -4185,7 +4185,7 @@
 
     .line 25
     .line 26
-    check-cast p0, Lcom/tuyafeng/support/widget/y;
+    check-cast p0, Lcom/android/web/internal/support/widget/y;
 
     .line 27
     .line 28

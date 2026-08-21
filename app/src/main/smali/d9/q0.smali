@@ -14,7 +14,7 @@
 
 .field public n0:Ll6/e;
 
-.field public o0:Lcom/tuyafeng/support/widget/z;
+.field public o0:Lcom/android/web/internal/support/widget/z;
 
 .field public p0:Landroid/widget/TextView;
 
@@ -521,7 +521,7 @@
     return-void
 .end method
 
-.method public static synthetic c3(Ld9/q0;Landroid/widget/LinearLayout;Lcom/tuyafeng/support/widget/z;)V
+.method public static synthetic c3(Ld9/q0;Landroid/widget/LinearLayout;Lcom/android/web/internal/support/widget/z;)V
     .locals 9
 
     .line 1
@@ -556,7 +556,7 @@
     move-result-object p1
 
     .line 18
-    invoke-virtual {p2, p1}, Lcom/tuyafeng/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
+    invoke-virtual {p2, p1}, Lcom/android/web/internal/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
 
     .line 19
     .line 20
@@ -614,12 +614,12 @@
     .line 46
     .line 47
     .line 48
-    invoke-virtual {p2, p1, v0, v1}, Lcom/tuyafeng/support/widget/z;->l(Landroid/graphics/drawable/Drawable;Ljava/lang/String;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p2, p1, v0, v1}, Lcom/android/web/internal/support/widget/z;->l(Landroid/graphics/drawable/Drawable;Ljava/lang/String;Landroid/view/View$OnClickListener;)V
 
     .line 49
     .line 50
     .line 51
-    new-instance v2, Lcom/tuyafeng/support/widget/z$b;
+    new-instance v2, Lcom/android/web/internal/support/widget/z$b;
 
     .line 52
     .line 53
@@ -648,7 +648,7 @@
     const/4 v5, 0x0
 
     .line 64
-    invoke-direct/range {v2 .. v7}, Lcom/tuyafeng/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;Z)V
+    invoke-direct/range {v2 .. v7}, Lcom/android/web/internal/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;Z)V
 
     .line 65
     .line 66
@@ -662,12 +662,12 @@
     .line 70
     .line 71
     .line 72
-    invoke-virtual {p2, v2, p1}, Lcom/tuyafeng/support/widget/z;->c(Lcom/tuyafeng/support/widget/z$b;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p2, v2, p1}, Lcom/android/web/internal/support/widget/z;->c(Lcom/android/web/internal/support/widget/z$b;Landroid/view/View$OnClickListener;)V
 
     .line 73
     .line 74
     .line 75
-    new-instance v3, Lcom/tuyafeng/support/widget/z$b;
+    new-instance v3, Lcom/android/web/internal/support/widget/z$b;
 
     .line 76
     .line 77
@@ -696,7 +696,7 @@
     const/4 v6, 0x0
 
     .line 88
-    invoke-direct/range {v3 .. v8}, Lcom/tuyafeng/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;Z)V
+    invoke-direct/range {v3 .. v8}, Lcom/android/web/internal/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;Z)V
 
     .line 89
     .line 90
@@ -710,7 +710,7 @@
     .line 94
     .line 95
     .line 96
-    invoke-virtual {p2, v3, p1}, Lcom/tuyafeng/support/widget/z;->c(Lcom/tuyafeng/support/widget/z$b;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p2, v3, p1}, Lcom/android/web/internal/support/widget/z;->c(Lcom/android/web/internal/support/widget/z$b;Landroid/view/View$OnClickListener;)V
 
     .line 97
     .line 98
@@ -718,7 +718,7 @@
     return-void
 .end method
 
-.method public static synthetic d3(Ld9/q0;Landroid/widget/LinearLayout;Lcom/tuyafeng/support/widget/y;)V
+.method public static synthetic d3(Ld9/q0;Landroid/widget/LinearLayout;Lcom/android/web/internal/support/widget/y;)V
     .locals 1
 
     .line 1
@@ -727,7 +727,7 @@
     .line 2
     .line 3
     .line 4
-    invoke-virtual {p2, p1}, Lcom/tuyafeng/support/widget/y;->n(Landroid/view/View;)V
+    invoke-virtual {p2, p1}, Lcom/android/web/internal/support/widget/y;->n(Landroid/view/View;)V
 
     .line 5
     .line 6
@@ -735,7 +735,7 @@
     const/4 p1, -0x2
 
     .line 8
-    invoke-virtual {p2, p1}, Lcom/tuyafeng/support/widget/y;->setEdgeSize(I)V
+    invoke-virtual {p2, p1}, Lcom/android/web/internal/support/widget/y;->setEdgeSize(I)V
 
     .line 9
     .line 10
@@ -763,7 +763,7 @@
     int-to-float p1, p1
 
     .line 22
-    invoke-virtual {p2, p1}, Lcom/tuyafeng/support/widget/y;->setScrollThresHoldSize(F)V
+    invoke-virtual {p2, p1}, Lcom/android/web/internal/support/widget/y;->setScrollThresHoldSize(F)V
 
     .line 23
     .line 24
@@ -777,7 +777,7 @@
     .line 28
     .line 29
     .line 30
-    invoke-virtual {p2, p1}, Lcom/tuyafeng/support/widget/y;->l(Lcom/tuyafeng/support/widget/y$a;)V
+    invoke-virtual {p2, p1}, Lcom/android/web/internal/support/widget/y;->l(Lcom/android/web/internal/support/widget/y$a;)V
 
     .line 31
     .line 32
@@ -1022,7 +1022,7 @@
 
     .line 51
     .line 52
-    new-instance p3, Lcom/tuyafeng/support/widget/z;
+    new-instance p3, Lcom/android/web/internal/support/widget/z;
 
     .line 53
     .line 54
@@ -1034,7 +1034,7 @@
     move-result-object v1
 
     .line 58
-    invoke-direct {p3, v1}, Lcom/tuyafeng/support/widget/z;-><init>(Landroid/content/Context;)V
+    invoke-direct {p3, v1}, Lcom/android/web/internal/support/widget/z;-><init>(Landroid/content/Context;)V
 
     .line 59
     .line 60
@@ -1081,11 +1081,11 @@
     move-result-object p2
 
     .line 83
-    check-cast p2, Lcom/tuyafeng/support/widget/z;
+    check-cast p2, Lcom/android/web/internal/support/widget/z;
 
     .line 84
     .line 85
-    iput-object p2, p0, Ld9/q0;->o0:Lcom/tuyafeng/support/widget/z;
+    iput-object p2, p0, Ld9/q0;->o0:Lcom/android/web/internal/support/widget/z;
 
     .line 86
     .line 87
@@ -1263,7 +1263,7 @@
 
     .line 178
     .line 179
-    new-instance p3, Lcom/tuyafeng/support/widget/y;
+    new-instance p3, Lcom/android/web/internal/support/widget/y;
 
     .line 180
     .line 181
@@ -1275,7 +1275,7 @@
     move-result-object v1
 
     .line 185
-    invoke-direct {p3, v1}, Lcom/tuyafeng/support/widget/y;-><init>(Landroid/content/Context;)V
+    invoke-direct {p3, v1}, Lcom/android/web/internal/support/widget/y;-><init>(Landroid/content/Context;)V
 
     .line 186
     .line 187
@@ -1319,7 +1319,7 @@
     move-result-object p1
 
     .line 209
-    check-cast p1, Lcom/tuyafeng/support/widget/y;
+    check-cast p1, Lcom/android/web/internal/support/widget/y;
 
     .line 210
     .line 211
@@ -1466,7 +1466,7 @@
     .line 11
     .line 12
     .line 13
-    iget-object v0, p0, Ld9/q0;->o0:Lcom/tuyafeng/support/widget/z;
+    iget-object v0, p0, Ld9/q0;->o0:Lcom/android/web/internal/support/widget/z;
 
     .line 14
     .line 15
@@ -1478,12 +1478,12 @@
 
     .line 18
     .line 19
-    invoke-virtual {v0, v1, v2}, Lcom/tuyafeng/support/widget/z;->j(IZ)V
+    invoke-virtual {v0, v1, v2}, Lcom/android/web/internal/support/widget/z;->j(IZ)V
 
     .line 20
     .line 21
     .line 22
-    iget-object v0, p0, Ld9/q0;->o0:Lcom/tuyafeng/support/widget/z;
+    iget-object v0, p0, Ld9/q0;->o0:Lcom/android/web/internal/support/widget/z;
 
     .line 23
     .line 24
@@ -1491,7 +1491,7 @@
 
     .line 25
     .line 26
-    invoke-virtual {v0, v1, p1}, Lcom/tuyafeng/support/widget/z;->j(IZ)V
+    invoke-virtual {v0, v1, p1}, Lcom/android/web/internal/support/widget/z;->j(IZ)V
 
     .line 27
     .line 28

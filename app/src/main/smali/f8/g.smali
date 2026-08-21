@@ -1315,7 +1315,7 @@
 
     .line 30
     .line 31
-    const-string v2, "Via"
+    const-string v2, "Web"
 
     .line 32
     .line 33

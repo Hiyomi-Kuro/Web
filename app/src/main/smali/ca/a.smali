@@ -25,7 +25,11 @@
     .locals 1
 
     .line 1
-    const-string v0, "https://app.viayoo.com/api/update"
+    const-string v0, "aHR0cHM6Ly9hcHAudmlheW9vLmNvbS9hcGkvdXBkYXRl"
+
+    invoke-static {v0}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v0
 
     .line 2
     .line 3
@@ -36,7 +40,7 @@
     .locals 1
 
     .line 1
-    const-string v0, "https://viayoo.com/zh-cn/docs/privacy-policy.html"
+    const-string v0, ""
 
     .line 2
     .line 3
@@ -47,7 +51,11 @@
     .locals 1
 
     .line 1
-    const-string v0, "https://app.viayoo.com/api/sync?"
+    const-string v0, "aHR0cHM6Ly9hcHAudmlheW9vLmNvbS9hcGkvc3luYz8="
+
+    invoke-static {v0}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v0
 
     .line 2
     .line 3
@@ -58,7 +66,11 @@
     .locals 1
 
     .line 1
-    const-string v0, "https://app.viayoo.com/api/user?"
+    const-string v0, "aHR0cHM6Ly9hcHAudmlheW9vLmNvbS9hcGkvdXNlcj8="
+
+    invoke-static {v0}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v0
 
     .line 2
     .line 3
@@ -69,7 +81,7 @@
     .locals 1
 
     .line 1
-    const-string v0, "https://viayoo.com/zh-cn/docs/terms-of-use.html"
+    const-string v0, ""
 
     .line 2
     .line 3

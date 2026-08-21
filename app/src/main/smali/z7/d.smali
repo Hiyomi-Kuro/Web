@@ -37,7 +37,7 @@
 
     .line 2
     .line 3
-    invoke-static {v0}, Lmark/via/BrowserApp;->d(Ljava/lang/String;)V
+    invoke-static {v0}, Lcom/android/web/BrowserApp;->d(Ljava/lang/String;)V
 
     .line 4
     .line 5

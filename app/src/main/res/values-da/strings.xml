@@ -84,8 +84,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">Enig</string>
-    <string name="bq">Du skal acceptere og acceptere alle vilk氓rene, f酶r du begynder at bruge vores tjeneste.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="bv">Alle websteder</string>
     <string name="bw">Hele tiden</string>
     <string name="bx">Tillad</string>
@@ -97,7 +97,7 @@
     <string name="c3">Tilladt</string>
     <string name="c4">Det er allerede blevet indstillet som standard</string>
     <string name="c5">Gendan altid</string>
-    <string name="c8">Via downloader filer</string>
+    <string name="c8">Web downloader filer</string>
     <string name="c9">Tryk for at se downloads</string>
     <string name="c_">Web</string>
     <string name="cb">Ascii2D</string>
@@ -229,9 +229,7 @@ Indtast venligst din adgangskode for at sende anmodningen."</string>
     <string name="gc">Anmod webstedet om ikke at s忙lge eller dele mine data for at beskytte privatlivets fred (eksperimentelt)</string>
     <string name="gd">Spor ikke</string>
     <string name="ge">Doner</string>
-    <string name="gf">"Hvis du kan lide Via browser, kan du donere for at st酶tte os.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Udf酶rt</string>
     <string name="gi">Downloadplacering</string>
     <string name="gj">Pause</string>
@@ -259,7 +257,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h5">Venter p氓 netv忙rk</string>
     <string name="h6">DuckDuckGo</string>
     <string name="h8">Rediger filterabonnement</string>
-    <string name="h_">Send mig en e-mail</string>
+    <string name="h_"></string>
     <string name="ha">Tom</string>
     <string name="hb">Indtast venligst din adgangskode</string>
     <string name="hc">Indtast venligst dit brugernavn</string>
@@ -342,15 +340,15 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="kb">Startside</string>
     <string name="kc">HTML-kode</string>
     <string name="kd">Ignorer denne webstedsmeddelelse i et minut</string>
-    <string name="ke">Vis kun billeder via Wi-Fi</string>
+    <string name="ke">Vis kun billeder through Wi-Fi</string>
     <string name="kf">Bloker billeder</string>
     <string name="kg">Vis billeder</string>
     <string name="ki">Billeder</string>
     <string name="kj">Vis billeder for et specifikt websted.</string>
     <string name="kk">Bloker billeder for et bestemt websted.</string>
     <string name="kl">Tillad websteder at indl忙se billeder</string>
-    <string name="km">Tillad, at websteder kun indl忙ser billeder via Wi-Fi</string>
-    <string name="kn">Kun tilladt via Wi-Fi</string>
+    <string name="km">Tillad, at websteder kun indl忙ser billeder through Wi-Fi</string>
+    <string name="kn">Kun tilladt through Wi-Fi</string>
     <string name="ko">Kunne ikke importere bogm忙rker fra filen!</string>
     <string name="kp">Import茅r bogm忙rker</string>
     <string name="kq">Import茅r data</string>
@@ -424,7 +422,7 @@ Vil gerne bruge din placering"</string>
     <string name="n4">Lagringstilladelsen for downloadplaceringen er blevet tilbagekaldt. Genv忙lg download-mappens placering.</string>
     <string name="n5">Er du sikker p氓, at du vil nulstille webstedskonfigurationen for %1$s?</string>
     <string name="n6">N氓r du bruger adresselinjen, skal du foresl氓</string>
-    <string name="n7">Ved at bruge Via accepterer du vores %1$s og %2$s.</string>
+    <string name="n7"></string>
     <string name="n9">Er du sikker p氓, at du vil opdatere \"%1$s\"(%2$s -> %3$s)?</string>
     <string name="na">Mikrofon</string>
     <string name="nb">Tillad et specifikt websted at bruge din mikrofon.</string>
@@ -506,14 +504,14 @@ Vil gerne bruge din placering"</string>
     <string name="qe">Pop-ups</string>
     <string name="qf">Sp酶rg f酶rst, f酶r du tillader websteder at vise pop op-vinduer</string>
     <string name="qg">Udskriv/PDF</string>
-    <string name="qh">Privatlivspolitik</string>
+    <string name="qh"></string>
     <string name="qi">Behandler blob-data...</string>
     <string name="qj">QR-kode</string>
     <string name="qk">QR-kode blev ikke fundet</string>
     <string name="ql">Resultat af QR-kodescanning</string>
     <string name="qm">G氓 tilbage uden at genindl忙se</string>
     <string name="qp">L忙s h酶jt</string>
-    <string name="qr">L忙s og accepter %1$s og %2$s</string>
+    <string name="qr"></string>
     <string name="qy">Nyligt lukkede faner</string>
     <string name="r0">Husk mit valg</string>
     <string name="r1">Fjern identificerende overskrifter</string>
@@ -554,7 +552,7 @@ Det er nemmere at finde mediefiler, mens musik eller video afspilles. Ressource 
     <string name="sc">Rektangel</string>
     <string name="sd">S酶g efter billede</string>
     <string name="sf">S酶g</string>
-    <string name="sh">S酶g i Via</string>
+    <string name="sh">S酶g i Web</string>
     <string name="si">S酶gedel</string>
     <string name="sj">Skjul</string>
     <string name="sk">Vis</string>
@@ -563,7 +561,7 @@ Det er nemmere at finde mediefiler, mens musik eller video afspilles. Ressource 
     <string name="sp">V忙lg mappe</string>
     <string name="ss">Dataene p氓 disse servere er ikke synkroniseret. Du bliver bedt om at logge ind igen.</string>
     <string name="st">Vil du indstille den som startside?</string>
-    <string name="su">Det vil blive sat som standard efter 氓bning af linket %1$s. V忙lg Via for at 氓bne linket.</string>
+    <string name="su">Det vil blive sat som standard efter 氓bning af linket %1$s. V忙lg Web for at 氓bne linket.</string>
     <string name="sv">Brugeragent er indstillet som: %1$s</string>
     <string name="sw">Indstil som standardbrowser</string>
     <string name="sx">Indstillinger</string>
@@ -581,7 +579,7 @@ Det er nemmere at finde mediefiler, mens musik eller video afspilles. Ressource 
     <string name="tc">Vis toast for at fortryde lukkefane</string>
     <string name="td">Toasten vil ikke blive vist, hvis inkognitotilstand er aktiveret</string>
     <string name="te">Tilmelding lykkedes</string>
-    <string name="tf">"Via underst酶tter n忙sten alle Adblock Plus-filtre. 
+    <string name="tf">"Web underst酶tter n忙sten alle Adblock Plus-filtre. 
 Du kan blokere anmodninger fra example.com med et filter som: 
 ||eksempel.dk^ (eller blot: eksempel.dk) 
 
@@ -593,7 +591,7 @@ example.com###annonce
 
 Du kan fjerne blokeringen af 鈥嬧€媠忙rlige anmodninger med et filter som: 
 @@||eksempel.com^"</string>
-    <string name="tg">"&lt;b>Metadatablok&lt;/b>&lt;br /> Metadataene skal f酶lge formatet:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: Navnet p氓 brugerscriptet. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: Kombinationen af &lt;tt>@namespace&lt;/tt> og &lt;tt>@name&lt;/tt> er den unikke identifikator for et brugerscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Definer regler for at bestemme, om et script skal udf酶res. Det anbefales at bruge &lt;tt>@match&lt;/tt> i stedet for &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: Den gamle m氓de at beslutte om et script skal udf酶res p氓. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: Versionen af brugerscriptet. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: Beskrivelsen af brugerscriptet. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: Forfatteren af brugerscriptet. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: Kravet til brugerscriptet. For eksempel &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Beslut hvorn氓r scriptet skal k酶res. &lt;tt>document-start&lt;/tt> bruges til at inds忙tte scripts f酶r siden indl忙ses, &lt;tt>document-end&lt;/tt> bruges til at inds忙tte scripts efter sideindl忙sning. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Angiv, hvilke specielle GM_* API'er der skal tildeles og kan bruges, n氓r scriptet k酶res.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: Den URL, scriptet kan downloades fra. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: Support-URL'en for brugerscriptet. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: Hjemmesidewebadressen for brugerscriptet. &lt;br />&lt;br /> &lt;b>GM_* API'er&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> er en gruppe af specielle API'er leveret af Via. Aktuelt underst酶ttede specielle API'er inkluderer: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_untt> &lt;br />&lt;br /> &lt;b>Matchende&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> definerer en URL-matchningsregel. &lt;tt>@exclude-match&lt;/tt> definerer en matchregel, men bruges til at ekskludere de matchede URL'er, svarende til &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> For eksempel:&lt;br /> &lt;tt> // @match https://www.google.com/noget &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br />"</string>
+    <string name="tg">"&lt;b>Metadatablok&lt;/b>&lt;br /> Metadataene skal f酶lge formatet:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: Navnet p氓 brugerscriptet. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: Kombinationen af &lt;tt>@namespace&lt;/tt> og &lt;tt>@name&lt;/tt> er den unikke identifikator for et brugerscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Definer regler for at bestemme, om et script skal udf酶res. Det anbefales at bruge &lt;tt>@match&lt;/tt> i stedet for &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: Den gamle m氓de at beslutte om et script skal udf酶res p氓. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: Versionen af brugerscriptet. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: Beskrivelsen af brugerscriptet. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: Kravet til brugerscriptet. For eksempel &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Beslut hvorn氓r scriptet skal k酶res. &lt;tt>document-start&lt;/tt> bruges til at inds忙tte scripts f酶r siden indl忙ses, &lt;tt>document-end&lt;/tt> bruges til at inds忙tte scripts efter sideindl忙sning. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Angiv, hvilke specielle GM_* API'er der skal tildeles og kan bruges, n氓r scriptet k酶res.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: Den URL, scriptet kan downloades fra. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: Support-URL'en for brugerscriptet. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: Hjemmesidewebadressen for brugerscriptet. &lt;br />&lt;br /> &lt;b>GM_* API'er&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> er en gruppe af specielle API'er leveret af Web. Aktuelt underst酶ttede specielle API'er inkluderer: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_untt> &lt;br />&lt;br /> &lt;b>Matchende&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> definerer en URL-matchningsregel. &lt;tt>@exclude-match&lt;/tt> definerer en matchregel, men bruges til at ekskludere de matchede URL'er, svarende til &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> For eksempel:&lt;br /> &lt;tt> // @match https://www.google.com/noget &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br />"</string>
     <string name="th">Webstedskonfiguration</string>
     <string name="ti">Webstedskonfiguration (aktiveret)</string>
     <string name="tj">Webstedsoplysninger</string>
@@ -623,7 +621,7 @@ Vil du forts忙tte alligevel?"</string>
     <string name="u7">Startside</string>
     <string name="u8">999+</string>
     <string name="u9">Bliv</string>
-    <string name="ua">Via har forhindret f酶lgende side i at indl忙se:</string>
+    <string name="ua">Web har forhindret f酶lgende side i at indl忙se:</string>
     <string name="ub">P氓 grund af f酶lgende filter:</string>
     <string name="ud">Gr忙nsegennemsigtighed</string>
     <string name="ue">Kantbredde</string>
@@ -652,7 +650,7 @@ Vil du forts忙tte alligevel?"</string>
     <string name="v2">Fanen er lukket</string>
     <string name="v3">Faneindstillinger</string>
     <string name="v4">Faner</string>
-    <string name="xh">Betingelser for brug</string>
+    <string name="xh"></string>
     <string name="xi">Tekst</string>
     <string name="xl">Webstedet</string>
     <string name="xm">Temafarve</string>

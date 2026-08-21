@@ -4,22 +4,22 @@
 
 
 # direct methods
-.method public static a(Lmark/via/Shell;Ly9/l;)V
+.method public static a(Lcom/android/web/Shell;Ly9/l;)V
     .locals 0
 
     .line 1
-    iput-object p1, p0, Lmark/via/Shell;->I:Ly9/l;
+    iput-object p1, p0, Lcom/android/web/Shell;->I:Ly9/l;
 
     .line 2
     .line 3
     return-void
 .end method
 
-.method public static b(Lmark/via/Shell;Lu8/b;)V
+.method public static b(Lcom/android/web/Shell;Lu8/b;)V
     .locals 0
 
     .line 1
-    iput-object p1, p0, Lmark/via/Shell;->J:Lu8/b;
+    iput-object p1, p0, Lcom/android/web/Shell;->J:Lu8/b;
 
     .line 2
     .line 3

@@ -329,7 +329,7 @@
 
     .line 89
     .line 90
-    const-class v4, Lmark/via/Trampoline;
+    const-class v4, Lcom/android/web/Trampoline;
 
     .line 91
     .line 92
@@ -348,7 +348,7 @@
     .line 99
     .line 100
     .line 101
-    const-string v3, "mark.via.READ_ALOUD"
+    const-string v3, "com.android.web.READ_ALOUD"
 
     .line 102
     .line 103
@@ -389,7 +389,7 @@
 
     .line 121
     .line 122
-    const-class v6, Lmark/via/receiver/ReadAloudReceiver;
+    const-class v6, Lcom/android/web/receiver/ReadAloudReceiver;
 
     .line 123
     .line 124

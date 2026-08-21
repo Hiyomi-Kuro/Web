@@ -106,7 +106,7 @@
 
     .line 19
     .line 20
-    new-instance v0, Lmark/via/common/widget/LinearLayoutPagerManager;
+    new-instance v0, Lcom/android/web/common/widget/LinearLayoutPagerManager;
 
     .line 21
     .line 22
@@ -124,7 +124,7 @@
     const/4 v3, 0x5
 
     .line 28
-    invoke-direct {v0, v1, v2, v3, v2}, Lmark/via/common/widget/LinearLayoutPagerManager;-><init>(Landroid/content/Context;IIZ)V
+    invoke-direct {v0, v1, v2, v3, v2}, Lcom/android/web/common/widget/LinearLayoutPagerManager;-><init>(Landroid/content/Context;IIZ)V
 
     .line 29
     .line 30

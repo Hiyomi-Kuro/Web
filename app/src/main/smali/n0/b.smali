@@ -106,7 +106,7 @@
     .line 33
     .line 34
     .line 35
-    const-string p0, " via reflection"
+    const-string p0, " web reflection"
 
     .line 36
     .line 37

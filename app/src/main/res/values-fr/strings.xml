@@ -101,9 +101,7 @@ actualiser pour prendre en compte le param猫tre."</string>
     <string name="g8">Ne pas restaurer</string>
     <string name="gd">Ne pas me pister</string>
     <string name="ge">Faire un don</string>
-    <string name="gf">"Si vous aimez le navigateur Via, vous pouvez faire un don pour nous soutenir.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gi">Dossier de t茅l茅chargement</string>
     <string name="gl">T茅l茅chargement termin茅</string>
     <string name="gx">D茅marrage du t茅l茅chargement鈥</string>
@@ -138,7 +136,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="k9">Vous 锚tes en mode incognito. Le nouvel historique ne sera pas enregistr茅.</string>
     <string name="kb">"Page d'accueil"</string>
     <string name="kc">Code HTML</string>
-    <string name="ke">Afficher les images uniquement via le wifi</string>
+    <string name="ke">Afficher les images uniquement through le wifi</string>
     <string name="kf">Afficher les images</string>
     <string name="kg">Bloquer les images</string>
     <string name="ko">"Impossible d'importer les favoris 脿 partir du fichier"</string>
@@ -208,7 +206,7 @@ La capture est plus facile quand la lecture de son ou de vid茅o est en cours. P
     <string name="sd">Recherche par image</string>
     <string name="sf">Rechercher</string>
     <string name="st">"D茅finir comme page d'accueil ?"</string>
-    <string name="su">Sera param茅tr茅 par d茅faut apr猫s avoir utilis茅 le lien ouvert (%1$s), choisir Via pour ouvrir le lien.</string>
+    <string name="su">Sera param茅tr茅 par d茅faut apr猫s avoir utilis茅 le lien ouvert (%1$s), choisir Web pour ouvrir le lien.</string>
     <string name="sv">"L'agent utilisateur actuel est %1$s"</string>
     <string name="sw">D茅finir comme navigateur par d茅faut</string>
     <string name="sx">Param猫tres</string>

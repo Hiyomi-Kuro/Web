@@ -1149,7 +1149,11 @@
     move-result-object v3
 
     .line 51
-    const-string v4, "https://app.viayoo.com/addons/"
+    const-string v4, "aHR0cHM6Ly9hcHAudmlheW9vLmNvbS9hZGRvbnMv"
+
+    invoke-static {v4}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v4
 
     .line 52
     .line 53

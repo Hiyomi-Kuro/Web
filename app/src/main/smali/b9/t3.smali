@@ -27,7 +27,7 @@
     return-void
 .end method
 
-.method public static a(Lcom/tuyafeng/support/widget/z;I)V
+.method public static a(Lcom/android/web/internal/support/widget/z;I)V
     .locals 1
 
     .line 1
@@ -55,7 +55,7 @@
     move-result-object p1
 
     .line 12
-    invoke-static {p0, p1}, Lb9/t3;->b(Lcom/tuyafeng/support/widget/z;Ljava/lang/String;)V
+    invoke-static {p0, p1}, Lb9/t3;->b(Lcom/android/web/internal/support/widget/z;Ljava/lang/String;)V
 
     .line 13
     .line 14
@@ -63,7 +63,7 @@
     return-void
 .end method
 
-.method public static b(Lcom/tuyafeng/support/widget/z;Ljava/lang/String;)V
+.method public static b(Lcom/android/web/internal/support/widget/z;Ljava/lang/String;)V
     .locals 2
 
     .line 1
@@ -84,7 +84,7 @@
     .line 7
     .line 8
     .line 9
-    invoke-virtual {p0, p1}, Lcom/tuyafeng/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
+    invoke-virtual {p0, p1}, Lcom/android/web/internal/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
 
     .line 10
     .line 11
@@ -125,7 +125,7 @@
     move-result-object p1
 
     .line 30
-    invoke-virtual {p0, v0, p1}, Lcom/tuyafeng/support/widget/z;->k(Landroid/graphics/drawable/Drawable;Ljava/lang/String;)V
+    invoke-virtual {p0, v0, p1}, Lcom/android/web/internal/support/widget/z;->k(Landroid/graphics/drawable/Drawable;Ljava/lang/String;)V
 
     .line 31
     .line 32

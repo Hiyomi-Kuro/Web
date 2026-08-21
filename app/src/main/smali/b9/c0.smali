@@ -8,7 +8,7 @@
     .locals 1
 
     .line 1
-    invoke-static {}, Lmark/via/BrowserApp;->f()Ljava/lang/String;
+    invoke-static {}, Lcom/android/web/BrowserApp;->f()Ljava/lang/String;
 
     .line 2
     .line 3

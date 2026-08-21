@@ -14,7 +14,7 @@
 
 .field public r0:J
 
-.field public s0:Lcom/tuyafeng/support/widget/z;
+.field public s0:Lcom/android/web/internal/support/widget/z;
 
 
 # direct methods
@@ -1020,16 +1020,16 @@
     return-object p1
 .end method
 
-.method public Z2(Lcom/tuyafeng/support/widget/z;)V
+.method public Z2(Lcom/android/web/internal/support/widget/z;)V
     .locals 6
 
     .line 1
-    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 2
     .line 3
     .line 4
-    iput-object p1, p0, Lkb/m0;->s0:Lcom/tuyafeng/support/widget/z;
+    iput-object p1, p0, Lkb/m0;->s0:Lcom/android/web/internal/support/widget/z;
 
     .line 5
     .line 6
@@ -1037,12 +1037,12 @@
 
     .line 7
     .line 8
-    invoke-static {p1, v0}, Lb9/t3;->a(Lcom/tuyafeng/support/widget/z;I)V
+    invoke-static {p1, v0}, Lb9/t3;->a(Lcom/android/web/internal/support/widget/z;I)V
 
     .line 9
     .line 10
     .line 11
-    new-instance v0, Lcom/tuyafeng/support/widget/z$b;
+    new-instance v0, Lcom/android/web/internal/support/widget/z$b;
 
     .line 12
     .line 13
@@ -1093,7 +1093,7 @@
     const/4 v4, 0x0
 
     .line 36
-    invoke-direct {v0, v1, v4, v2, v3}, Lcom/tuyafeng/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
+    invoke-direct {v0, v1, v4, v2, v3}, Lcom/android/web/internal/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
 
     .line 37
     .line 38
@@ -1107,12 +1107,12 @@
     .line 42
     .line 43
     .line 44
-    invoke-virtual {p1, v0, v1}, Lcom/tuyafeng/support/widget/z;->c(Lcom/tuyafeng/support/widget/z$b;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p1, v0, v1}, Lcom/android/web/internal/support/widget/z;->c(Lcom/android/web/internal/support/widget/z$b;Landroid/view/View$OnClickListener;)V
 
     .line 45
     .line 46
     .line 47
-    new-instance v0, Lcom/tuyafeng/support/widget/z$b;
+    new-instance v0, Lcom/android/web/internal/support/widget/z$b;
 
     .line 48
     .line 49
@@ -1160,7 +1160,7 @@
     move-result-object v3
 
     .line 71
-    invoke-direct {v0, v1, v4, v2, v3}, Lcom/tuyafeng/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
+    invoke-direct {v0, v1, v4, v2, v3}, Lcom/android/web/internal/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
 
     .line 72
     .line 73
@@ -1174,7 +1174,7 @@
     .line 77
     .line 78
     .line 79
-    invoke-virtual {p1, v0, v1}, Lcom/tuyafeng/support/widget/z;->c(Lcom/tuyafeng/support/widget/z$b;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p1, v0, v1}, Lcom/android/web/internal/support/widget/z;->c(Lcom/android/web/internal/support/widget/z$b;Landroid/view/View$OnClickListener;)V
 
     .line 80
     .line 81
@@ -1337,7 +1337,7 @@
     .line 11
     .line 12
     .line 13
-    const-string v1, "yafengtu@gmail.com"
+    const-string v1, ""
 
     .line 14
     .line 15
@@ -1375,7 +1375,7 @@
 
     .line 32
     .line 33
-    const-string v2, "Via Issue Report"
+    const-string v2, "Web Issue Report"
 
     .line 34
     .line 35
@@ -1833,7 +1833,7 @@
 
     .line 6
     .line 7
-    iget-object v1, p0, Lkb/m0;->s0:Lcom/tuyafeng/support/widget/z;
+    iget-object v1, p0, Lkb/m0;->s0:Lcom/android/web/internal/support/widget/z;
 
     .line 8
     .line 9
@@ -1852,7 +1852,7 @@
     const/4 v2, 0x0
 
     .line 16
-    invoke-virtual {v1, v2, v0}, Lcom/tuyafeng/support/widget/z;->i(IZ)V
+    invoke-virtual {v1, v2, v0}, Lcom/android/web/internal/support/widget/z;->i(IZ)V
 
     .line 17
     .line 18
@@ -2201,7 +2201,7 @@
     .line 70
     .line 71
     .line 72
-    const-string v4, "via-log-"
+    const-string v4, "web-log-"
 
     .line 73
     .line 74

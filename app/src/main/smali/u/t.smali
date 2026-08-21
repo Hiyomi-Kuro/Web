@@ -229,7 +229,7 @@
 
     .line 95
     .line 96
-    const-string v2, "Unable to initialize via reflection."
+    const-string v2, "Unable to initialize web reflection."
 
     .line 97
     .line 98

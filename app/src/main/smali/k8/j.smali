@@ -16,7 +16,7 @@
 
 .field public H0:Landroidx/recyclerview/widget/RecyclerView;
 
-.field public I0:Lmark/via/common/widget/g1;
+.field public I0:Lcom/android/web/common/widget/g1;
 
 .field public J0:Landroid/view/View;
 
@@ -504,11 +504,11 @@
 
     .line 57
     .line 58
-    iget-object p2, p0, Lk8/j;->I0:Lmark/via/common/widget/g1;
+    iget-object p2, p0, Lk8/j;->I0:Lcom/android/web/common/widget/g1;
 
     .line 59
     .line 60
-    invoke-virtual {p2}, Lmark/via/common/widget/g1;->getCurrentIndex()I
+    invoke-virtual {p2}, Lcom/android/web/common/widget/g1;->getCurrentIndex()I
 
     .line 61
     .line 62
@@ -562,11 +562,11 @@
     .line 83
     .line 84
     .line 85
-    iget-object p1, p0, Lk8/j;->I0:Lmark/via/common/widget/g1;
+    iget-object p1, p0, Lk8/j;->I0:Lcom/android/web/common/widget/g1;
 
     .line 86
     .line 87
-    invoke-virtual {p1, p2}, Lmark/via/common/widget/g1;->setCurrentIndex(I)V
+    invoke-virtual {p1, p2}, Lcom/android/web/common/widget/g1;->setCurrentIndex(I)V
 
     .line 88
     .line 89
@@ -742,11 +742,11 @@
     return p0
 .end method
 
-.method public static synthetic s3(Lk8/j;)Lmark/via/common/widget/g1;
+.method public static synthetic s3(Lk8/j;)Lcom/android/web/common/widget/g1;
     .locals 0
 
     .line 1
-    iget-object p0, p0, Lk8/j;->I0:Lmark/via/common/widget/g1;
+    iget-object p0, p0, Lk8/j;->I0:Lcom/android/web/common/widget/g1;
 
     .line 2
     .line 3
@@ -1087,7 +1087,7 @@
 
     .line 82
     .line 83
-    new-instance v2, Lmark/via/common/widget/g1;
+    new-instance v2, Lcom/android/web/common/widget/g1;
 
     .line 84
     .line 85
@@ -1099,7 +1099,7 @@
     move-result-object v4
 
     .line 89
-    invoke-direct {v2, v4}, Lmark/via/common/widget/g1;-><init>(Landroid/content/Context;)V
+    invoke-direct {v2, v4}, Lcom/android/web/common/widget/g1;-><init>(Landroid/content/Context;)V
 
     .line 90
     .line 91
@@ -1190,11 +1190,11 @@
     move-result-object v0
 
     .line 130
-    check-cast v0, Lmark/via/common/widget/g1;
+    check-cast v0, Lcom/android/web/common/widget/g1;
 
     .line 131
     .line 132
-    iput-object v0, p0, Lk8/j;->I0:Lmark/via/common/widget/g1;
+    iput-object v0, p0, Lk8/j;->I0:Lcom/android/web/common/widget/g1;
 
     .line 133
     .line 134
@@ -1613,7 +1613,7 @@
     .line 349
     .line 350
     .line 351
-    iget-object p1, p0, Lk8/j;->I0:Lmark/via/common/widget/g1;
+    iget-object p1, p0, Lk8/j;->I0:Lcom/android/web/common/widget/g1;
 
     .line 352
     .line 353
@@ -1657,7 +1657,7 @@
     .line 372
     .line 373
     .line 374
-    iget-object p1, p0, Lk8/j;->I0:Lmark/via/common/widget/g1;
+    iget-object p1, p0, Lk8/j;->I0:Lcom/android/web/common/widget/g1;
 
     .line 375
     .line 376
@@ -2088,20 +2088,20 @@
     double-to-int p1, v0
 
     .line 142
-    iget-object v0, p0, Lk8/j;->I0:Lmark/via/common/widget/g1;
+    iget-object v0, p0, Lk8/j;->I0:Lcom/android/web/common/widget/g1;
 
     .line 143
     .line 144
-    invoke-virtual {v0, p1}, Lmark/via/common/widget/g1;->setIndicatorItemCount(I)V
+    invoke-virtual {v0, p1}, Lcom/android/web/common/widget/g1;->setIndicatorItemCount(I)V
 
     .line 145
     .line 146
     .line 147
-    iget-object v0, p0, Lk8/j;->I0:Lmark/via/common/widget/g1;
+    iget-object v0, p0, Lk8/j;->I0:Lcom/android/web/common/widget/g1;
 
     .line 148
     .line 149
-    invoke-virtual {v0, v3}, Lmark/via/common/widget/g1;->setCurrentIndex(I)V
+    invoke-virtual {v0, v3}, Lcom/android/web/common/widget/g1;->setCurrentIndex(I)V
 
     .line 150
     .line 151

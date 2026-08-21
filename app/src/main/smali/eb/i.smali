@@ -18,9 +18,9 @@
 # instance fields
 .field public n0:Landroidx/viewpager2/widget/ViewPager2;
 
-.field public o0:Lcom/tuyafeng/support/widget/y;
+.field public o0:Lcom/android/web/internal/support/widget/y;
 
-.field public p0:Lcom/tuyafeng/support/widget/TabLayout;
+.field public p0:Lcom/android/web/internal/support/widget/TabLayout;
 
 .field public q0:Leb/v;
 
@@ -188,7 +188,7 @@
 
     .line 15
     .line 16
-    iget-object v0, p0, Leb/i;->o0:Lcom/tuyafeng/support/widget/y;
+    iget-object v0, p0, Leb/i;->o0:Lcom/android/web/internal/support/widget/y;
 
     .line 17
     .line 18
@@ -231,7 +231,7 @@
 
     .line 35
     :goto_0
-    invoke-virtual {v0, p0}, Lcom/tuyafeng/support/widget/y;->setGestureEnabled(Z)V
+    invoke-virtual {v0, p0}, Lcom/android/web/internal/support/widget/y;->setGestureEnabled(Z)V
 
     .line 36
     .line 37
@@ -268,7 +268,7 @@
     return-void
 .end method
 
-.method public static synthetic e3(Leb/i;Lcom/tuyafeng/support/widget/TabLayout;)V
+.method public static synthetic e3(Leb/i;Lcom/android/web/internal/support/widget/TabLayout;)V
     .locals 3
 
     .line 1
@@ -280,7 +280,7 @@
     const/4 v0, 0x0
 
     .line 5
-    invoke-virtual {p1, v0}, Lcom/tuyafeng/support/widget/TabLayout;->setIndicatorColor(I)V
+    invoke-virtual {p1, v0}, Lcom/android/web/internal/support/widget/TabLayout;->setIndicatorColor(I)V
 
     .line 6
     .line 7
@@ -321,7 +321,7 @@
     move-result-object v1
 
     .line 26
-    invoke-virtual {p1, v1}, Lcom/tuyafeng/support/widget/TabLayout;->setTextColor(Landroid/content/res/ColorStateList;)V
+    invoke-virtual {p1, v1}, Lcom/android/web/internal/support/widget/TabLayout;->setTextColor(Landroid/content/res/ColorStateList;)V
 
     .line 27
     .line 28
@@ -342,12 +342,12 @@
     move-result p0
 
     .line 37
-    invoke-virtual {p1, p0}, Lcom/tuyafeng/support/widget/TabLayout;->setTextSize(I)V
+    invoke-virtual {p1, p0}, Lcom/android/web/internal/support/widget/TabLayout;->setTextSize(I)V
 
     .line 38
     .line 39
     .line 40
-    invoke-virtual {p1, v0}, Lcom/tuyafeng/support/widget/TabLayout;->setAllCaps(Z)V
+    invoke-virtual {p1, v0}, Lcom/android/web/internal/support/widget/TabLayout;->setAllCaps(Z)V
 
     .line 41
     .line 42
@@ -360,7 +360,7 @@
     move-result-object p0
 
     .line 47
-    invoke-virtual {p1, p0, v0}, Lcom/tuyafeng/support/widget/TabLayout;->s(Landroid/graphics/Typeface;I)V
+    invoke-virtual {p1, p0, v0}, Lcom/android/web/internal/support/widget/TabLayout;->s(Landroid/graphics/Typeface;I)V
 
     .line 48
     .line 49
@@ -488,11 +488,11 @@
     return-void
 .end method
 
-.method public static synthetic i3(Leb/i;)Lcom/tuyafeng/support/widget/y;
+.method public static synthetic i3(Leb/i;)Lcom/android/web/internal/support/widget/y;
     .locals 0
 
     .line 1
-    iget-object p0, p0, Leb/i;->o0:Lcom/tuyafeng/support/widget/y;
+    iget-object p0, p0, Leb/i;->o0:Lcom/android/web/internal/support/widget/y;
 
     .line 2
     .line 3
@@ -877,11 +877,11 @@
     move-result-object p1
 
     .line 10
-    check-cast p1, Lcom/tuyafeng/support/widget/y;
+    check-cast p1, Lcom/android/web/internal/support/widget/y;
 
     .line 11
     .line 12
-    iput-object p1, p0, Leb/i;->o0:Lcom/tuyafeng/support/widget/y;
+    iput-object p1, p0, Leb/i;->o0:Lcom/android/web/internal/support/widget/y;
 
     .line 13
     .line 14
@@ -1029,7 +1029,7 @@
 
     .line 85
     :cond_1
-    iget-object v0, p0, Leb/i;->p0:Lcom/tuyafeng/support/widget/TabLayout;
+    iget-object v0, p0, Leb/i;->p0:Lcom/android/web/internal/support/widget/TabLayout;
 
     .line 86
     .line 87
@@ -1037,7 +1037,7 @@
 
     .line 88
     .line 89
-    invoke-virtual {v0, v1, p1}, Lcom/tuyafeng/support/widget/TabLayout;->t(Landroidx/viewpager2/widget/ViewPager2;[Ljava/lang/String;)V
+    invoke-virtual {v0, v1, p1}, Lcom/android/web/internal/support/widget/TabLayout;->t(Landroidx/viewpager2/widget/ViewPager2;[Ljava/lang/String;)V
 
     .line 90
     .line 91
@@ -1310,11 +1310,11 @@
     return-object p1
 .end method
 
-.method public Z2(Lcom/tuyafeng/support/widget/z;)V
+.method public Z2(Lcom/android/web/internal/support/widget/z;)V
     .locals 5
 
     .line 1
-    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 2
     .line 3
@@ -1364,7 +1364,7 @@
     .line 25
     .line 26
     .line 27
-    invoke-virtual {p1, v0, v1, v2}, Lcom/tuyafeng/support/widget/z;->l(Landroid/graphics/drawable/Drawable;Ljava/lang/String;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p1, v0, v1, v2}, Lcom/android/web/internal/support/widget/z;->l(Landroid/graphics/drawable/Drawable;Ljava/lang/String;Landroid/view/View$OnClickListener;)V
 
     .line 28
     .line 29
@@ -1373,7 +1373,7 @@
 
     .line 31
     .line 32
-    new-instance v1, Lcom/tuyafeng/support/widget/TabLayout;
+    new-instance v1, Lcom/android/web/internal/support/widget/TabLayout;
 
     .line 33
     .line 34
@@ -1385,7 +1385,7 @@
     move-result-object v2
 
     .line 38
-    invoke-direct {v1, v2}, Lcom/tuyafeng/support/widget/TabLayout;-><init>(Landroid/content/Context;)V
+    invoke-direct {v1, v2}, Lcom/android/web/internal/support/widget/TabLayout;-><init>(Landroid/content/Context;)V
 
     .line 39
     .line 40
@@ -1435,11 +1435,11 @@
     move-result-object v0
 
     .line 64
-    check-cast v0, Lcom/tuyafeng/support/widget/TabLayout;
+    check-cast v0, Lcom/android/web/internal/support/widget/TabLayout;
 
     .line 65
     .line 66
-    iput-object v0, p0, Leb/i;->p0:Lcom/tuyafeng/support/widget/TabLayout;
+    iput-object v0, p0, Leb/i;->p0:Lcom/android/web/internal/support/widget/TabLayout;
 
     .line 67
     .line 68
@@ -1457,11 +1457,11 @@
     .line 74
     .line 75
     .line 76
-    iget-object v0, p0, Leb/i;->p0:Lcom/tuyafeng/support/widget/TabLayout;
+    iget-object v0, p0, Leb/i;->p0:Lcom/android/web/internal/support/widget/TabLayout;
 
     .line 77
     .line 78
-    invoke-virtual {p1, v0}, Lcom/tuyafeng/support/widget/z;->b(Landroid/view/View;)V
+    invoke-virtual {p1, v0}, Lcom/android/web/internal/support/widget/z;->b(Landroid/view/View;)V
 
     .line 79
     .line 80

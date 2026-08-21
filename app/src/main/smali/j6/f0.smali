@@ -212,7 +212,7 @@
     .line 13
     .line 14
     .line 15
-    const-string v1, "window.via.postMessage(\'"
+    const-string v1, "window.web.postMessage(\'"
 
     .line 16
     .line 17

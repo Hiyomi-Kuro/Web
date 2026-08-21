@@ -9,13 +9,13 @@
 # instance fields
 .field public final synthetic a:Lmb/k5;
 
-.field public final synthetic b:Lmark/via/common/widget/q0;
+.field public final synthetic b:Lcom/android/web/common/widget/q0;
 
 .field public final synthetic c:Ljava/lang/String;
 
 
 # direct methods
-.method public synthetic constructor <init>(Lmb/k5;Lmark/via/common/widget/q0;Ljava/lang/String;)V
+.method public synthetic constructor <init>(Lmb/k5;Lcom/android/web/common/widget/q0;Ljava/lang/String;)V
     .locals 0
 
     .line 1
@@ -28,7 +28,7 @@
 
     .line 5
     .line 6
-    iput-object p2, p0, Lmb/i5;->b:Lmark/via/common/widget/q0;
+    iput-object p2, p0, Lmb/i5;->b:Lcom/android/web/common/widget/q0;
 
     .line 7
     .line 8
@@ -49,7 +49,7 @@
 
     .line 2
     .line 3
-    iget-object v1, p0, Lmb/i5;->b:Lmark/via/common/widget/q0;
+    iget-object v1, p0, Lmb/i5;->b:Lcom/android/web/common/widget/q0;
 
     .line 4
     .line 5
@@ -57,7 +57,7 @@
 
     .line 6
     .line 7
-    invoke-static {v0, v1, v2, p1, p2}, Lmb/k5;->l3(Lmb/k5;Lmark/via/common/widget/q0;Ljava/lang/String;Landroid/view/View;Lx5/k$p;)V
+    invoke-static {v0, v1, v2, p1, p2}, Lmb/k5;->l3(Lmb/k5;Lcom/android/web/common/widget/q0;Ljava/lang/String;Landroid/view/View;Lx5/k$p;)V
 
     .line 8
     .line 9

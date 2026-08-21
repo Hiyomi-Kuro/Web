@@ -2807,7 +2807,7 @@
     .line 30
     .line 31
     .line 32
-    const-string v2, "(function () {let key = \'via-fake-tampermonkey\';if (window[key]) {return;};"
+    const-string v2, "(function () {let key = \'web-fake-tampermonkey\';if (window[key]) {return;};"
 
     .line 33
     .line 34
@@ -2829,7 +2829,7 @@
     .line 42
     .line 43
     .line 44
-    const-string v2, "try {window[key] = true;window.external.Tampermonkey = {getVersion: function(e) {e({version:\'4.5.1\', id: \'Via\'});},openOptions: function(e, t) {"
+    const-string v2, "try {window[key] = true;window.external.Tampermonkey = {getVersion: function(e) {e({version:\'4.5.1\', id: \'Web\'});},openOptions: function(e, t) {"
 
     .line 45
     .line 46
@@ -3260,7 +3260,7 @@
     .line 12
     .line 13
     .line 14
-    const-string v1, ") {const nativePrompt = window.via_gm && window.via_gm.call ? window.via_gm.call.bind(window.via_gm) : window.prompt;Object.defineProperty(window, \'"
+    const-string v1, ") {const nativePrompt = window.web_gm && window.web_gm.call ? window.web_gm.call.bind(window.web_gm) : window.prompt;Object.defineProperty(window, \'"
 
     .line 15
     .line 16

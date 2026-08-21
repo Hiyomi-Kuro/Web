@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto">
     <uses-feature android:name="android.hardware.location" android:required="false"/>
     <uses-feature android:name="android.hardware.location.gps" android:required="false"/>
@@ -8,7 +8,7 @@
     <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
     <uses-feature android:name="android.hardware.camera.flash" android:required="false"/>
     <uses-feature android:name="android.hardware.microphone" android:required="false"/>
-    <uses-permission android:name="mark.via.permission.BROADCAST"/>
+    <uses-permission android:name="com.android.web.permission.BROADCAST"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
     <uses-permission android:name="android.permission.INTERNET"/>
@@ -66,8 +66,8 @@
     <uses-feature android:name="android.hardware.camera.front" android:required="false"/>
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
     <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
-    <application android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:dataExtractionRules="@xml/b" android:fullBackupContent="@xml/a" android:hardwareAccelerated="true" android:icon="@mipmap/ic_launcher" android:label="@string/c_" android:localeConfig="@xml/e" android:name="mark.via.BrowserApp" android:networkSecurityConfig="@xml/f" android:resizeableActivity="true" android:roundIcon="@mipmap/ic_launcher" android:supportsRtl="true" android:theme="@style/t" android:usesCleartextTraffic="true" android:windowSoftInputMode="adjustPan">
-        <activity android:alwaysRetainTaskState="true" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:exported="true" android:launchMode="singleTask" android:name="mark.via.Shell" android:supportsPictureInPicture="true" android:windowSoftInputMode="adjustResize">
+    <application android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:dataExtractionRules="@xml/b" android:fullBackupContent="@xml/a" android:hardwareAccelerated="true" android:icon="@mipmap/ic_launcher" android:label="@string/c_" android:localeConfig="@xml/e" android:name="com.android.web.BrowserApp" android:networkSecurityConfig="@xml/f" android:resizeableActivity="true" android:roundIcon="@mipmap/ic_launcher" android:supportsRtl="true" android:theme="@style/t" android:usesCleartextTraffic="true" android:windowSoftInputMode="adjustPan">
+        <activity android:alwaysRetainTaskState="true" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:exported="true" android:launchMode="singleTask" android:name="com.android.web.Shell" android:supportsPictureInPicture="true" android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
@@ -75,14 +75,14 @@
             </intent-filter>
             <meta-data android:name="android.app.shortcuts" android:resource="@xml/g"/>
         </activity>
-        <activity android:exported="true" android:name="mark.via.Trampoline" android:taskAffinity="mark.via.Trampoline" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+        <activity android:exported="true" android:name="com.android.web.Trampoline" android:taskAffinity="com.android.web.Trampoline" android:theme="@android:style/Theme.Translucent.NoTitleBar">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <category android:name="android.intent.category.DEFAULT"/>
                 <data android:scheme="https"/>
                 <data android:scheme="http"/>
-                <data android:scheme="via"/>
+                <data android:scheme="web"/>
             </intent-filter>
             <intent-filter>
                 <action android:name="android.intent.action.VIEW"/>
@@ -93,7 +93,7 @@
                 <data android:scheme="inline"/>
                 <data android:scheme="file"/>
                 <data android:scheme="content"/>
-                <data android:scheme="via"/>
+                <data android:scheme="web"/>
                 <data android:mimeType="text/html"/>
                 <data android:mimeType="text/plain"/>
                 <data android:mimeType="application/xhtml+xml"/>
@@ -111,10 +111,10 @@
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <data android:scheme="https"/>
                 <data android:scheme="http"/>
-                <data android:scheme="via"/>
+                <data android:scheme="web"/>
             </intent-filter>
         </activity>
-        <activity android:exported="true" android:label="@string/sh" android:launchMode="singleTask" android:name="mark.via.Search" android:theme="@android:style/Theme.Translucent.NoTitleBar">
+        <activity android:exported="true" android:label="@string/sh" android:launchMode="singleTask" android:name="com.android.web.Search" android:theme="@android:style/Theme.Translucent.NoTitleBar">
             <intent-filter>
                 <action android:name="android.intent.action.PROCESS_TEXT"/>
                 <category android:name="android.intent.category.DEFAULT"/>
@@ -126,33 +126,33 @@
                 <category android:name="android.intent.category.BROWSABLE"/>
             </intent-filter>
         </activity>
-        <service android:foregroundServiceType="dataSync" android:name="mark.via.service.DownloadService"/>
+        <service android:foregroundServiceType="dataSync" android:name="com.android.web.service.DownloadService"/>
         <meta-data android:name="android.webkit.WebView.MetricsOptOut" android:value="true"/>
         <meta-data android:name="EasyGoClient" android:value="false"/>
         <provider android:authorities="com.android.web.provider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
             <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/c"/>
         </provider>
-        <receiver android:exported="false" android:name="mark.via.receiver.DownloadReceiver"/>
-        <receiver android:exported="true" android:name="mark.via.widget.SearchWidgetProvider">
+        <receiver android:exported="false" android:name="com.android.web.receiver.DownloadReceiver"/>
+        <receiver android:exported="true" android:name="com.android.web.widget.SearchWidgetProvider">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
             </intent-filter>
             <meta-data android:name="android.appwidget.provider" android:resource="@xml/h"/>
         </receiver>
-        <receiver android:exported="true" android:name="mark.via.widget.TransparentSearchWidgetProvider">
+        <receiver android:exported="true" android:name="com.android.web.widget.TransparentSearchWidgetProvider">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
             </intent-filter>
             <meta-data android:name="android.appwidget.provider" android:resource="@xml/i"/>
         </receiver>
-        <service android:exported="false" android:foregroundServiceType="mediaPlayback" android:name="mark.via.service.ReadAloudService"/>
-        <receiver android:exported="false" android:name="mark.via.receiver.ReadAloudReceiver"/>
-        <service android:exported="true" android:name="mark.via.service.CustomTabsConnectionService">
+        <service android:exported="false" android:foregroundServiceType="mediaPlayback" android:name="com.android.web.service.ReadAloudService"/>
+        <receiver android:exported="false" android:name="com.android.web.receiver.ReadAloudReceiver"/>
+        <service android:exported="true" android:name="com.android.web.service.CustomTabsConnectionService">
             <intent-filter>
                 <action android:name="android.support.customtabs.action.CustomTabsService"/>
             </intent-filter>
         </service>
-        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:exported="false" android:name="mark.via.CustomTab" android:persistableMode="persistNever" android:resizeableActivity="true" android:taskAffinity=".customtab" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
+        <activity android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize" android:exported="false" android:name="com.android.web.CustomTab" android:persistableMode="persistNever" android:resizeableActivity="true" android:taskAffinity=".customtab" android:windowSoftInputMode="stateAlwaysHidden|adjustResize"/>
         <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver"/>
         <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
         <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>

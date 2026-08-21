@@ -6,7 +6,7 @@
 # instance fields
 .field public n0:Lq5/c;
 
-.field public o0:Lcom/tuyafeng/support/widget/y;
+.field public o0:Lcom/android/web/internal/support/widget/y;
 
 .field public p0:Landroid/widget/ScrollView;
 
@@ -14,9 +14,9 @@
 
 .field public r0:I
 
-.field public s0:Lcom/tuyafeng/support/widget/z;
+.field public s0:Lcom/android/web/internal/support/widget/z;
 
-.field public t0:Lcom/tuyafeng/support/widget/w;
+.field public t0:Lcom/android/web/internal/support/widget/w;
 
 .field public u0:Ljava/lang/String;
 
@@ -321,7 +321,7 @@
     move-result-object p1
 
     .line 7
-    const-string p2, "// ==UserScript==\n// @name         New Userscript\n// @namespace    https://viayoo.com/\n// @version      0.1\n// @description  try to take over the world!\n// @author       You\n// @run-at       document-end\n// @match        https://*/*\n// @grant        none\n// ==/UserScript==\n\n"
+    const-string p2, "// ==UserScript==\n// @name         New Userscript\n// @namespace    Web\n// @version      0.1\n// @description  Custom script\n// @run-at       document-end\n// @match        https://*/*\n// @grant        none\n// ==/UserScript==\n\n"
 
     .line 8
     .line 9
@@ -407,7 +407,7 @@
 
     .line 13
     :cond_0
-    iget-object p0, p0, Lva/n;->t0:Lcom/tuyafeng/support/widget/w;
+    iget-object p0, p0, Lva/n;->t0:Lcom/android/web/internal/support/widget/w;
 
     .line 14
     .line 15
@@ -415,7 +415,7 @@
 
     .line 16
     .line 17
-    invoke-virtual {p0, v0}, Lcom/tuyafeng/support/widget/w;->f(I)V
+    invoke-virtual {p0, v0}, Lcom/android/web/internal/support/widget/w;->f(I)V
 
     .line 18
     .line 19
@@ -1004,7 +1004,7 @@
     .line 28
     .line 29
     .line 30
-    iget-object v0, p0, Lva/n;->t0:Lcom/tuyafeng/support/widget/w;
+    iget-object v0, p0, Lva/n;->t0:Lcom/android/web/internal/support/widget/w;
 
     .line 31
     .line 32
@@ -1012,7 +1012,7 @@
 
     .line 33
     .line 34
-    invoke-virtual {v0, v1}, Lcom/tuyafeng/support/widget/w;->f(I)V
+    invoke-virtual {v0, v1}, Lcom/android/web/internal/support/widget/w;->f(I)V
 
     .line 35
     .line 36
@@ -1671,11 +1671,11 @@
     move-result-object p1
 
     .line 27
-    check-cast p1, Lcom/tuyafeng/support/widget/y;
+    check-cast p1, Lcom/android/web/internal/support/widget/y;
 
     .line 28
     .line 29
-    iput-object p1, p0, Lva/n;->o0:Lcom/tuyafeng/support/widget/y;
+    iput-object p1, p0, Lva/n;->o0:Lcom/android/web/internal/support/widget/y;
 
     .line 30
     .line 31
@@ -1735,7 +1735,7 @@
 
     .line 56
     .line 57
-    iget-object p1, p0, Lva/n;->s0:Lcom/tuyafeng/support/widget/z;
+    iget-object p1, p0, Lva/n;->s0:Lcom/android/web/internal/support/widget/z;
 
     .line 58
     .line 59
@@ -1751,7 +1751,7 @@
     move-result-object p2
 
     .line 65
-    invoke-virtual {p1, p2}, Lcom/tuyafeng/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
+    invoke-virtual {p1, p2}, Lcom/android/web/internal/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
 
     .line 66
     .line 67
@@ -1765,7 +1765,7 @@
 
     .line 72
     :cond_1
-    iget-object p1, p0, Lva/n;->s0:Lcom/tuyafeng/support/widget/z;
+    iget-object p1, p0, Lva/n;->s0:Lcom/android/web/internal/support/widget/z;
 
     .line 73
     .line 74
@@ -1781,7 +1781,7 @@
     move-result-object p2
 
     .line 80
-    invoke-virtual {p1, p2}, Lcom/tuyafeng/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
+    invoke-virtual {p1, p2}, Lcom/android/web/internal/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
 
     .line 81
     .line 82
@@ -1838,7 +1838,7 @@
     move-result p2
 
     .line 107
-    const-string v0, "// ==UserScript==\n// @name         New Userscript\n// @namespace    https://viayoo.com/\n// @version      0.1\n// @description  try to take over the world!\n// @author       You\n// @run-at       document-end\n// @match        https://*/*\n// @grant        none\n// ==/UserScript==\n\n(function() {\n    \'use strict\';\n\n    // Your code here...\n})();"
+    const-string v0, "// ==UserScript==\n// @name         New Userscript\n// @namespace    Web\n// @version      0.1\n// @description  Custom script\n// @run-at       document-end\n// @match        https://*/*\n// @grant        none\n// ==/UserScript==\n\n(function() {\n    \'use strict\';\n\n    // Your code here...\n})();"
 
     .line 108
     .line 109
@@ -1872,7 +1872,7 @@
     .line 121
     .line 122
     .line 123
-    const-string p2, "https://viayoo.com/"
+    const-string p2, "web:"
 
     .line 124
     .line 125
@@ -2268,16 +2268,16 @@
 
     .line 165
     .line 166
-    new-instance v0, Lcom/tuyafeng/support/widget/w;
+    new-instance v0, Lcom/android/web/internal/support/widget/w;
 
     .line 167
     .line 168
-    invoke-direct {v0, p2}, Lcom/tuyafeng/support/widget/w;-><init>(Landroid/widget/ProgressBar;)V
+    invoke-direct {v0, p2}, Lcom/android/web/internal/support/widget/w;-><init>(Landroid/widget/ProgressBar;)V
 
     .line 169
     .line 170
     .line 171
-    iput-object v0, p0, Lva/n;->t0:Lcom/tuyafeng/support/widget/w;
+    iput-object v0, p0, Lva/n;->t0:Lcom/android/web/internal/support/widget/w;
 
     .line 172
     .line 173
@@ -2311,11 +2311,11 @@
     return-object p1
 .end method
 
-.method public Z2(Lcom/tuyafeng/support/widget/z;)V
+.method public Z2(Lcom/android/web/internal/support/widget/z;)V
     .locals 5
 
     .line 1
-    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 2
     .line 3
@@ -2324,12 +2324,12 @@
 
     .line 5
     .line 6
-    invoke-static {p1, v0}, Lb9/t3;->a(Lcom/tuyafeng/support/widget/z;I)V
+    invoke-static {p1, v0}, Lb9/t3;->a(Lcom/android/web/internal/support/widget/z;I)V
 
     .line 7
     .line 8
     .line 9
-    new-instance v0, Lcom/tuyafeng/support/widget/z$b;
+    new-instance v0, Lcom/android/web/internal/support/widget/z$b;
 
     .line 10
     .line 11
@@ -2354,7 +2354,7 @@
     const/4 v4, 0x0
 
     .line 20
-    invoke-direct {v0, v2, v3, v4, v1}, Lcom/tuyafeng/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
+    invoke-direct {v0, v2, v3, v4, v1}, Lcom/android/web/internal/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
 
     .line 21
     .line 22
@@ -2368,12 +2368,12 @@
     .line 26
     .line 27
     .line 28
-    invoke-virtual {p1, v0, v1}, Lcom/tuyafeng/support/widget/z;->c(Lcom/tuyafeng/support/widget/z$b;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p1, v0, v1}, Lcom/android/web/internal/support/widget/z;->c(Lcom/android/web/internal/support/widget/z$b;Landroid/view/View$OnClickListener;)V
 
     .line 29
     .line 30
     .line 31
-    new-instance v0, Lcom/tuyafeng/support/widget/z$b;
+    new-instance v0, Lcom/android/web/internal/support/widget/z$b;
 
     .line 32
     .line 33
@@ -2389,7 +2389,7 @@
     move-result-object v1
 
     .line 39
-    invoke-direct {v0, v3, v3, v4, v1}, Lcom/tuyafeng/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
+    invoke-direct {v0, v3, v3, v4, v1}, Lcom/android/web/internal/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
 
     .line 40
     .line 41
@@ -2403,12 +2403,12 @@
     .line 45
     .line 46
     .line 47
-    invoke-virtual {p1, v0, v1}, Lcom/tuyafeng/support/widget/z;->c(Lcom/tuyafeng/support/widget/z$b;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p1, v0, v1}, Lcom/android/web/internal/support/widget/z;->c(Lcom/android/web/internal/support/widget/z$b;Landroid/view/View$OnClickListener;)V
 
     .line 48
     .line 49
     .line 50
-    iput-object p1, p0, Lva/n;->s0:Lcom/tuyafeng/support/widget/z;
+    iput-object p1, p0, Lva/n;->s0:Lcom/android/web/internal/support/widget/z;
 
     .line 51
     .line 52
@@ -2419,7 +2419,7 @@
     .locals 2
 
     .line 1
-    iget-object v0, p0, Lva/n;->o0:Lcom/tuyafeng/support/widget/y;
+    iget-object v0, p0, Lva/n;->o0:Lcom/android/web/internal/support/widget/y;
 
     .line 2
     .line 3
@@ -2427,7 +2427,7 @@
 
     .line 4
     .line 5
-    invoke-virtual {v0, v1}, Lcom/tuyafeng/support/widget/y;->setGestureEnabled(Z)V
+    invoke-virtual {v0, v1}, Lcom/android/web/internal/support/widget/y;->setGestureEnabled(Z)V
 
     .line 6
     .line 7

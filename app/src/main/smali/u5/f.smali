@@ -54,7 +54,7 @@
 
 .field public s:Lv5/f;
 
-.field public t:Lcom/tuyafeng/scanner/camera/CameraSettings;
+.field public t:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
 .field public u:Lu5/v;
 
@@ -117,16 +117,16 @@
 
     .line 18
     .line 19
-    new-instance v1, Lcom/tuyafeng/scanner/camera/CameraSettings;
+    new-instance v1, Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 20
     .line 21
-    invoke-direct {v1}, Lcom/tuyafeng/scanner/camera/CameraSettings;-><init>()V
+    invoke-direct {v1}, Lcom/android/web/internal/scanner/camera/CameraSettings;-><init>()V
 
     .line 22
     .line 23
     .line 24
-    iput-object v1, p0, Lu5/f;->t:Lcom/tuyafeng/scanner/camera/CameraSettings;
+    iput-object v1, p0, Lu5/f;->t:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 25
     .line 26
@@ -591,11 +591,11 @@
     return-object v0
 .end method
 
-.method public getCameraSettings()Lcom/tuyafeng/scanner/camera/CameraSettings;
+.method public getCameraSettings()Lcom/android/web/internal/scanner/camera/CameraSettings;
     .locals 1
 
     .line 1
-    iget-object v0, p0, Lu5/f;->t:Lcom/tuyafeng/scanner/camera/CameraSettings;
+    iget-object v0, p0, Lu5/f;->t:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 2
     .line 3
@@ -1555,11 +1555,11 @@
     .line 8
     .line 9
     .line 10
-    iget-object v1, p0, Lu5/f;->t:Lcom/tuyafeng/scanner/camera/CameraSettings;
+    iget-object v1, p0, Lu5/f;->t:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 11
     .line 12
-    invoke-virtual {v0, v1}, Lv5/b;->q(Lcom/tuyafeng/scanner/camera/CameraSettings;)V
+    invoke-virtual {v0, v1}, Lv5/b;->q(Lcom/android/web/internal/scanner/camera/CameraSettings;)V
 
     .line 13
     .line 14
@@ -2201,11 +2201,11 @@
     return v0
 .end method
 
-.method public setCameraSettings(Lcom/tuyafeng/scanner/camera/CameraSettings;)V
+.method public setCameraSettings(Lcom/android/web/internal/scanner/camera/CameraSettings;)V
     .locals 0
 
     .line 1
-    iput-object p1, p0, Lu5/f;->t:Lcom/tuyafeng/scanner/camera/CameraSettings;
+    iput-object p1, p0, Lu5/f;->t:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 2
     .line 3

@@ -12,7 +12,7 @@
 
 .field public q0:Landroid/widget/ScrollView;
 
-.field public r0:Lcom/tuyafeng/support/widget/z;
+.field public r0:Lcom/android/web/internal/support/widget/z;
 
 
 # direct methods
@@ -99,7 +99,7 @@
 
     .line 23
     .line 24
-    iget-object v0, p0, Lm8/k;->r0:Lcom/tuyafeng/support/widget/z;
+    iget-object v0, p0, Lm8/k;->r0:Lcom/android/web/internal/support/widget/z;
 
     .line 25
     .line 26
@@ -111,7 +111,7 @@
 
     .line 29
     .line 30
-    invoke-virtual {v0, v1}, Lcom/tuyafeng/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
+    invoke-virtual {v0, v1}, Lcom/android/web/internal/support/widget/z;->setTitle(Ljava/lang/CharSequence;)V
 
     .line 31
     .line 32
@@ -766,11 +766,11 @@
     return-object p1
 .end method
 
-.method public Z2(Lcom/tuyafeng/support/widget/z;)V
+.method public Z2(Lcom/android/web/internal/support/widget/z;)V
     .locals 1
 
     .line 1
-    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 2
     .line 3
@@ -779,12 +779,12 @@
 
     .line 5
     .line 6
-    invoke-static {p1, v0}, Lb9/t3;->a(Lcom/tuyafeng/support/widget/z;I)V
+    invoke-static {p1, v0}, Lb9/t3;->a(Lcom/android/web/internal/support/widget/z;I)V
 
     .line 7
     .line 8
     .line 9
-    iput-object p1, p0, Lm8/k;->r0:Lcom/tuyafeng/support/widget/z;
+    iput-object p1, p0, Lm8/k;->r0:Lcom/android/web/internal/support/widget/z;
 
     .line 10
     .line 11

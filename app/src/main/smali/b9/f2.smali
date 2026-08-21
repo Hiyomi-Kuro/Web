@@ -161,7 +161,11 @@
 
     .line 74
     .line 75
-    const-string p2, "https://ra.viayoo.com/report_abuse"
+    const-string p2, "aHR0cHM6Ly9yYS52aWF5b28uY29tL3JlcG9ydF9hYnVzZQ=="
+
+    invoke-static {p2}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object p2
 
     .line 76
     .line 77

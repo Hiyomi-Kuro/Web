@@ -50,7 +50,7 @@
 
     .line 5
     .line 6
-    invoke-static {p1}, La8/g;->e3(La8/g;)Lcom/tuyafeng/support/widget/w;
+    invoke-static {p1}, La8/g;->e3(La8/g;)Lcom/android/web/internal/support/widget/w;
 
     .line 7
     .line 8
@@ -62,7 +62,7 @@
 
     .line 11
     .line 12
-    invoke-virtual {p1, p2}, Lcom/tuyafeng/support/widget/w;->f(I)V
+    invoke-virtual {p1, p2}, Lcom/android/web/internal/support/widget/w;->f(I)V
 
     .line 13
     .line 14
@@ -83,7 +83,7 @@
 
     .line 5
     .line 6
-    invoke-static {p1}, La8/g;->e3(La8/g;)Lcom/tuyafeng/support/widget/w;
+    invoke-static {p1}, La8/g;->e3(La8/g;)Lcom/android/web/internal/support/widget/w;
 
     .line 7
     .line 8
@@ -94,7 +94,7 @@
     const/4 p2, 0x0
 
     .line 11
-    invoke-virtual {p1, p2}, Lcom/tuyafeng/support/widget/w;->f(I)V
+    invoke-virtual {p1, p2}, Lcom/android/web/internal/support/widget/w;->f(I)V
 
     .line 12
     .line 13

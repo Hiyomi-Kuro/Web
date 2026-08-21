@@ -674,7 +674,7 @@
 
     .line 50
     .line 51
-    const-string v2, "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36 Via/7.1.0"
+    const-string v2, "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36 Web/7.1.0"
 
     .line 52
     .line 53

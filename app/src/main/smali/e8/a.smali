@@ -8,7 +8,7 @@
     .locals 1
 
     .line 1
-    const-string p0, "javascript:(function(){function d(a,b){var c=new FileReader;c.readAsDataURL(b);c.onloadend=function(){window.via.download(\"__SECRET__\",a,c.result)}}function e(a){var b=new XMLHttpRequest;b.open(\"GET\",a,!0);b.responseType=\"blob\";b.onload=function(c){200==this.status&&d(a,this.response)};b.send()}key=\"via-blob-test\";(function(a){window[key]&&window[key][a]?d(a,window[key][a]):e(a)})(\"__BLOB_URL__\")})();"
+    const-string p0, "javascript:(function(){function d(a,b){var c=new FileReader;c.readAsDataURL(b);c.onloadend=function(){window.web.download(\"__SECRET__\",a,c.result)}}function e(a){var b=new XMLHttpRequest;b.open(\"GET\",a,!0);b.responseType=\"blob\";b.onload=function(c){200==this.status&&d(a,this.response)};b.send()}key=\"web-blob-test\";(function(a){window[key]&&window[key][a]?d(a,window[key][a]):e(a)})(\"__BLOB_URL__\")})();"
 
     .line 2
     .line 3
@@ -43,7 +43,7 @@
     .locals 0
 
     .line 1
-    const-string p0, "(function(){if(!window[\"via-blob-test\"]){window[\"via-blob-test\"]={};var c=URL.createObjectURL;URL.createObjectURL=function(a){var b=c(a);a instanceof MediaSource||(window[\"via-blob-test\"][b]=a);return b}}})();"
+    const-string p0, "(function(){if(!window[\"web-blob-test\"]){window[\"web-blob-test\"]={};var c=URL.createObjectURL;URL.createObjectURL=function(a){var b=c(a);a instanceof MediaSource||(window[\"web-blob-test\"][b]=a);return b}}})();"
 
     .line 2
     .line 3

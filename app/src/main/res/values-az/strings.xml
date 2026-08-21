@@ -82,8 +82,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">Agree</string>
-    <string name="bq">You need to agree and accept all the terms before you start using our service.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="bv">All sites</string>
     <string name="bw">All time</string>
     <string name="bx">Allow</string>
@@ -95,7 +95,7 @@
     <string name="c3">Allowed</string>
     <string name="c4">Bu art谋q standart kimi t蓹yin edilib</string>
     <string name="c5">H蓹mi艧蓹 b蓹rpa et</string>
-    <string name="c8">Via is downloading files</string>
+    <string name="c8">Web is downloading files</string>
     <string name="c9">Tap to view downloads</string>
     <string name="c_">Web</string>
     <string name="cb">Ascii2D</string>
@@ -222,9 +222,7 @@ Please enter your password to submit the request."</string>
     <string name="gc">Request the website not to sell or share my data to protect privacy (experimental)</string>
     <string name="gd">陌zl蓹m蓹</string>
     <string name="ge">陌an蓹 ver</string>
-    <string name="gf">"Via brauzerin b蓹y蓹nirsinizs蓹, biz蓹 d蓹st蓹k olmaq 眉莽眉n ian蓹 ver蓹 bil蓹rsiniz.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Done</string>
     <string name="gi">Y眉kl蓹m蓹 yeri</string>
     <string name="gj">Pause</string>
@@ -252,7 +250,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h5">Waiting for network</string>
     <string name="h6">DuckDuckGo</string>
     <string name="h8">Edit filter subscription</string>
-    <string name="h_">Email me</string>
+    <string name="h_"></string>
     <string name="ha">Bo艧</string>
     <string name="hb">Xahi艧 olunur, parolunuzu 蓹lav蓹 edin</string>
     <string name="hc">Xahi艧 olunur, istifad蓹莽i ad谋n谋z谋 蓹lav蓹 edin</string>
@@ -333,8 +331,8 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="kj">Show images for a specific site.</string>
     <string name="kk">Block images for a specific site.</string>
     <string name="kl">Allow sites to load images</string>
-    <string name="km">Allow sites to load images only via Wi-Fi</string>
-    <string name="kn">Allowed only via Wi-Fi</string>
+    <string name="km">Allow sites to load images only through Wi-Fi</string>
+    <string name="kn">Allowed only through Wi-Fi</string>
     <string name="ko">茝lf蓹cinl蓹ri fayldan idxal etm蓹k m眉mk眉n olmad谋!</string>
     <string name="kp">茝lf蓹cinl蓹ri idxal et</string>
     <string name="kq">M蓹lumat谋 idxal et</string>
@@ -402,7 +400,7 @@ M蓹kan谋n谋zdan istifad蓹 etm蓹k ist蓹yirsiniz?"</string>
     <string name="n4">The storage permission for the download location has been revoked. Please re-select the download folder location.</string>
     <string name="n5">Are you sure you want to reset site configuration for %1$s?</string>
     <string name="n6">When using the address bar, suggest</string>
-    <string name="n7">By using Via, you agree to our %1$s and %2$s.</string>
+    <string name="n7"></string>
     <string name="n9">Are you sure you want to update \"%1$s\"(%2$s -> %3$s)?</string>
     <string name="na">Microphone</string>
     <string name="nd">Ask first before allowing sites to use your microphone</string>
@@ -477,13 +475,13 @@ M蓹kan谋n谋zdan istifad蓹 etm蓹k ist蓹yirsiniz?"</string>
     <string name="qd">System sharing</string>
     <string name="qe">Pop-ups</string>
     <string name="qf">Ask first before allowing sites to show pop-ups</string>
-    <string name="qh">Privacy policy</string>
+    <string name="qh"></string>
     <string name="qi">Processing blob data鈥</string>
     <string name="qj">QR code</string>
     <string name="qk">QR code not detected</string>
     <string name="ql">QR code scan result</string>
     <string name="qm">Yenid蓹n y眉kl蓹m蓹d蓹n geri qay谋t</string>
-    <string name="qr">Please read and agree to %1$s and %2$s</string>
+    <string name="qr"></string>
     <string name="r1">Remove identifying headers</string>
     <string name="r2">When enabled, the X-Requested-With and X-Wap-Profile headers will be empty, which may cause some pages to behave abnormally</string>
     <string name="r3">Rename</string>
@@ -526,7 +524,7 @@ M蓹kan谋n谋zdan istifad蓹 etm蓹k ist蓹yirsiniz?"</string>
     <string name="sp">Select folder</string>
     <string name="ss">The data of these servers are not synchronized. You will be required to log in again.</string>
     <string name="st">Bunu 蓹sas s蓹hif蓹 kimi t蓹yin etm蓹k ist蓹yirsiniz?</string>
-    <string name="su">%1$s ba臒lant谋s谋 a莽谋ld谋qdan sonra bu, standart kimi t蓹yin olunacaq. Xahi艧 olunur,linki a莽maq 眉莽眉n Via se莽</string>
+    <string name="su">%1$s ba臒lant谋s谋 a莽谋ld谋qdan sonra bu, standart kimi t蓹yin olunacaq. Xahi艧 olunur,linki a莽maq 眉莽眉n Web se莽</string>
     <string name="sv">陌stifad蓹莽i-agent t蓹yin edilib: %1$s</string>
     <string name="sw">Standart brauzer kimi t蓹yin et</string>
     <string name="sx">T蓹nziml蓹m蓹l蓹r</string>
@@ -542,7 +540,7 @@ M蓹kan谋n谋zdan istifad蓹 etm蓹k ist蓹yirsiniz?"</string>
     <string name="t7">ShenMa</string>
     <string name="tb">Toplama d眉ym蓹sin avtomatik g枚st蓹r</string>
     <string name="te">U臒urlu qeydiyyatdan ke莽</string>
-    <string name="tf">"Via supports almost all Adblock Plus filters. 
+    <string name="tf">"Web supports almost all Adblock Plus filters. 
 You can block requests from example.com with a filter such as: 
 ||example.com^ (or simply: example.com) 
 
@@ -554,7 +552,7 @@ example.com###ad
 
 You can unblock special requests with a filter such as: 
 @@||example.com^"</string>
-    <string name="tg">&lt;b>Metadata block&lt;/b>&lt;br /> The metadata must follow the format:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: The name of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: The combination of &lt;tt>@namespace&lt;/tt> and &lt;tt>@name&lt;/tt> is the unique identifier for a userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Define rules to decide whether a script should be executed. It is recommended to use &lt;tt>@match&lt;/tt> instead of &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: The old way to decide whether a script should be executed. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: The version of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: The description of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: The author of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: The require of the userscript. For example, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Decide when the script will execute. &lt;tt>document-start&lt;/tt> is used to inject scripts before the page loads, &lt;tt>document-end&lt;/tt> is used to inject scripts after page load. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Specify which special GM_* APIs should be granted and can be used when the script executes.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: The URL the script can be downloaded from. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: The support URL of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: The homepage URL of the userscript. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> are a group of special APIs provided by Via. Currently supported special APIs include: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Matching&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> defines a URL matching rule. &lt;tt>@exclude-match&lt;/tt> defines a match rule but used to exclude the matched URLs, similar to &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> For example:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>Metadata block&lt;/b>&lt;br /> The metadata must follow the format:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: The name of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: The combination of &lt;tt>@namespace&lt;/tt> and &lt;tt>@name&lt;/tt> is the unique identifier for a userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Define rules to decide whether a script should be executed. It is recommended to use &lt;tt>@match&lt;/tt> instead of &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: The old way to decide whether a script should be executed. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: The version of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: The description of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: The require of the userscript. For example, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Decide when the script will execute. &lt;tt>document-start&lt;/tt> is used to inject scripts before the page loads, &lt;tt>document-end&lt;/tt> is used to inject scripts after page load. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Specify which special GM_* APIs should be granted and can be used when the script executes.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: The URL the script can be downloaded from. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: The support URL of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: The homepage URL of the userscript. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> are a group of special APIs provided by Web. Currently supported special APIs include: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Matching&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> defines a URL matching rule. &lt;tt>@exclude-match&lt;/tt> defines a match rule but used to exclude the matched URLs, similar to &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> For example:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">Site configuration</string>
     <string name="ti">Site configuration (Enabled)</string>
     <string name="tm">M蓹tn 枚l莽眉s眉</string>
@@ -581,7 +579,7 @@ Proceed anyway?"</string>
     <string name="u7">Ba艧lan臒谋c S蓹hif蓹si</string>
     <string name="u8">999+</string>
     <string name="u9">Qal</string>
-    <string name="ua">Via has prevented the following page from loading:</string>
+    <string name="ua">Web has prevented the following page from loading:</string>
     <string name="ub">Because of the following filter:</string>
     <string name="ud">Border opacity</string>
     <string name="ue">Border width</string>
@@ -606,7 +604,7 @@ Proceed anyway?"</string>
     <string name="ux">Synced %1$s</string>
     <string name="uy">Sinxronizasiya tamamd谋r</string>
     <string name="uz">Sistem y眉kl蓹m蓹 k枚m蓹k莽isi</string>
-    <string name="xh">Terms of use</string>
+    <string name="xh"></string>
     <string name="xi">M蓹tn</string>
     <string name="xl">The site</string>
     <string name="xm">Theme color</string>

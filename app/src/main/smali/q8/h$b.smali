@@ -44,11 +44,11 @@
     .locals 0
 
     .line 1
-    check-cast p1, Lcom/tuyafeng/support/widget/z;
+    check-cast p1, Lcom/android/web/internal/support/widget/z;
 
     .line 2
     .line 3
-    invoke-virtual {p0, p1}, Lq8/h$b;->b(Lcom/tuyafeng/support/widget/z;)V
+    invoke-virtual {p0, p1}, Lq8/h$b;->b(Lcom/android/web/internal/support/widget/z;)V
 
     .line 4
     .line 5
@@ -56,7 +56,7 @@
     return-void
 .end method
 
-.method public b(Lcom/tuyafeng/support/widget/z;)V
+.method public b(Lcom/android/web/internal/support/widget/z;)V
     .locals 1
 
     .line 1
@@ -78,7 +78,7 @@
 
     .line 10
     .line 11
-    invoke-virtual {v0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-virtual {v0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 12
     .line 13

@@ -30,7 +30,7 @@
     return-void
 .end method
 
-.method public static synthetic l(Landroid/content/Context;Lcom/tuyafeng/support/widget/d;)V
+.method public static synthetic l(Landroid/content/Context;Lcom/android/web/internal/support/widget/d;)V
     .locals 2
 
     .line 1
@@ -64,7 +64,7 @@
     int-to-float v1, v1
 
     .line 15
-    invoke-virtual {p1, v0, v1}, Lcom/tuyafeng/support/widget/d;->d(FF)V
+    invoke-virtual {p1, v0, v1}, Lcom/android/web/internal/support/widget/d;->d(FF)V
 
     .line 16
     .line 17
@@ -98,7 +98,7 @@
     move-result v0
 
     .line 33
-    invoke-virtual {p1, v0}, Lcom/tuyafeng/support/widget/d;->setDrawableTint(I)V
+    invoke-virtual {p1, v0}, Lcom/android/web/internal/support/widget/d;->setDrawableTint(I)V
 
     .line 34
     .line 35
@@ -247,7 +247,7 @@
 
     .line 9
     .line 10
-    check-cast p1, Lcom/tuyafeng/support/widget/d;
+    check-cast p1, Lcom/android/web/internal/support/widget/d;
 
     .line 11
     .line 12
@@ -555,11 +555,11 @@
 
     .line 2
     .line 3
-    new-instance v0, Lcom/tuyafeng/support/widget/d;
+    new-instance v0, Lcom/android/web/internal/support/widget/d;
 
     .line 4
     .line 5
-    invoke-direct {v0, p1}, Lcom/tuyafeng/support/widget/d;-><init>(Landroid/content/Context;)V
+    invoke-direct {v0, p1}, Lcom/android/web/internal/support/widget/d;-><init>(Landroid/content/Context;)V
 
     .line 6
     .line 7

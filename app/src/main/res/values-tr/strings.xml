@@ -61,8 +61,8 @@
     <string name="bi">IE 11 (PC)</string>
     <string name="bk">iPhone</string>
     <string name="bm">Symbian</string>
-    <string name="bp">Kabul et</string>
-    <string name="bq">Hizmetimizi kullanmaya ba艧lamadan 枚nce t眉m 艧artlar谋 kabul etmeniz ve kabul etmeniz gerekir.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="bw">T眉m zamanlar</string>
     <string name="c0">Bir kez izin ver</string>
     <string name="c1">Web sitesinin panoya eri艧imine izin ver</string>
@@ -158,9 +158,7 @@ Talebi g枚ndermek i莽in l眉tfen 艧ifrenizi girin."</string>
     <string name="gc">Gizlili臒i korumak i莽in web sitesinin verilerimi satmamas谋n谋 veya payla艧mamas谋n谋 zorunlu k谋l (deneysel)</string>
     <string name="gd">Takip etme</string>
     <string name="ge">Ba臒谋艧 yap</string>
-    <string name="gf">"Via taray谋c谋y谋 be臒endiyseniz ba臒谋艧lar谋n谋zla bize destek olabilirsiniz.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Bitti</string>
     <string name="gi">陌ndirme konumu</string>
     <string name="gl">陌ndirme tamamland谋</string>
@@ -168,7 +166,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="gx">陌ndirme ba艧l谋yor鈥</string>
     <string name="h6">DuckDuckGo</string>
     <string name="h8">Filtre kayna臒谋n谋 d眉zenle</string>
-    <string name="h_">Bana email g枚nder</string>
+    <string name="h_"></string>
     <string name="ha">G枚sterilecek bir 艧ey yok</string>
     <string name="hb">L眉tfen 艧ifrenizi girin.</string>
     <string name="hc">L眉tfen kullan谋c谋 ad谋n谋z谋 girin.</string>
@@ -303,7 +301,7 @@ Konum bilginizi kullanmak ister misiniz?"</string>
     <string name="pv">艦ifreleri kaydet</string>
     <string name="q5">Yap谋艧t谋r &amp; Git</string>
     <string name="qa">Resim</string>
-    <string name="qh">Gizlilik politikas谋</string>
+    <string name="qh"></string>
     <string name="qk">Karekod alg谋lanmad谋</string>
     <string name="ql">Karekod tarama sonucu</string>
     <string name="qm">Yeniden y眉klemeden geri d枚n</string>
@@ -335,7 +333,7 @@ M眉zik veya video oynat谋l谋rken medya dosyalar谋n谋 alg谋lamak daha kolay
     <string name="sp">Dosya se莽</string>
     <string name="ss">Bu sunucular谋n verileri senkronize edilmez. Tekrar giri艧 yapman谋z istenecektir.</string>
     <string name="st">Anasayfa olarak ayarlamak ister misiniz?</string>
-    <string name="su">"Ba臒lant谋y谋 (%1$s) a莽t谋ktan sonra varsay谋lan olarak ayarlanacakt谋r. Ba臒lant谋y谋 a莽mak i莽in l眉tfen Via'y谋 se莽in."</string>
+    <string name="su">"Ba臒lant谋y谋 (%1$s) a莽t谋ktan sonra varsay谋lan olarak ayarlanacakt谋r. Ba臒lant谋y谋 a莽mak i莽in l眉tfen Web'y谋 se莽in."</string>
     <string name="sv">Kullan谋c谋 arac谋s谋 艧u 艧ekilde ayarland谋: %1$s</string>
     <string name="sw">Varsay谋lan taray谋c谋 olarak ayarla</string>
     <string name="sx">Ayarlar</string>
@@ -350,7 +348,7 @@ M眉zik veya video oynat谋l谋rken medya dosyalar谋n谋 alg谋lamak daha kolay
     <string name="t7">ShenMa</string>
     <string name="tb">Kaynak alg谋lay谋c谋 d眉臒mesini otomatik olarak g枚ster</string>
     <string name="te">Kay谋t ba艧ar谋l谋</string>
-    <string name="tf">"Via, neredeyse t眉m Adblock Plus filtrelerini destekler. 
+    <string name="tf">"Web, neredeyse t眉m Adblock Plus filtrelerini destekler. 
 ornek.com'dan gelen istekleri a艧a臒谋daki gibi bir filtreyle engelleyebilirsiniz: 
 ||ornek.com^ (veya basit莽e: ornek.com) 
 
@@ -376,7 +374,7 @@ A艧a臒谋daki gibi bir filtreyle 枚zel isteklerin engellemesini kald谋rabili
     <string name="u7">StartPage</string>
     <string name="u8">999+</string>
     <string name="u9">Ba臒l谋 kal</string>
-    <string name="ua">Via, a艧a臒谋daki sayfan谋n y眉klenmesini engelledi:</string>
+    <string name="ua">Web, a艧a臒谋daki sayfan谋n y眉klenmesini engelledi:</string>
     <string name="ub">A艧a臒谋daki filtre nedeniyle:</string>
     <string name="ud">Kenarl谋k opakl谋臒谋</string>
     <string name="ue">Kenarl谋k geni艧li臒i</string>
@@ -384,7 +382,7 @@ A艧a臒谋daki gibi bir filtreyle 枚zel isteklerin engellemesini kald谋rabili
     <string name="uq">Yerel ayarlar谋n谋z谋n ve yer i艧aretlerinizin 眉zerine yaz谋lacakt谋r. Devam etmek istiyor musunuz?</string>
     <string name="uy">Senkronizasyon tamamland谋</string>
     <string name="uz">Sistem indirme y枚neticisi</string>
-    <string name="xh">Kullan谋m 艧artlar谋</string>
+    <string name="xh"></string>
     <string name="xi">Metin</string>
     <string name="xs">Uygulama se莽ici</string>
     <string name="xw">脰zel anasayfa</string>

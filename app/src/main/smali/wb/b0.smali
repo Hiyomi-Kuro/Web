@@ -684,7 +684,7 @@
     .line 19
     .line 20
     .line 21
-    const-string v0, "VIA-SWITCH-TAB:"
+    const-string v0, "WEB-SWITCH-TAB:"
 
     .line 22
     .line 23

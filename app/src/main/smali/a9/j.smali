@@ -770,7 +770,11 @@
 
     .line 16
     .line 17
-    const-string v5, "https://res.viayoo.com/v1/latest_play.json"
+    const-string v5, "aHR0cHM6Ly9yZXMudmlheW9vLmNvbS92MS9sYXRlc3RfcGxheS5qc29u"
+
+    invoke-static {v5}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v5
 
     .line 18
     .line 19
@@ -800,7 +804,11 @@
     .line 27
     .line 28
     :cond_0
-    const-string v5, "https://res.viayoo.com/v1/latest_cn.json"
+    const-string v5, "aHR0cHM6Ly9yZXMudmlheW9vLmNvbS92MS9sYXRlc3RfY24uanNvbg=="
+
+    invoke-static {v5}, Lca/d;->a(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v5
 
     .line 29
     .line 30

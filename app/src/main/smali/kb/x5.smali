@@ -8,7 +8,7 @@
 
 
 # instance fields
-.field public q0:Lcom/tuyafeng/support/widget/z;
+.field public q0:Lcom/android/web/internal/support/widget/z;
 
 .field public r0:Lz5/e;
 
@@ -660,11 +660,11 @@
 
     .line 281
     .line 282
-    iget-object v0, p0, Lkb/x5;->q0:Lcom/tuyafeng/support/widget/z;
+    iget-object v0, p0, Lkb/x5;->q0:Lcom/android/web/internal/support/widget/z;
 
     .line 283
     .line 284
-    new-instance v1, Lcom/tuyafeng/support/widget/z$b;
+    new-instance v1, Lcom/android/web/internal/support/widget/z$b;
 
     .line 285
     .line 286
@@ -683,7 +683,7 @@
     const/4 v4, 0x0
 
     .line 293
-    invoke-direct {v1, v3, v3, v4, v2}, Lcom/tuyafeng/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
+    invoke-direct {v1, v3, v3, v4, v2}, Lcom/android/web/internal/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
 
     .line 294
     .line 295
@@ -697,7 +697,7 @@
     .line 299
     .line 300
     .line 301
-    invoke-virtual {v0, v1, v2}, Lcom/tuyafeng/support/widget/z;->c(Lcom/tuyafeng/support/widget/z$b;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {v0, v1, v2}, Lcom/android/web/internal/support/widget/z;->c(Lcom/android/web/internal/support/widget/z$b;Landroid/view/View$OnClickListener;)V
 
     .line 302
     .line 303
@@ -984,11 +984,11 @@
     return-void
 .end method
 
-.method public Z2(Lcom/tuyafeng/support/widget/z;)V
+.method public Z2(Lcom/android/web/internal/support/widget/z;)V
     .locals 1
 
     .line 1
-    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 2
     .line 3
@@ -1005,12 +1005,12 @@
     move-result-object v0
 
     .line 10
-    invoke-static {p1, v0}, Lb9/t3;->b(Lcom/tuyafeng/support/widget/z;Ljava/lang/String;)V
+    invoke-static {p1, v0}, Lb9/t3;->b(Lcom/android/web/internal/support/widget/z;Ljava/lang/String;)V
 
     .line 11
     .line 12
     .line 13
-    iput-object p1, p0, Lkb/x5;->q0:Lcom/tuyafeng/support/widget/z;
+    iput-object p1, p0, Lkb/x5;->q0:Lcom/android/web/internal/support/widget/z;
 
     .line 14
     .line 15

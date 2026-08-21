@@ -578,7 +578,7 @@
     move-result-object v6
 
     .line 235
-    const-string v7, "App measurement disabled via the global data collection setting"
+    const-string v7, "App measurement disabled web the global data collection setting"
 
     .line 236
     .line 237
@@ -611,7 +611,7 @@
     move-result-object v6
 
     .line 251
-    const-string v7, "App measurement deactivated via resources. This method is being deprecated. Please refer to https://firebase.google.com/support/guides/disable-analytics"
+    const-string v7, "App measurement deactivated web resources. This method is being deprecated. Please refer to https://firebase.google.com/support/guides/disable-analytics"
 
     .line 252
     .line 253
@@ -644,7 +644,7 @@
     move-result-object v6
 
     .line 267
-    const-string v7, "App measurement disabled via the init parameters"
+    const-string v7, "App measurement disabled web the init parameters"
 
     .line 268
     .line 269
@@ -677,7 +677,7 @@
     move-result-object v6
 
     .line 283
-    const-string v7, "App measurement disabled via the manifest"
+    const-string v7, "App measurement disabled web the manifest"
 
     .line 284
     .line 285
@@ -743,7 +743,7 @@
     move-result-object v6
 
     .line 315
-    const-string v7, "App measurement deactivated via the init parameters"
+    const-string v7, "App measurement deactivated web the init parameters"
 
     .line 316
     .line 317
@@ -776,7 +776,7 @@
     move-result-object v6
 
     .line 331
-    const-string v7, "App measurement deactivated via the manifest"
+    const-string v7, "App measurement deactivated web the manifest"
 
     .line 332
     .line 333

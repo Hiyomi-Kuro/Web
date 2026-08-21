@@ -247,7 +247,7 @@
 
     .line 8
     .line 9
-    instance-of v0, p0, Lcom/tuyafeng/support/widget/z;
+    instance-of v0, p0, Lcom/android/web/internal/support/widget/z;
 
     .line 10
     .line 11
@@ -255,7 +255,7 @@
 
     .line 12
     .line 13
-    instance-of v0, p0, Lcom/tuyafeng/support/widget/a0;
+    instance-of v0, p0, Lcom/android/web/internal/support/widget/a0;
 
     .line 14
     .line 15
@@ -263,7 +263,7 @@
 
     .line 16
     .line 17
-    instance-of v0, p0, Lcom/tuyafeng/support/widget/b;
+    instance-of v0, p0, Lcom/android/web/internal/support/widget/b;
 
     .line 18
     .line 19

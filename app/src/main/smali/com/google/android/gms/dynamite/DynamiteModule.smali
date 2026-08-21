@@ -2670,7 +2670,7 @@
     .line 200
     .line 201
     .line 202
-    const-string v5, "Failed to load module via V2: "
+    const-string v5, "Failed to load module web V2: "
 
     .line 203
     .line 204

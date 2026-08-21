@@ -842,7 +842,7 @@
 
     .line 45
     .line 46
-    const-string v1, "@media print{body{overflow:auto!important}body>*{display:none!important}.via-reader-body{display:block!important;position:static!important}}.via-reader-body{position:fixed;left:0;right:0;top:0;bottom:0;overflow:auto;z-index:2147483647!important;color:#000}.via-reader-body *{background-color:transparent!important}.via-reader-header{text-align:start;margin:0 16px 32px}.via-reader-header>h1{font-size:1.4em;font-weight:700;line-height:1.8;width:100%;padding:32px 0 0;margin:0;text-indent:0!important}.via-reader-header>div{opacity:.8;font-size:.8em}.via-reader-header>div>a{color:#0269c8}.via-reader-content{font-size:1em;line-height:1.2;margin:10px 16px 0;overflow-wrap:break-word}.via-reader-content a,.via-reader-content a:active,.via-reader-content a:hover,.via-reader-content a:visited{color:#0269c8}.via-reader-content h1,.via-reader-content h2,.via-reader-content h3,.via-reader-content h4,.via-reader-content h5{margin-top:16px;margin-bottom:16px;font-weight:700;line-height:1.8}.via-reader-content h1{font-size:1.4em}.via-reader-content h2{font-size:1.2em}.via-reader-content h3{font-size:1.1em}.via-reader-content *{max-width:100%;height:auto}.via-reader-content p{font-size:1em;line-height:1.8;padding:0 0 20px}.via-reader-content .wp-caption,.via-reader-content figure{width:100%;margin:0 0 32px}.via-reader-content .wp-caption img,.via-reader-content figure img,.via-reader-content p>a:only-child>img:only-child,.via-reader-content p>img:only-child{margin-left:auto;margin-right:auto}.via-reader-content .caption,.via-reader-content .wp-caption-text,.via-reader-content figcaption{font-size:.9em;margin:0;padding-top:4px}.via-reader-content code,.via-reader-content pre{white-space:pre-wrap;margin-bottom:3px;font-family:monospace!important}.via-reader-content code{padding:2px 4px;font-size:.9em;background-color:#f9f2f4;border-radius:4px}.via-reader-content pre{padding:9px;font-size:.9em;border:1px solid #ccc;border-radius:4px}.via-reader-content blockquote{margin:0 0 20px;padding:0;padding-inline-start:16px;border:0;border-left:2px solid}.via-reader-content ol,.via-reader-content ul{margin:0 0 20px;padding:0;line-height:1.5}.via-reader-content ul{padding-inline-start:30px;list-style:disc!important}.via-reader-content ol{padding-inline-start:35px;list-style:decimal!important}.via-reader-content img.emoji,.via-reader-content img.wp-smiley{border-width:0;width:1em;margin:0 .07em;padding:0}.via-reader-content table{border-collapse:collapse;border:1px solid hsla(0,0%,50.2%,.5)}.via-reader-content td,.via-reader-content th{border:1px solid hsla(0,0%,50.2%,.5);padding:2px}"
+    const-string v1, "@media print{body{overflow:auto!important}body>*{display:none!important}.web-reader-body{display:block!important;position:static!important}}.web-reader-body{position:fixed;left:0;right:0;top:0;bottom:0;overflow:auto;z-index:2147483647!important;color:#000}.web-reader-body *{background-color:transparent!important}.web-reader-header{text-align:start;margin:0 16px 32px}.web-reader-header>h1{font-size:1.4em;font-weight:700;line-height:1.8;width:100%;padding:32px 0 0;margin:0;text-indent:0!important}.web-reader-header>div{opacity:.8;font-size:.8em}.web-reader-header>div>a{color:#0269c8}.web-reader-content{font-size:1em;line-height:1.2;margin:10px 16px 0;overflow-wrap:break-word}.web-reader-content a,.web-reader-content a:active,.web-reader-content a:hover,.web-reader-content a:visited{color:#0269c8}.web-reader-content h1,.web-reader-content h2,.web-reader-content h3,.web-reader-content h4,.web-reader-content h5{margin-top:16px;margin-bottom:16px;font-weight:700;line-height:1.8}.web-reader-content h1{font-size:1.4em}.web-reader-content h2{font-size:1.2em}.web-reader-content h3{font-size:1.1em}.web-reader-content *{max-width:100%;height:auto}.web-reader-content p{font-size:1em;line-height:1.8;padding:0 0 20px}.web-reader-content .wp-caption,.web-reader-content figure{width:100%;margin:0 0 32px}.web-reader-content .wp-caption img,.web-reader-content figure img,.web-reader-content p>a:only-child>img:only-child,.web-reader-content p>img:only-child{margin-left:auto;margin-right:auto}.web-reader-content .caption,.web-reader-content .wp-caption-text,.web-reader-content figcaption{font-size:.9em;margin:0;padding-top:4px}.web-reader-content code,.web-reader-content pre{white-space:pre-wrap;margin-bottom:3px;font-family:monospace!important}.web-reader-content code{padding:2px 4px;font-size:.9em;background-color:#f9f2f4;border-radius:4px}.web-reader-content pre{padding:9px;font-size:.9em;border:1px solid #ccc;border-radius:4px}.web-reader-content blockquote{margin:0 0 20px;padding:0;padding-inline-start:16px;border:0;border-left:2px solid}.web-reader-content ol,.web-reader-content ul{margin:0 0 20px;padding:0;line-height:1.5}.web-reader-content ul{padding-inline-start:30px;list-style:disc!important}.web-reader-content ol{padding-inline-start:35px;list-style:decimal!important}.web-reader-content img.emoji,.web-reader-content img.wp-smiley{border-width:0;width:1em;margin:0 .07em;padding:0}.web-reader-content table{border-collapse:collapse;border:1px solid hsla(0,0%,50.2%,.5)}.web-reader-content td,.web-reader-content th{border:1px solid hsla(0,0%,50.2%,.5);padding:2px}"
 
     .line 47
     .line 48
@@ -1213,7 +1213,7 @@
     .line 130
     .line 131
     .line 132
-    const-string v3, ".via-reader-body,.via-reader-body>div{background-color: #"
+    const-string v3, ".web-reader-body,.web-reader-body>div{background-color: #"
 
     .line 133
     .line 134
@@ -1227,7 +1227,7 @@
     .line 138
     .line 139
     .line 140
-    const-string p1, " !important;}.via-reader-body {color: #"
+    const-string p1, " !important;}.web-reader-body {color: #"
 
     .line 141
     .line 142
@@ -1255,7 +1255,7 @@
     .line 154
     .line 155
     .line 156
-    const-string p2, "px !important;}@media (prefers-color-scheme: dark) {.via-reader-body,.via-reader-body>div{background-color: #"
+    const-string p2, "px !important;}@media (prefers-color-scheme: dark) {.web-reader-body,.web-reader-body>div{background-color: #"
 
     .line 157
     .line 158

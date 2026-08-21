@@ -14,6 +14,10 @@
 .method public static a(Landroid/content/Context;)Ljava/lang/String;
     .locals 9
 
+    const-string v0, "<h1>Web</h1>"
+
+    return-object v0
+
     .line 1
     invoke-static {p0}, Lh6/l;->b(Landroid/content/Context;)Z
 
@@ -111,7 +115,7 @@
     .line 49
     .line 50
     .line 51
-    const-string v8, "\u6211\u4eec\u5229\u7528\u6709\u9650\u7684\u4e1a\u4f59\u65f6\u95f4\u8bbe\u8ba1\u4e86 Via\uff0c\u867d\u7136\u5b83\u5e76\u4e0d\u90a3\u4e48\u7f8e\u597d\uff0c\u4f46\u6b63\u52aa\u529b\u524d\u884c\u3002\n\u5982\u679c\u4f60\u559c\u6b22\u6211\u4eec\u7684\u4f5c\u54c1\uff0c\u53ef\u4ee5\u6350\u8d60\u6765\u652f\u6301\u6211\u4eec\u3002\n\n\u6240\u6709\u7684\u6350\u8d60\u90fd\u5c06\u7528\u6765\uff1a\u63d0\u5347\u6211\u4eec\u7684\u73af\u5883\u914d\u7f6e\u4ee5\u53ca\u79ef\u6781\u6027\u3002\n\n\u652f\u4ed8\u5b9d: 2376688759@qq.com\nPayPal: wiar1824@gmail.com"
+    const-string v8, ""
 
     .line 52
     .line 53
@@ -270,7 +274,7 @@
     .line 132
     .line 133
     .line 134
-    const-string v5, "<p><a href=\"http://viayoo.com/\">"
+    const-string v5, ""
 
     .line 135
     .line 136
@@ -326,7 +330,7 @@
 
     .line 161
     .line 162
-    const-string v7, "<p><a href=\"http://viayoo.com/contact/qqgroup/\">\u5b98\u65b9\u9e45\u7fa4</a></p>"
+    const-string v7, ""
 
     .line 163
     .line 164
@@ -336,7 +340,7 @@
     .line 165
     .line 166
     .line 167
-    const-string v0, "<p><a href=\"https://t.me/viatg\">Telegram</a></p><p><a href=\"https://github.com/tuyafeng/Via\">"
+    const-string v0, ""
 
     .line 168
     .line 169

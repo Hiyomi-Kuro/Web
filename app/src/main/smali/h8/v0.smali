@@ -32,7 +32,7 @@
 
 .field public y0:Landroid/widget/TextView;
 
-.field public z0:Lcom/tuyafeng/support/widget/w;
+.field public z0:Lcom/android/web/internal/support/widget/w;
 
 
 # direct methods
@@ -505,7 +505,7 @@
     .locals 2
 
     .line 1
-    iget-object v0, p0, Lh8/v0;->z0:Lcom/tuyafeng/support/widget/w;
+    iget-object v0, p0, Lh8/v0;->z0:Lcom/android/web/internal/support/widget/w;
 
     .line 2
     .line 3
@@ -513,7 +513,7 @@
 
     .line 4
     .line 5
-    invoke-virtual {v0, v1}, Lcom/tuyafeng/support/widget/w;->f(I)V
+    invoke-virtual {v0, v1}, Lcom/android/web/internal/support/widget/w;->f(I)V
 
     .line 6
     .line 7
@@ -1278,16 +1278,16 @@
     .line 260
     .line 261
     .line 262
-    new-instance v1, Lcom/tuyafeng/support/widget/w;
+    new-instance v1, Lcom/android/web/internal/support/widget/w;
 
     .line 263
     .line 264
-    invoke-direct {v1, p2}, Lcom/tuyafeng/support/widget/w;-><init>(Landroid/widget/ProgressBar;)V
+    invoke-direct {v1, p2}, Lcom/android/web/internal/support/widget/w;-><init>(Landroid/widget/ProgressBar;)V
 
     .line 265
     .line 266
     .line 267
-    iput-object v1, p0, Lh8/v0;->z0:Lcom/tuyafeng/support/widget/w;
+    iput-object v1, p0, Lh8/v0;->z0:Lcom/android/web/internal/support/widget/w;
 
     .line 268
     .line 269
@@ -2448,7 +2448,7 @@
 
     .line 28
     .line 29
-    iget-object v0, p0, Lh8/v0;->z0:Lcom/tuyafeng/support/widget/w;
+    iget-object v0, p0, Lh8/v0;->z0:Lcom/android/web/internal/support/widget/w;
 
     .line 30
     .line 31
@@ -2456,7 +2456,7 @@
 
     .line 32
     .line 33
-    invoke-virtual {v0, v1}, Lcom/tuyafeng/support/widget/w;->f(I)V
+    invoke-virtual {v0, v1}, Lcom/android/web/internal/support/widget/w;->f(I)V
 
     .line 34
     .line 35
@@ -2477,7 +2477,7 @@
 
     .line 43
     :cond_1
-    iget-object v1, p0, Lh8/v0;->z0:Lcom/tuyafeng/support/widget/w;
+    iget-object v1, p0, Lh8/v0;->z0:Lcom/android/web/internal/support/widget/w;
 
     .line 44
     .line 45
@@ -2501,7 +2501,7 @@
 
     .line 54
     .line 55
-    invoke-virtual {v1, v3, v2}, Lcom/tuyafeng/support/widget/w;->g(IZ)V
+    invoke-virtual {v1, v3, v2}, Lcom/android/web/internal/support/widget/w;->g(IZ)V
 
     .line 56
     .line 57

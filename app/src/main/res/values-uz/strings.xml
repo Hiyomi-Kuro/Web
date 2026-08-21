@@ -69,15 +69,15 @@
     <string name="bm">Nokia Brauzer</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">Roziman</string>
-    <string name="bq">Xizmatdan foydalanishdan oldin barcha shartlarni qabul qilishingiz kerak.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="bw">Shu kungacha</string>
     <string name="c0">Hozir ruxsat berish</string>
     <string name="c1">Saytga vaqtinchalik xotiraga kirishga ruxsat berish</string>
     <string name="c2">%1$s ilovasi ochilsinmi?</string>
-    <string name="c4">Via allaqachon doimiy brauzer sifatida o鈥榬natilgan</string>
+    <string name="c4">Web allaqachon doimiy brauzer sifatida o鈥榬natilgan</string>
     <string name="c5">Har doim tiklash</string>
-    <string name="c8">Via fayllarni yuklab olmoqda</string>
+    <string name="c8">Web fayllarni yuklab olmoqda</string>
     <string name="c9">Yuklanmalarni ko鈥榬ish uchun bosing</string>
     <string name="c_">Web</string>
     <string name="cc">Avval so鈥榬alsin</string>
@@ -174,9 +174,7 @@ So鈥榬ovni yuborish uchun parolingizni kiriting."</string>
     <string name="gc">Maxfiylikni himoyalash uchun saytdan ma鈥檒umotlarni sotmaslik yoki ulashmaslik talab qilinadi</string>
     <string name="gd">Kuzatilmasin</string>
     <string name="ge">Xayriya</string>
-    <string name="gf">"Agar sizga ilova yoqsa, bizni qo鈥榣lab-quvvatlash uchun xayriya qilishingiz mumkin.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Tayyor</string>
     <string name="gi">Yuklanmalar joylashuvi</string>
     <string name="gj">To鈥榵tatish</string>
@@ -204,7 +202,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h5">Tarmoq kutilmoqda</string>
     <string name="h6">DuckDuckGo</string>
     <string name="h8">Obunani o鈥榸gartirish</string>
-    <string name="h_">Menga xabar</string>
+    <string name="h_"></string>
     <string name="ha">Bo鈥榮h</string>
     <string name="hb">Iltimos, parol kiriting</string>
     <string name="hc">Iltimos, ism kiriting</string>
@@ -309,7 +307,7 @@ Ro鈥榶xatni tahrirlashingiz yoki blokni yoqish/o鈥榗hirish uchun quyidagi el
 Joylashuvingiz haqida xabar berilsinmi?"</string>
     <string name="n2">Yuklab olingan fayl o鈥榗hirilib, %1$s qayta yuklab olinsinmi?</string>
     <string name="n3">\"%1$s\"(%2$s) qayta o鈥榬natilsinmi?</string>
-    <string name="n7">Via brauzeridan foydalanishdan oldin bizning %1$s va %2$sga rozilik bildiring.</string>
+    <string name="n7"></string>
     <string name="n9">\"%1$s\"(%2$s -> %3$s) yangilaysizmi?</string>
     <string name="ne">Android System WebView to鈥榞鈥榬i o鈥榬natilmagan. Hoziroq o鈥榬natishni istaysizmi?</string>
     <string name="nh">Yana</string>
@@ -361,13 +359,13 @@ Joylashuvingiz haqida xabar berilsinmi?"</string>
     <string name="pv">Parollarni saqlash</string>
     <string name="q5">Joylash &amp; o鈥榯ish</string>
     <string name="qa">Rasm</string>
-    <string name="qh">Maxfiylik siyosati</string>
+    <string name="qh"></string>
     <string name="qi">Pufakli ma鈥檒umotlar qayta ishlanmoqda鈥</string>
     <string name="qj">QR kod</string>
     <string name="qk">QR kod aniqlanmadi</string>
     <string name="ql">Skaner natijasi</string>
     <string name="qm">Sahifani qayta yuklamasdan qaytish</string>
-    <string name="qr">Iltimos, %1$s va %2$sni o鈥榪ing va rozilik bildiring</string>
+    <string name="qr"></string>
     <string name="r1">Aniqlovchi sarlavhalarni olib tashlash</string>
     <string name="r2">X-Requested-With va X-Wap-Profile sarlavhalari bo鈥榮h bo鈥榣adi, bu esa ba鈥檢i sahifalarning g鈥榓yritabiiy ishlashiga olib kelishi mumkin.</string>
     <string name="r3">Qayta nomlash</string>
@@ -408,7 +406,7 @@ Musiqa yoki videoni ijro etishda resurslarni tahlil qilish osonroq, lekin ba鈥�
     <string name="sp">Jild tanlash</string>
     <string name="ss">Serverdagi ma鈥檒umotlar sinxronlashtirilmagan. Buning uchun tizimga kirishingiz kerak.</string>
     <string name="st">Bosh sahifa sifatida o鈥榬natilsinmi?</string>
-    <string name="su">%1$s havolasi ochilganidan keyin doimiy brauzer sifatida o鈥榬natiladi. Havolani ochish uchun Via brauzerini tanlang.</string>
+    <string name="su">%1$s havolasi ochilganidan keyin doimiy brauzer sifatida o鈥榬natiladi. Havolani ochish uchun Web brauzerini tanlang.</string>
     <string name="sv">User-agent quyidagicha o鈥榬natiladi: %1$s</string>
     <string name="sw">Doimiy brauzer sifatida belgilash</string>
     <string name="sx">Sozlamalar</string>
@@ -424,7 +422,7 @@ Musiqa yoki videoni ijro etishda resurslarni tahlil qilish osonroq, lekin ba鈥�
     <string name="t7">ShenMa</string>
     <string name="tb">Tahlil tugmasini avtomatik ko鈥榬satish</string>
     <string name="te">Ro鈥榶xatdan o鈥榯ish yakunlandi</string>
-    <string name="tf">"Via deyarli barcha Adblock Plus filtrlarini qo鈥榣lab-quvvatlaydi. 
+    <string name="tf">"Web deyarli barcha Adblock Plus filtrlarini qo鈥榣lab-quvvatlaydi. 
 Quyidagi filtr yordamida example.com so鈥榬ovlarini bloklashingiz mumkin: 
 ||example.com^ (yoki oddiy: example.com) 
 
@@ -436,7 +434,7 @@ example.com###ad
 
 Siz filtr yordamida maxsus so鈥榬ovlarni blokdan chiqarishingiz mumkin: 
 @@||example.com^"</string>
-    <string name="tg">&lt;b>Meta ma鈥檒umotlar bloki&lt;/b>&lt;br /> Meta ma鈥檒umotlar formatga mos kelishi kerak:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @asosiy qiymat&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: Foydalanuvchi skriptining nomi. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: &lt;tt>@namespace&lt;/tt> va &lt;tt>@name&lt;/tt> kombinatsiyasi foydalanuvchi skripti uchun yagona identifikator hisoblanadi. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Skriptni bajarish kerak yoki yo鈥榪ligini hal qilish uchun qoidalarni aniqlang. &lt;tt>@include&lt;/tt> o鈥榬niga &lt;tt>@match&lt;/tt> dan foydalanish tavsiya etiladi. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: Skriptni bajarish kerak yoki yo鈥榪ligini hal qilishning eski usuli. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: Foydalanuvchi skriptining versiyasi. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: Foydalanuvchi skriptining tavsifi. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: Foydalanuvchi skriptining muallifi. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: Foydalanuvchi skripti talabi. Misol uchun, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Skript qachon bajarilishini hal qiling. &lt;tt>document-start&lt;/tt> sahifa yuklanishidan oldin skriptlarni kiritish uchun ishlatiladi, &lt;tt>document-end&lt;/tt> sahifa yuklangandan keyin skriptlarni kiritish uchun ishlatiladi. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Qaysi maxsus GM_* API berilishi kerakligini va skript bajarilganda foydalanish mumkinligini belgilang.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: Skriptni yuklab olish mumkin bo鈥榣gan URL. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: Foydalanuvchi skriptini qo鈥榣lab-quvvatlovchi URL. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: Foydalanuvchi skriptining bosh sahifasi URL manzili. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> - bu Via tomonidan taqdim etilgan maxsus API guruh. Hozirda qo鈥榣lab-quvvatlanadigan maxsus API quyidagilarni o鈥榸 ichiga oladi: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Moslash&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> URL moslik qoidasini belgilaydi. &lt;tt>@exclude-match&lt;/tt> moslik qoidasini belgilaydi, lekin &lt;tt>@exclude&lt;/tt>ga o鈥榵shash mos keladigan URL manzillarni chiqarib tashlash uchun ishlatiladi. &lt;br />&lt;br /> Misol uchun:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>Meta ma鈥檒umotlar bloki&lt;/b>&lt;br /> Meta ma鈥檒umotlar formatga mos kelishi kerak:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @asosiy qiymat&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: Foydalanuvchi skriptining nomi. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: &lt;tt>@namespace&lt;/tt> va &lt;tt>@name&lt;/tt> kombinatsiyasi foydalanuvchi skripti uchun yagona identifikator hisoblanadi. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Skriptni bajarish kerak yoki yo鈥榪ligini hal qilish uchun qoidalarni aniqlang. &lt;tt>@include&lt;/tt> o鈥榬niga &lt;tt>@match&lt;/tt> dan foydalanish tavsiya etiladi. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: Skriptni bajarish kerak yoki yo鈥榪ligini hal qilishning eski usuli. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: Foydalanuvchi skriptining versiyasi. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: Foydalanuvchi skriptining tavsifi. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: Foydalanuvchi skripti talabi. Misol uchun, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Skript qachon bajarilishini hal qiling. &lt;tt>document-start&lt;/tt> sahifa yuklanishidan oldin skriptlarni kiritish uchun ishlatiladi, &lt;tt>document-end&lt;/tt> sahifa yuklangandan keyin skriptlarni kiritish uchun ishlatiladi. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Qaysi maxsus GM_* API berilishi kerakligini va skript bajarilganda foydalanish mumkinligini belgilang.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: Skriptni yuklab olish mumkin bo鈥榣gan URL. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: Foydalanuvchi skriptini qo鈥榣lab-quvvatlovchi URL. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: Foydalanuvchi skriptining bosh sahifasi URL manzili. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> - bu Web tomonidan taqdim etilgan maxsus API guruh. Hozirda qo鈥榣lab-quvvatlanadigan maxsus API quyidagilarni o鈥榸 ichiga oladi: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Moslash&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> URL moslik qoidasini belgilaydi. &lt;tt>@exclude-match&lt;/tt> moslik qoidasini belgilaydi, lekin &lt;tt>@exclude&lt;/tt>ga o鈥榵shash mos keladigan URL manzillarni chiqarib tashlash uchun ishlatiladi. &lt;br />&lt;br /> Misol uchun:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">Sayt sozlamalari</string>
     <string name="ti">Sayt sozlamalari (yoniq)</string>
     <string name="tm">Matn o鈥榣chami</string>
@@ -461,7 +459,7 @@ Baribir davom etasizmi?"</string>
     <string name="u7">StartPage</string>
     <string name="u8">999+</string>
     <string name="u9">Qolish</string>
-    <string name="ua">Via quyidagi sahifani yuklanishiga to鈥榮qinlik qildi:</string>
+    <string name="ua">Web quyidagi sahifani yuklanishiga to鈥榮qinlik qildi:</string>
     <string name="ub">Quyidagi filtr tufayli:</string>
     <string name="ud">Chegara shaffofligi</string>
     <string name="ue">Chegara kengligi</string>
@@ -469,7 +467,7 @@ Baribir davom etasizmi?"</string>
     <string name="uq">Joriy mahalliy bukmarklar va sozlamalar ustiga yoziladi. Davom etasizmi?</string>
     <string name="uy">Sinxronlash yakunlandi</string>
     <string name="uz">Tizim yuklab olish menejeri</string>
-    <string name="xh">Foydalanish shartlari</string>
+    <string name="xh"></string>
     <string name="xi">Matn</string>
     <string name="xl">Bu sayt</string>
     <string name="xm">Mavzu rangi</string>

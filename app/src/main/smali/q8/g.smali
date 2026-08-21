@@ -31,7 +31,7 @@
     return-void
 .end method
 
-.method public static synthetic a3(Lmark/via/common/widget/o0;)V
+.method public static synthetic a3(Lcom/android/web/common/widget/o0;)V
     .locals 0
 
     .line 1
@@ -70,7 +70,7 @@
 
     .line 8
     .line 9
-    const-class v1, Lcom/tuyafeng/support/widget/z;
+    const-class v1, Lcom/android/web/internal/support/widget/z;
 
     .line 10
     .line 11
@@ -106,7 +106,7 @@
 
     .line 2
     .line 3
-    new-instance p2, Lmark/via/common/widget/o0;
+    new-instance p2, Lcom/android/web/common/widget/o0;
 
     .line 4
     .line 5
@@ -118,7 +118,7 @@
     move-result-object v0
 
     .line 9
-    invoke-direct {p2, v0}, Lmark/via/common/widget/o0;-><init>(Landroid/content/Context;)V
+    invoke-direct {p2, v0}, Lcom/android/web/common/widget/o0;-><init>(Landroid/content/Context;)V
 
     .line 10
     .line 11

@@ -29,7 +29,7 @@
 
     .line 2
     .line 3
-    invoke-static {p1}, Lmark/via/BrowserApp;->a(Ljava/lang/Throwable;)V
+    invoke-static {p1}, Lcom/android/web/BrowserApp;->a(Ljava/lang/Throwable;)V
 
     .line 4
     .line 5

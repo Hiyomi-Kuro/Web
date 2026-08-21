@@ -1,5 +1,5 @@
 .class public Lc8/c2;
-.super Lmark/via/common/rx/AutoDisposeViewModel;
+.super Lcom/android/web/common/rx/AutoDisposeViewModel;
 .source "r8-map-id-e10138e7b5ea796a0c3e38db01d267ba62f753e01123b4e9cebe0d4bfa66e856"
 
 
@@ -16,7 +16,7 @@
     .locals 1
 
     .line 1
-    invoke-direct {p0}, Lmark/via/common/rx/AutoDisposeViewModel;-><init>()V
+    invoke-direct {p0}, Lcom/android/web/common/rx/AutoDisposeViewModel;-><init>()V
 
     .line 2
     .line 3

@@ -1945,7 +1945,7 @@
 
     .line 414
     .line 415
-    new-instance v1, Lmark/via/common/widget/o0;
+    new-instance v1, Lcom/android/web/common/widget/o0;
 
     .line 416
     .line 417
@@ -1957,7 +1957,7 @@
     move-result-object v2
 
     .line 421
-    invoke-direct {v1, v2}, Lmark/via/common/widget/o0;-><init>(Landroid/content/Context;)V
+    invoke-direct {v1, v2}, Lcom/android/web/common/widget/o0;-><init>(Landroid/content/Context;)V
 
     .line 422
     .line 423

@@ -365,7 +365,7 @@
     return-void
 .end method
 
-.method public static synthetic j3(Lkb/z0;Lmark/via/common/widget/f1;)V
+.method public static synthetic j3(Lkb/z0;Lcom/android/web/common/widget/f1;)V
     .locals 2
 
     .line 1
@@ -374,7 +374,7 @@
     .line 2
     .line 3
     .line 4
-    invoke-virtual {p1}, Lmark/via/common/widget/f1;->getEditText()Landroid/widget/EditText;
+    invoke-virtual {p1}, Lcom/android/web/common/widget/f1;->getEditText()Landroid/widget/EditText;
 
     .line 5
     .line 6
@@ -1292,7 +1292,7 @@
     move-result-object p1
 
     .line 188
-    const-string v2, "via.search"
+    const-string v2, "web.search"
 
     .line 189
     .line 190
@@ -1324,7 +1324,7 @@
 
     .line 203
     .line 204
-    const-string v2, "via://search"
+    const-string v2, "web://search"
 
     .line 205
     .line 206
@@ -1862,7 +1862,7 @@
 
     .line 65
     .line 66
-    new-instance v2, Lmark/via/common/widget/f1;
+    new-instance v2, Lcom/android/web/common/widget/f1;
 
     .line 67
     .line 68
@@ -1874,7 +1874,7 @@
     move-result-object v3
 
     .line 72
-    invoke-direct {v2, v3}, Lmark/via/common/widget/f1;-><init>(Landroid/content/Context;)V
+    invoke-direct {v2, v3}, Lcom/android/web/common/widget/f1;-><init>(Landroid/content/Context;)V
 
     .line 73
     .line 74
@@ -2001,11 +2001,11 @@
     move-result-object p2
 
     .line 137
-    check-cast p2, Lmark/via/common/widget/f1;
+    check-cast p2, Lcom/android/web/common/widget/f1;
 
     .line 138
     .line 139
-    invoke-virtual {p2}, Lmark/via/common/widget/f1;->getEditText()Landroid/widget/EditText;
+    invoke-virtual {p2}, Lcom/android/web/common/widget/f1;->getEditText()Landroid/widget/EditText;
 
     .line 140
     .line 141
@@ -2165,11 +2165,11 @@
     return-object p1
 .end method
 
-.method public Z2(Lcom/tuyafeng/support/widget/z;)V
+.method public Z2(Lcom/android/web/internal/support/widget/z;)V
     .locals 4
 
     .line 1
-    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 2
     .line 3
@@ -2195,12 +2195,12 @@
     .line 12
     .line 13
     :goto_0
-    invoke-static {p1, v0}, Lb9/t3;->a(Lcom/tuyafeng/support/widget/z;I)V
+    invoke-static {p1, v0}, Lb9/t3;->a(Lcom/android/web/internal/support/widget/z;I)V
 
     .line 14
     .line 15
     .line 16
-    new-instance v0, Lcom/tuyafeng/support/widget/z$b;
+    new-instance v0, Lcom/android/web/internal/support/widget/z$b;
 
     .line 17
     .line 18
@@ -2222,7 +2222,7 @@
     const/4 v3, 0x0
 
     .line 26
-    invoke-direct {v0, v2, v2, v3, v1}, Lcom/tuyafeng/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
+    invoke-direct {v0, v2, v2, v3, v1}, Lcom/android/web/internal/support/widget/z$b;-><init>(IILandroid/graphics/drawable/Drawable;Ljava/lang/String;)V
 
     .line 27
     .line 28
@@ -2236,7 +2236,7 @@
     .line 32
     .line 33
     .line 34
-    invoke-virtual {p1, v0, v1}, Lcom/tuyafeng/support/widget/z;->c(Lcom/tuyafeng/support/widget/z$b;Landroid/view/View$OnClickListener;)V
+    invoke-virtual {p1, v0, v1}, Lcom/android/web/internal/support/widget/z;->c(Lcom/android/web/internal/support/widget/z$b;Landroid/view/View$OnClickListener;)V
 
     .line 35
     .line 36

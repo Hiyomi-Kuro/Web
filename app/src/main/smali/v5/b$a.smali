@@ -54,7 +54,7 @@
 
     .line 2
     .line 3
-    invoke-static {v0}, Lv5/b;->a(Lv5/b;)Lcom/tuyafeng/scanner/camera/b;
+    invoke-static {v0}, Lv5/b;->a(Lv5/b;)Lcom/android/web/internal/scanner/camera/b;
 
     .line 4
     .line 5
@@ -66,7 +66,7 @@
 
     .line 8
     .line 9
-    invoke-virtual {v0, v1}, Lcom/tuyafeng/scanner/camera/b;->t(Z)V
+    invoke-virtual {v0, v1}, Lcom/android/web/internal/scanner/camera/b;->t(Z)V
 
     .line 10
     .line 11

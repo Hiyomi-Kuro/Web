@@ -42,7 +42,7 @@
     <string name="ad">Modo desktop</string>
     <string name="ae">Modo imagem</string>
     <string name="af">Reproduzir com鈥</string>
-    <string name="ag">Pr茅via</string>
+    <string name="ag">Pr茅through</string>
     <string name="ah">Baixar novamente</string>
     <string name="aj">Redefinir</string>
     <string name="ak">Salvar</string>
@@ -86,8 +86,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">Concordar e continuar</string>
-    <string name="bq">Voc锚 precisa concordar e aceitar todos os termos antes de come莽ar a usar nosso servi莽o.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="bv">Todos os sites</string>
     <string name="bw">Todo o per铆odo</string>
     <string name="bx">Permitir</string>
@@ -99,7 +99,7 @@
     <string name="c3">Permitido</string>
     <string name="c4">J谩 foi definido como padr茫o</string>
     <string name="c5">Sempre restaurar</string>
-    <string name="c8">O Via est谩 baixando arquivos</string>
+    <string name="c8">O Web est谩 baixando arquivos</string>
     <string name="c9">Toque para ver os downloads</string>
     <string name="c_">Web</string>
     <string name="ca">Apar锚ncia</string>
@@ -245,9 +245,7 @@ Por favor, digite sua senha para enviar a solicita莽茫o."</string>
     <string name="gc">Solicite que o site n茫o venda ou compartilhe meus dados para proteger a privacidade (experimental)</string>
     <string name="gd">N茫o rastrear</string>
     <string name="ge">Doar</string>
-    <string name="gf">"Se voc锚 gosta do navegador Via, voc锚 pode doar para nos apoiar.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Feito</string>
     <string name="gh">N茫o me lembre novamente</string>
     <string name="gi">Local de download</string>
@@ -278,7 +276,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">Duplicar aba</string>
     <string name="h8">Editar filtro assinado</string>
     <string name="h9">Editar c贸digo-fonte</string>
-    <string name="h_">Envie-me um e-mail</string>
+    <string name="h_"></string>
     <string name="ha">Vazio</string>
     <string name="hb">Por favor, insira sua senha</string>
     <string name="hc">Por favor, insira seu nome de usu谩rio</string>
@@ -380,15 +378,15 @@ para escanear o c贸digo"</string>
     <string name="kb">P谩gina inicial</string>
     <string name="kc">C贸digo HTML</string>
     <string name="kd">Ignore esta mensagem do site por um minuto</string>
-    <string name="ke">Apenas via Wi-Fi</string>
+    <string name="ke">Apenas through Wi-Fi</string>
     <string name="kf">Bloquear imagens</string>
     <string name="kg">Mostrar imagens</string>
     <string name="ki">Imagens</string>
     <string name="kj">Mostrar imagens para um site espec铆fico.</string>
     <string name="kk">Bloquear imagens para um site espec铆fico.</string>
     <string name="kl">Permitir que sites carreguem imagens</string>
-    <string name="km">Permitir que sites carreguem imagens apenas via Wi-Fi</string>
-    <string name="kn">Permitido apenas via Wi-Fi</string>
+    <string name="km">Permitir que sites carreguem imagens apenas through Wi-Fi</string>
+    <string name="kn">Permitido apenas through Wi-Fi</string>
     <string name="ko">N茫o foi poss铆vel importar favoritos do arquivo!</string>
     <string name="kp">Importar favoritos</string>
     <string name="kq">Importar dados</string>
@@ -481,7 +479,7 @@ Gostaria de usar sua localiza莽茫o"</string>
     <string name="n4">A permiss茫o de armazenamento para o local de download foi revogada. Por favor, selecione novamente a localiza莽茫o da pasta de download.</string>
     <string name="n5">Tem certeza que deseja redefinir a configura莽茫o do site para %1$s?</string>
     <string name="n6">Ao usar a barra de endere莽os, sugerir</string>
-    <string name="n7">Ao utilizar o Via, voc锚 concorda com nossos %1$s e a %2$s.</string>
+    <string name="n7"></string>
     <string name="n9">Tem certeza de que deseja atualizar \"%1$s\"(%2$s -> %3$s)?</string>
     <string name="n_">Metaso</string>
     <string name="na">Microfone</string>
@@ -575,7 +573,7 @@ Gostaria de usar sua localiza莽茫o"</string>
     <string name="qe">Pop-ups</string>
     <string name="qf">Perguntar primeiro antes de permitir que os sites mostrem pop-ups</string>
     <string name="qg">Imprimir/PDF</string>
-    <string name="qh">Pol铆tica de privacidade</string>
+    <string name="qh"></string>
     <string name="qi">Processando dados de blob鈥</string>
     <string name="qj">C贸digo QR</string>
     <string name="qk">C贸digo QR n茫o detectado</string>
@@ -585,7 +583,7 @@ Gostaria de usar sua localiza莽茫o"</string>
     <string name="qo">Ativar voltar sem recarregar para um site espec铆fico.</string>
     <string name="qp">Ler em voz alta</string>
     <string name="qq">Ler p谩gina em voz alta</string>
-    <string name="qr">Por favor, leia e concorde com os %1$s e a %2$s</string>
+    <string name="qr"></string>
     <string name="qs">Leitor oculto</string>
     <string name="qt">Leitor exibido</string>
     <string name="qu">Modo leitor</string>
@@ -642,7 +640,7 @@ Gostaria de usar sua localiza莽茫o"</string>
     <string name="se">Mecanismos de pesquisa</string>
     <string name="sf">Pesquisar</string>
     <string name="sg">Hist贸rico de pesquisa</string>
-    <string name="sh">Pesquisar no Via</string>
+    <string name="sh">Pesquisar no Web</string>
     <string name="si">Parte da pesquisa</string>
     <string name="sj">Ocultar</string>
     <string name="sk">Mostrar</string>
@@ -653,7 +651,7 @@ Gostaria de usar sua localiza莽茫o"</string>
     <string name="sp">Selecionar pasta</string>
     <string name="ss">Os dados desses servidores n茫o s茫o sincronizados. Ser谩 necess谩rio entrar novamente.</string>
     <string name="st">Definir como p谩gina inicial?</string>
-    <string name="su">Ser谩 definido como padr茫o ap贸s abrir o link %1$s, Por favor, escolha o Via para abrir o link.</string>
+    <string name="su">Ser谩 definido como padr茫o ap贸s abrir o link %1$s, Por favor, escolha o Web para abrir o link.</string>
     <string name="sv">O agente de usu谩rio est谩 definido como: %1$s</string>
     <string name="sw">Definir como navegador padr茫o</string>
     <string name="sx">Ajustes</string>
@@ -675,7 +673,7 @@ Gostaria de usar sua localiza莽茫o"</string>
     <string name="tc">Mostrar aviso para desfazer o fechamento da aba</string>
     <string name="td">O aviso n茫o ser谩 mostrado se o modo an么nimo estiver ativado</string>
     <string name="te">Cadastro bem-sucedido</string>
-    <string name="tf">"O Via suporta quase todos os filtros do Adblock Plus. 
+    <string name="tf">"O Web suporta quase todos os filtros do Adblock Plus. 
 Voc锚 pode bloquear solicita莽玫es de exemplo.com com um filtro como: 
 ||exemplo.com^ (ou simplesmente: exemplo.com) 
 
@@ -687,7 +685,7 @@ exemplo.com###ad
 
 Voc锚 pode desbloquear solicita莽玫es especiais com um filtro como: 
 @@||exemplo.com^"</string>
-    <string name="tg">&lt;b>Bloco de metadados&lt;/b>&lt;br /> Os metadados devem seguir o formato:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key valor&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: O nome do userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: A combina莽茫o de &lt;tt>@namespace&lt;/tt> e &lt;tt>@name&lt;/tt> 茅 o identificador exclusivo de um userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Define regras para decidir se um script deve ser executado. Recomenda-se usar &lt;tt>@match&lt;/tt> em vez de &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: A maneira antiga de decidir se um script deve ser executado. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: A vers茫o do userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: A descri莽茫o do userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: O autor(a) do userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: O requisito do userscript. Por exemplo, &lt;br />&lt;tt>// @require https://meu.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Decide quando o script ser谩 executado. &lt;tt>document-start&lt;/tt> 茅 usado para injetar scripts antes que a p谩gina carrege, o &lt;tt>document-end&lt;/tt> 茅 usado para injetar scripts ap贸s a p谩gina carregar. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Espec铆fica quais APIs GM_* especiais devem ser concedidas e podem ser usadas quando o script 茅 executado.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: A URL que o script pode ser baixado. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: A URL de suporte do script. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: A URL da p谩gina inicial do script. &lt;br />&lt;br /> &lt;b>APIs GM_*&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> s茫o um grupo de APIs especiais fornecidas pelo Via. As APIs especiais suportadas atualmente incluem: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Correspond锚ncia&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> define uma regra de correspond锚ncia de URL. &lt;tt>@exclude-match&lt;/tt> define uma regra de correspond锚ncia, mas 茅 usado para excluir as URLs correspondentes, similar ao &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> Por exemplo:&lt;br /> &lt;tt> // @match https://www.google.com/algo &lt;br /> // @match https://www.google.com/algo/* &lt;br /> // @exclude-match https://www.google.com/algo/eu_n茫o &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>Bloco de metadados&lt;/b>&lt;br /> Os metadados devem seguir o formato:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key valor&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: O nome do userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: A combina莽茫o de &lt;tt>@namespace&lt;/tt> e &lt;tt>@name&lt;/tt> 茅 o identificador exclusivo de um userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Define regras para decidir se um script deve ser executado. Recomenda-se usar &lt;tt>@match&lt;/tt> em vez de &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: A maneira antiga de decidir se um script deve ser executado. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: A vers茫o do userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: A descri莽茫o do userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: O requisito do userscript. Por exemplo, &lt;br />&lt;tt>// @require https://meu.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Decide quando o script ser谩 executado. &lt;tt>document-start&lt;/tt> 茅 usado para injetar scripts antes que a p谩gina carrege, o &lt;tt>document-end&lt;/tt> 茅 usado para injetar scripts ap贸s a p谩gina carregar. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Espec铆fica quais APIs GM_* especiais devem ser concedidas e podem ser usadas quando o script 茅 executado.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: A URL que o script pode ser baixado. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: A URL de suporte do script. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: A URL da p谩gina inicial do script. &lt;br />&lt;br /> &lt;b>APIs GM_*&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> s茫o um grupo de APIs especiais fornecidas pelo Web. As APIs especiais suportadas atualmente incluem: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Correspond锚ncia&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> define uma regra de correspond锚ncia de URL. &lt;tt>@exclude-match&lt;/tt> define uma regra de correspond锚ncia, mas 茅 usado para excluir as URLs correspondentes, similar ao &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> Por exemplo:&lt;br /> &lt;tt> // @match https://www.google.com/algo &lt;br /> // @match https://www.google.com/algo/* &lt;br /> // @exclude-match https://www.google.com/algo/eu_n茫o &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">Configura莽玫es do site</string>
     <string name="ti">Configura莽玫es do site (ativado)</string>
     <string name="tj">Informa莽玫es do site</string>
@@ -719,7 +717,7 @@ Continuar mesmo assim?"</string>
     <string name="u7">StartPage</string>
     <string name="u8">999+</string>
     <string name="u9">Ficar</string>
-    <string name="ua">O Via impediu a seguinte p谩gina de carregar:</string>
+    <string name="ua">O Web impediu a seguinte p谩gina de carregar:</string>
     <string name="ub">Por causa do seguinte filtro:</string>
     <string name="uc">Parar leitura em voz alta</string>
     <string name="ud">Opacidade da borda</string>
@@ -749,7 +747,7 @@ Continuar mesmo assim?"</string>
     <string name="v2">A aba est谩 fechada</string>
     <string name="v3">Configura莽玫es de abas</string>
     <string name="v4">Abas</string>
-    <string name="xh">Termos de uso</string>
+    <string name="xh"></string>
     <string name="xi">Texto</string>
     <string name="xj">Definir o tamanho do texto para um site espec铆fico.</string>
     <string name="xk">A p谩gina n茫o carregou totalmente</string>

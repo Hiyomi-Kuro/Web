@@ -57,8 +57,8 @@
     <string name="bi">IE 11 (PC)</string>
     <string name="bk">Safari (iPhone)</string>
     <string name="bm">Nokia Browser</string>
-    <string name="bp">Akzeptieren und fortfahren</string>
-    <string name="bq">Sie m眉ssen allen Bedingungen zustimmen und sie akzeptieren, bevor Sie unseren Service nutzen.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="c0">Einmalig erlauben</string>
     <string name="c2">Webseite erlauben %1$s zu 枚ffnen?</string>
     <string name="c4">Bereits als Standard festgelegt</string>
@@ -139,9 +139,7 @@ Bitte geben Sie ihr Passwort ein, um die Anforderung zu 眉bermitteln."</string>
     <string name="ga">Ablehnen</string>
     <string name="gd">Aktivit盲ten nicht verfolgen</string>
     <string name="ge">Spenden</string>
-    <string name="gf">"Wenn Ihnen Via Browser gef盲llt, k枚nnen Sie etwas spenden, um uns zu unterst眉tzen.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Abgeschlossen</string>
     <string name="gi">Download-Pfad</string>
     <string name="gl">Download abgeschlossen</string>
@@ -271,7 +269,7 @@ M枚chten Sie Ihren Standort benutzen?"</string>
     <string name="pv">Passw枚rter speichern</string>
     <string name="q5">Einf眉gen &amp; Los</string>
     <string name="qa">Bild</string>
-    <string name="qh">Datenschutzbestimmungen</string>
+    <string name="qh"></string>
     <string name="qm">Zur眉ck, ohne die Seite erneut zu laden</string>
     <string name="ra">Dies wird erst wirksam werden, wenn JavaScript aktiviert wurde.</string>
     <string name="rc">Zur Vorschau dr眉cken, oder gedr眉ckt halten zum Herunterladen.</string>
@@ -292,7 +290,7 @@ Es ist einfacher, Mediendateien zu erkennen, w盲hrend Musik oder Videos abgespi
     <string name="sp">Ordner w盲hlen</string>
     <string name="ss">Die Daten dieser Server sind nicht synchronisiert. Es ist erforderlich, sich erneut anzumelden.</string>
     <string name="st">Als Startseite festlegen?</string>
-    <string name="su">Es wird als Standard festgelegt, nachdem der Link %1$s ge枚ffnet wird. Bitte Via w盲hlen, um den Link zu 枚ffnen.</string>
+    <string name="su">Es wird als Standard festgelegt, nachdem der Link %1$s ge枚ffnet wird. Bitte Web w盲hlen, um den Link zu 枚ffnen.</string>
     <string name="sv">Benutzer-Agent als %1$s festgelegt</string>
     <string name="sw">Als Standard-Browser festlegen</string>
     <string name="sx">Einstellungen</string>
@@ -307,7 +305,7 @@ Es ist einfacher, Mediendateien zu erkennen, w盲hrend Musik oder Videos abgespi
     <string name="t7">ShenMa</string>
     <string name="tb">Zeige Ressource-Sniffer-Knopf automatisch</string>
     <string name="te">Anmeldung erfolgreich</string>
-    <string name="tf">"Via unterst眉tzt fast alle Adblock Plus Filter. 
+    <string name="tf">"Web unterst眉tzt fast alle Adblock Plus Filter. 
 Sie k枚nnen Anfragen von example.com mit einem Filter wie diesem blockieren: 
 ||example.com^ (or simply, example.com) 
 
@@ -337,7 +335,7 @@ example.com###ad"</string>
     <string name="uq">Bestehende lokale Lesezeichen und Einstellungen werden 眉berschrieben. Fortfahren?</string>
     <string name="uy">Sync abgeschlossen</string>
     <string name="uz">System Download-Manager</string>
-    <string name="xh">Nutzungsbedingungen</string>
+    <string name="xh"></string>
     <string name="xi">Text</string>
     <string name="xs">App ausw盲hlen</string>
     <string name="xw">Angepasste Startseite</string>
@@ -379,7 +377,7 @@ Aktualisieren zum Aktivieren."</string>
     <string name="a0r">Dr眉cke Lautst盲rketasten zum Scrollen</string>
     <string name="a0s">Bitte warten鈥</string>
     <string name="a0t">Webseiten-Debugger aktivieren</string>
-    <string name="a0u">Nun k枚nnen Sie Ihr Telefon mit dem Computer verbinden, dann mit Chrome (PC) und via \"chrome://inspect\" debuggen. Beachten Sie, USB Debugging muss zuerst in den Einstellungen (Werkzeuge > Entwicklerwerkzeuge) aktiviert sein.</string>
+    <string name="a0u">Nun k枚nnen Sie Ihr Telefon mit dem Computer verbinden, dann mit Chrome (PC) und through \"chrome://inspect\" debuggen. Beachten Sie, USB Debugging muss zuerst in den Einstellungen (Werkzeuge > Entwicklerwerkzeuge) aktiviert sein.</string>
     <string name="a0z">Willkommen</string>
     <string name="a11">Breite</string>
     <string name="a12">Falsches Passwort.</string>

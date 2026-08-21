@@ -3,7 +3,7 @@
 .source "r8-map-id-e10138e7b5ea796a0c3e38db01d267ba62f753e01123b4e9cebe0d4bfa66e856"
 
 # interfaces
-.implements Lcom/tuyafeng/support/widget/a0$c;
+.implements Lcom/android/web/internal/support/widget/a0$c;
 
 
 # instance fields
@@ -29,7 +29,7 @@
 
 
 # virtual methods
-.method public final a(Landroid/view/View;Lcom/tuyafeng/support/widget/a0$b;)V
+.method public final a(Landroid/view/View;Lcom/android/web/internal/support/widget/a0$b;)V
     .locals 1
 
     .line 1
@@ -37,7 +37,7 @@
 
     .line 2
     .line 3
-    invoke-static {v0, p1, p2}, Lfb/f0;->r3(Lfb/f0;Landroid/view/View;Lcom/tuyafeng/support/widget/a0$b;)V
+    invoke-static {v0, p1, p2}, Lfb/f0;->r3(Lfb/f0;Landroid/view/View;Lcom/android/web/internal/support/widget/a0$b;)V
 
     .line 4
     .line 5

@@ -4,11 +4,11 @@
 
 
 # instance fields
-.field public n0:Lcom/tuyafeng/support/widget/z;
+.field public n0:Lcom/android/web/internal/support/widget/z;
 
 .field public o0:Landroid/webkit/WebView;
 
-.field public p0:Lcom/tuyafeng/support/widget/w;
+.field public p0:Lcom/android/web/internal/support/widget/w;
 
 .field public final q0:Landroidx/activity/o;
 
@@ -217,22 +217,22 @@
     return-object p0
 .end method
 
-.method public static synthetic e3(La8/g;)Lcom/tuyafeng/support/widget/w;
+.method public static synthetic e3(La8/g;)Lcom/android/web/internal/support/widget/w;
     .locals 0
 
     .line 1
-    iget-object p0, p0, La8/g;->p0:Lcom/tuyafeng/support/widget/w;
+    iget-object p0, p0, La8/g;->p0:Lcom/android/web/internal/support/widget/w;
 
     .line 2
     .line 3
     return-object p0
 .end method
 
-.method public static synthetic f3(La8/g;)Lcom/tuyafeng/support/widget/z;
+.method public static synthetic f3(La8/g;)Lcom/android/web/internal/support/widget/z;
     .locals 0
 
     .line 1
-    iget-object p0, p0, La8/g;->n0:Lcom/tuyafeng/support/widget/z;
+    iget-object p0, p0, La8/g;->n0:Lcom/android/web/internal/support/widget/z;
 
     .line 2
     .line 3
@@ -646,11 +646,11 @@
 
     .line 132
     :goto_1
-    iget-object p2, p0, La8/g;->n0:Lcom/tuyafeng/support/widget/z;
+    iget-object p2, p0, La8/g;->n0:Lcom/android/web/internal/support/widget/z;
 
     .line 133
     .line 134
-    invoke-static {p2, p1}, Lb9/t3;->b(Lcom/tuyafeng/support/widget/z;Ljava/lang/String;)V
+    invoke-static {p2, p1}, Lb9/t3;->b(Lcom/android/web/internal/support/widget/z;Ljava/lang/String;)V
 
     .line 135
     .line 136
@@ -1031,32 +1031,32 @@
     .line 182
     .line 183
     .line 184
-    new-instance p2, Lcom/tuyafeng/support/widget/w;
+    new-instance p2, Lcom/android/web/internal/support/widget/w;
 
     .line 185
     .line 186
-    invoke-direct {p2, p1}, Lcom/tuyafeng/support/widget/w;-><init>(Landroid/widget/ProgressBar;)V
+    invoke-direct {p2, p1}, Lcom/android/web/internal/support/widget/w;-><init>(Landroid/widget/ProgressBar;)V
 
     .line 187
     .line 188
     .line 189
-    iput-object p2, p0, La8/g;->p0:Lcom/tuyafeng/support/widget/w;
+    iput-object p2, p0, La8/g;->p0:Lcom/android/web/internal/support/widget/w;
 
     .line 190
     .line 191
     return-object v0
 .end method
 
-.method public Z2(Lcom/tuyafeng/support/widget/z;)V
+.method public Z2(Lcom/android/web/internal/support/widget/z;)V
     .locals 0
 
     .line 1
-    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    invoke-super {p0, p1}, Lq8/h;->Z2(Lcom/android/web/internal/support/widget/z;)V
 
     .line 2
     .line 3
     .line 4
-    iput-object p1, p0, La8/g;->n0:Lcom/tuyafeng/support/widget/z;
+    iput-object p1, p0, La8/g;->n0:Lcom/android/web/internal/support/widget/z;
 
     .line 5
     .line 6

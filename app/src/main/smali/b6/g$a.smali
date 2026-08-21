@@ -50,11 +50,11 @@
     .locals 0
 
     .line 1
-    check-cast p1, Lcom/tuyafeng/support/widget/d;
+    check-cast p1, Lcom/android/web/internal/support/widget/d;
 
     .line 2
     .line 3
-    invoke-virtual {p0, p1}, Lb6/g$a;->b(Lcom/tuyafeng/support/widget/d;)V
+    invoke-virtual {p0, p1}, Lb6/g$a;->b(Lcom/android/web/internal/support/widget/d;)V
 
     .line 4
     .line 5
@@ -62,7 +62,7 @@
     return-void
 .end method
 
-.method public b(Lcom/tuyafeng/support/widget/d;)V
+.method public b(Lcom/android/web/internal/support/widget/d;)V
     .locals 3
 
     .line 1
@@ -100,7 +100,7 @@
     int-to-float v2, v2
 
     .line 17
-    invoke-virtual {p1, v0, v2}, Lcom/tuyafeng/support/widget/d;->d(FF)V
+    invoke-virtual {p1, v0, v2}, Lcom/android/web/internal/support/widget/d;->d(FF)V
 
     .line 18
     .line 19
@@ -138,7 +138,7 @@
     move-result v0
 
     .line 37
-    invoke-virtual {p1, v0}, Lcom/tuyafeng/support/widget/d;->setDrawableTint(I)V
+    invoke-virtual {p1, v0}, Lcom/android/web/internal/support/widget/d;->setDrawableTint(I)V
 
     .line 38
     .line 39

@@ -6,9 +6,9 @@
     <ScrollView android:id="@id/dj" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/a2">
         <TextView android:id="@id/f6" android:paddingLeft="16.0dp" android:paddingTop="8.0dp" android:paddingRight="16.0dp" android:paddingBottom="8.0dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:textIsSelectable="true" android:textDirection="locale" style="@style/a6" />
     </ScrollView>
-    <mark.via.common.widget.MaxHeightLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.android.web.common.widget.MaxHeightLayout android:layout_width="match_parent" android:layout_height="wrap_content">
         <ListView android:id="@id/ct" android:visibility="gone" android:fadingEdge="vertical" android:fadingEdgeLength="32.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" android:divider="@android:color/transparent" android:requiresFadingEdge="vertical" style="@style/a2" />
-    </mark.via.common.widget.MaxHeightLayout>
+    </com.android.web.common.widget.MaxHeightLayout>
     <FrameLayout android:id="@id/bf" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" />
     <LinearLayout android:id="@id/cq" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dp" android:layout_marginRight="16.0dp">
         <CheckBox android:layout_gravity="center_vertical" android:id="@id/am" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/a5" android:button="?a4" android:layout_marginEnd="@dimen/a5" />

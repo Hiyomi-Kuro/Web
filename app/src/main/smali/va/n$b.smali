@@ -5,7 +5,7 @@
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingMethod;
-    value = Lva/n;->Z2(Lcom/tuyafeng/support/widget/z;)V
+    value = Lva/n;->Z2(Lcom/android/web/internal/support/widget/z;)V
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;

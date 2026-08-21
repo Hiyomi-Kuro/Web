@@ -88,8 +88,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">De acuerdo</string>
-    <string name="bq">Debes estar de acuerdo y aceptar todos los t茅rminos antes de comenzar a usar nuestro servicio.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">IA</string>
     <string name="bs">Mensaje de IA</string>
     <string name="bt">Proveedor de servicios de IA</string>
@@ -106,7 +106,7 @@
     <string name="c4">Ya se configur贸 como predeterminado</string>
     <string name="c5">Restaurar siempre</string>
     <string name="c7">Clave de API</string>
-    <string name="c8">Via est谩 descargando archivos</string>
+    <string name="c8">Web est谩 descargando archivos</string>
     <string name="c9">Pulsa para ver las descargas</string>
     <string name="c_">Web</string>
     <string name="ca">Apariencia</string>
@@ -264,9 +264,7 @@ Ingresa tu contrase帽a para enviar la solicitud."</string>
     <string name="gc">Exigir al sitio web que no venda ni comparta mis datos para proteger la privacidad (experimental)</string>
     <string name="gd">No rastrear</string>
     <string name="ge">Donar</string>
-    <string name="gf">"Si te gusta el navegador Via, puedes donar para apoyarnos.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Hecho</string>
     <string name="gh">No me lo vuelvas a recordar</string>
     <string name="gi">Ruta de descargas</string>
@@ -297,7 +295,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">Duplicar pesta帽a</string>
     <string name="h8">Editar suscripci贸n de filtro</string>
     <string name="h9">Editar c贸digo fuente</string>
-    <string name="h_">Env铆ame un correo electr贸nico</string>
+    <string name="h_"></string>
     <string name="ha">Vac铆o</string>
     <string name="hb">Ingresa tu contrase帽a</string>
     <string name="hc">Ingresa tu nombre de usuario</string>
@@ -522,7 +520,7 @@ Quiere usar tu ubicaci贸n"</string>
     <string name="n4">El permiso de almacenamiento para la ruta de descarga ha sido revocado. Vuelve a seleccionar la ruta de la carpeta de descarga.</string>
     <string name="n5">驴Realmente quieres restablecer la configuraci贸n del sitio para %1$s?</string>
     <string name="n6">Al utilizar la barra de direcciones, sugerir</string>
-    <string name="n7">Al utilizar Via, aceptas nuestras %1$s y %2$s.</string>
+    <string name="n7"></string>
     <string name="n8">Plantilla de mensaje</string>
     <string name="n9">驴Realmente quieres actualizar \"%1$s\"(%2$s -> %3$s)?</string>
     <string name="n_">Metaso</string>
@@ -580,7 +578,7 @@ Quiere usar tu ubicaci贸n"</string>
     <string name="op">Bloquear sitios que abran tu aplicaci贸n</string>
     <string name="oq">No se puede encontrar la app asociada para abrir el enlace</string>
     <string name="or">No se puede encontrar la aplicaci贸n asociada para abrir el archivo</string>
-    <string name="ot">Abrir en Via</string>
+    <string name="ot">Abrir en Web</string>
     <string name="ou">Abrir p谩gina de generaci贸n y gesti贸n de claves API</string>
     <string name="ow">Licencias de c贸digo abierto</string>
     <string name="ox">Abrir con</string>
@@ -641,7 +639,7 @@ Quiere usar tu ubicaci贸n"</string>
     <string name="qe">Emergentes</string>
     <string name="qf">Preguntar primero antes de permitir que los sitios muestren ventanas emergentes</string>
     <string name="qg">Imprimir/PDF</string>
-    <string name="qh">Pol铆tica de privacidad</string>
+    <string name="qh"></string>
     <string name="qi">Procesando datos BLOB鈥</string>
     <string name="qj">C贸digo QR</string>
     <string name="qk">C贸digo QR no detectado</string>
@@ -651,7 +649,7 @@ Quiere usar tu ubicaci贸n"</string>
     <string name="qo">Activa el volver atr谩s sin recargar para un sitio espec铆fico.</string>
     <string name="qp">Leer en voz alta</string>
     <string name="qq">Panel de lectura en voz alta</string>
-    <string name="qr">Lee y acepta %1$s y %2$s</string>
+    <string name="qr"></string>
     <string name="qs">El lector est谩 oculto</string>
     <string name="qt">El lector est谩 visible</string>
     <string name="qu">Modo lectura</string>
@@ -716,7 +714,7 @@ Es m谩s f谩cil detectar archivos multimedia mientras se reproduce m煤sica o v
     <string name="se">Motores de b煤squeda</string>
     <string name="sf">Buscar</string>
     <string name="sg">Historial de b煤squeda</string>
-    <string name="sh">Buscar en Via</string>
+    <string name="sh">Buscar en Web</string>
     <string name="si">Parte de b煤squeda</string>
     <string name="sj">Ocultar</string>
     <string name="sk">Mostrar</string>
@@ -729,7 +727,7 @@ Es m谩s f谩cil detectar archivos multimedia mientras se reproduce m煤sica o v
     <string name="sr">Enviar</string>
     <string name="ss">Los datos de estos servidores no est谩n sincronizados. Se le pedir谩 que inicie sesi贸n nuevamente.</string>
     <string name="st">驴Quieres configurarlo como p谩gina de inicio?</string>
-    <string name="su">Se establecer谩 como predeterminado despu茅s de abrir el enlace %1$s. Elija Via para abrir el enlace.</string>
+    <string name="su">Se establecer谩 como predeterminado despu茅s de abrir el enlace %1$s. Elija Web para abrir el enlace.</string>
     <string name="sv">Agente de usuario establecido como: %1$s</string>
     <string name="sw">Establecer como navegador predeterminado</string>
     <string name="sx">Ajustes</string>
@@ -751,7 +749,7 @@ Es m谩s f谩cil detectar archivos multimedia mientras se reproduce m煤sica o v
     <string name="tc">Mostrar mensaje para deshacer el cierre de la pesta帽a</string>
     <string name="td">El mensaje no se mostrar谩 si el modo inc贸gnito est谩 activado.</string>
     <string name="te">Registrado correctamente</string>
-    <string name="tf">"Via admite casi todos los filtros de Adblock Plus. 
+    <string name="tf">"Web admite casi todos los filtros de Adblock Plus. 
 Puedes bloquear solicitudes de example.com con un filtro como: 
 ||example.com^ (o simplemente: example.com) 
 
@@ -763,7 +761,7 @@ example.com###ad
 
 Puedes desbloquear solicitudes especiales con un filtro como: 
 @@||example.com^"</string>
-    <string name="tg">&lt;b>Bloque de metadatos&lt;/b>&lt;br /> Los metadatos deben seguir este formato:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @clave valor&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: El nombre del userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: La combinaci贸n de &lt;tt>@namespace&lt;/tt> y &lt;tt>@name&lt;/tt> es el identificador 煤nico de un usercript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Definir reglas para decidir si un script debe ejecutarse. Se recomienda utilizar &lt;tt>@match&lt;/tt> en lugar de &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: La antigua forma de decidir si un script debe ejecutarse. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: La versi贸n del userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: La descripci贸n del userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: El autor del userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: El requerimiento del userscript. Por ejemplo, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Decide cu谩ndo se ejecutar谩 el script. &lt;tt>document-start&lt;/tt> se utiliza para inyectar scripts antes de que se cargue la p谩gina, &lt;tt>document-end&lt;/tt> se utiliza para inyectar scripts despu茅s de que se cargue la p谩gina, &lt;tt>document-idle&lt;/tt> se utiliza para inyectar scripts despu茅s de que la p谩gina est茅 inactiva. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Especifica qu茅 APIs GM_* especiales deben concederse y pueden utilizarse cuando se ejecuta el script.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: La URL desde la que se puede descargar el script. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: La URL de soporte del userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: La URL de la p谩gina de inicio del userscript. &lt;br />&lt;br /> &lt;b>APIs GM_*&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> son un grupo de APIs especiales proporcionadas por Via. Las APIs especiales actualmente soportadas son: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Coincidencia&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> define una regla de coincidencia de URL. &lt;tt>@exclude-match&lt;/tt> define una regla de coincidencia pero se utiliza para excluir las URL coincidentes, de forma similar a &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> Por ejemplo:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>Bloque de metadatos&lt;/b>&lt;br /> Los metadatos deben seguir este formato:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @clave valor&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: El nombre del userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: La combinaci贸n de &lt;tt>@namespace&lt;/tt> y &lt;tt>@name&lt;/tt> es el identificador 煤nico de un usercript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Definir reglas para decidir si un script debe ejecutarse. Se recomienda utilizar &lt;tt>@match&lt;/tt> en lugar de &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: La antigua forma de decidir si un script debe ejecutarse. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: La versi贸n del userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: La descripci贸n del userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: El requerimiento del userscript. Por ejemplo, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Decide cu谩ndo se ejecutar谩 el script. &lt;tt>document-start&lt;/tt> se utiliza para inyectar scripts antes de que se cargue la p谩gina, &lt;tt>document-end&lt;/tt> se utiliza para inyectar scripts despu茅s de que se cargue la p谩gina, &lt;tt>document-idle&lt;/tt> se utiliza para inyectar scripts despu茅s de que la p谩gina est茅 inactiva. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Especifica qu茅 APIs GM_* especiales deben concederse y pueden utilizarse cuando se ejecuta el script.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: La URL desde la que se puede descargar el script. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: La URL de soporte del userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: La URL de la p谩gina de inicio del userscript. &lt;br />&lt;br /> &lt;b>APIs GM_*&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> son un grupo de APIs especiales proporcionadas por Web. Las APIs especiales actualmente soportadas son: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Coincidencia&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> define una regla de coincidencia de URL. &lt;tt>@exclude-match&lt;/tt> define una regla de coincidencia pero se utiliza para excluir las URL coincidentes, de forma similar a &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> Por ejemplo:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">Configuraci贸n del sitio</string>
     <string name="ti">Configuraci贸n del sitio (Activado)</string>
     <string name="tj">Informaci贸n del sitio</string>
@@ -796,7 +794,7 @@ Puedes desbloquear solicitudes especiales con un filtro como:
     <string name="u8">999+</string>
     <string name="u9">Permanecer</string>
     <string name="u_">Detener</string>
-    <string name="ua">Via ha impedido que se cargue la siguiente p谩gina:</string>
+    <string name="ua">Web ha impedido que se cargue la siguiente p谩gina:</string>
     <string name="ub">Debido al siguiente filtro:</string>
     <string name="uc">Dejar de leer en voz alta</string>
     <string name="ud">Opacidad del borde</string>
@@ -827,7 +825,7 @@ Puedes desbloquear solicitudes especiales con un filtro como:
     <string name="v2">La pesta帽a est谩 cerrada</string>
     <string name="v3">Ajustes de pesta帽a</string>
     <string name="v4">Pesta帽as</string>
-    <string name="xh">Condiciones de uso</string>
+    <string name="xh"></string>
     <string name="xi">Texto</string>
     <string name="xj">Configura el tama帽o del texto para un sitio espec铆fico.</string>
     <string name="xk">La p谩gina no se ha cargado completamente</string>

@@ -12,7 +12,7 @@
 
 
 # instance fields
-.field public a:Lcom/tuyafeng/support/widget/v;
+.field public a:Lcom/android/web/internal/support/widget/v;
 
 .field public b:Landroid/webkit/WebView;
 
@@ -175,11 +175,11 @@
 
     .line 66
     .line 67
-    iget-object p0, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object p0, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 68
     .line 69
-    invoke-virtual {p0, v4, v3}, Lcom/tuyafeng/support/widget/v;->D(II)V
+    invoke-virtual {p0, v4, v3}, Lcom/android/web/internal/support/widget/v;->D(II)V
 
     .line 70
     .line 71
@@ -316,7 +316,7 @@
 
     .line 126
     .line 127
-    iget-object p2, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object p2, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 128
     .line 129
@@ -332,7 +332,7 @@
 
     .line 134
     .line 135
-    iget-object p2, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object p2, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 136
     .line 137
@@ -344,12 +344,12 @@
     move-result v1
 
     .line 141
-    invoke-virtual {p2, v1}, Lcom/tuyafeng/support/widget/v;->setSpeedAdjustable(Z)V
+    invoke-virtual {p2, v1}, Lcom/android/web/internal/support/widget/v;->setSpeedAdjustable(Z)V
 
     .line 142
     .line 143
     .line 144
-    iget-object p2, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object p2, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 145
     .line 146
@@ -384,12 +384,12 @@
 
     .line 159
     :goto_3
-    invoke-virtual {p2, v1}, Lcom/tuyafeng/support/widget/v;->setProgressGestureEnabled(Z)V
+    invoke-virtual {p2, v1}, Lcom/android/web/internal/support/widget/v;->setProgressGestureEnabled(Z)V
 
     .line 160
     .line 161
     .line 162
-    iget-object p2, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object p2, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 163
     .line 164
@@ -406,13 +406,13 @@
     .line 169
     .line 170
     .line 171
-    invoke-virtual {p2, v1}, Lcom/tuyafeng/support/widget/v;->setControllerCallback(Lcom/tuyafeng/support/widget/v$b;)V
+    invoke-virtual {p2, v1}, Lcom/android/web/internal/support/widget/v;->setControllerCallback(Lcom/android/web/internal/support/widget/v$b;)V
 
     .line 172
     .line 173
     .line 174
     :cond_4
-    iget-object p2, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object p2, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 175
     .line 176
@@ -447,12 +447,12 @@
 
     .line 189
     :goto_4
-    invoke-virtual {p2, v1}, Lcom/tuyafeng/support/widget/v;->setVolumeGestureEnabled(Z)V
+    invoke-virtual {p2, v1}, Lcom/android/web/internal/support/widget/v;->setVolumeGestureEnabled(Z)V
 
     .line 190
     .line 191
     .line 192
-    iget-object p2, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object p2, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 193
     .line 194
@@ -484,21 +484,21 @@
 
     .line 206
     :goto_5
-    invoke-virtual {p2, v0}, Lcom/tuyafeng/support/widget/v;->setBrightnessGestureEnabled(Z)V
+    invoke-virtual {p2, v0}, Lcom/android/web/internal/support/widget/v;->setBrightnessGestureEnabled(Z)V
 
     .line 207
     .line 208
     .line 209
-    iget-object p2, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object p2, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 210
     .line 211
-    invoke-virtual {p2, v4, v3}, Lcom/tuyafeng/support/widget/v;->D(II)V
+    invoke-virtual {p2, v4, v3}, Lcom/android/web/internal/support/widget/v;->D(II)V
 
     .line 212
     .line 213
     .line 214
-    iget-object p2, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object p2, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 215
     .line 216
@@ -517,7 +517,7 @@
     and-int/2addr p0, p1
 
     .line 223
-    invoke-virtual {p2, p0}, Lcom/tuyafeng/support/widget/v;->setToolbarEnabled(Z)V
+    invoke-virtual {p2, p0}, Lcom/android/web/internal/support/widget/v;->setToolbarEnabled(Z)V
 
     .line 224
     .line 225
@@ -553,7 +553,7 @@
     .locals 4
 
     .line 1
-    iget-object v0, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object v0, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 2
     .line 3
@@ -621,14 +621,14 @@
     move-result-object v1
 
     .line 33
-    iget-object v2, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iget-object v2, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 34
     .line 35
     const/4 v3, 0x0
 
     .line 36
-    invoke-virtual {v2, v3}, Lcom/tuyafeng/support/widget/v;->setControllerCallback(Lcom/tuyafeng/support/widget/v$b;)V
+    invoke-virtual {v2, v3}, Lcom/android/web/internal/support/widget/v;->setControllerCallback(Lcom/android/web/internal/support/widget/v$b;)V
 
     .line 37
     .line 38
@@ -667,11 +667,11 @@
     return-object p0
 .end method
 
-.method public f(Lcom/tuyafeng/support/widget/v;)Le8/mb;
+.method public f(Lcom/android/web/internal/support/widget/v;)Le8/mb;
     .locals 0
 
     .line 1
-    iput-object p1, p0, Le8/mb;->a:Lcom/tuyafeng/support/widget/v;
+    iput-object p1, p0, Le8/mb;->a:Lcom/android/web/internal/support/widget/v;
 
     .line 2
     .line 3

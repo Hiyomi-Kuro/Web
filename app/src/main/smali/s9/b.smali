@@ -22,7 +22,7 @@
 
     .line 3
     .line 4
-    const-string v2, "via"
+    const-string v2, "web"
 
     .line 5
     .line 6

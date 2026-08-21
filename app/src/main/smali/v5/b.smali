@@ -12,7 +12,7 @@
 
 .field public b:Lv5/c;
 
-.field public c:Lcom/tuyafeng/scanner/camera/b;
+.field public c:Lcom/android/web/internal/scanner/camera/b;
 
 .field public d:Landroid/os/Handler;
 
@@ -24,7 +24,7 @@
 
 .field public h:Landroid/os/Handler;
 
-.field public i:Lcom/tuyafeng/scanner/camera/CameraSettings;
+.field public i:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
 .field public j:Ljava/lang/Runnable;
 
@@ -66,16 +66,16 @@
 
     .line 9
     .line 10
-    new-instance v0, Lcom/tuyafeng/scanner/camera/CameraSettings;
+    new-instance v0, Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 11
     .line 12
-    invoke-direct {v0}, Lcom/tuyafeng/scanner/camera/CameraSettings;-><init>()V
+    invoke-direct {v0}, Lcom/android/web/internal/scanner/camera/CameraSettings;-><init>()V
 
     .line 13
     .line 14
     .line 15
-    iput-object v0, p0, Lv5/b;->i:Lcom/tuyafeng/scanner/camera/CameraSettings;
+    iput-object v0, p0, Lv5/b;->i:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 16
     .line 17
@@ -148,24 +148,24 @@
 
     .line 53
     .line 54
-    new-instance v0, Lcom/tuyafeng/scanner/camera/b;
+    new-instance v0, Lcom/android/web/internal/scanner/camera/b;
 
     .line 55
     .line 56
-    invoke-direct {v0, p1}, Lcom/tuyafeng/scanner/camera/b;-><init>(Landroid/content/Context;)V
+    invoke-direct {v0, p1}, Lcom/android/web/internal/scanner/camera/b;-><init>(Landroid/content/Context;)V
 
     .line 57
     .line 58
     .line 59
-    iput-object v0, p0, Lv5/b;->c:Lcom/tuyafeng/scanner/camera/b;
+    iput-object v0, p0, Lv5/b;->c:Lcom/android/web/internal/scanner/camera/b;
 
     .line 60
     .line 61
-    iget-object p1, p0, Lv5/b;->i:Lcom/tuyafeng/scanner/camera/CameraSettings;
+    iget-object p1, p0, Lv5/b;->i:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 62
     .line 63
-    invoke-virtual {v0, p1}, Lcom/tuyafeng/scanner/camera/b;->o(Lcom/tuyafeng/scanner/camera/CameraSettings;)V
+    invoke-virtual {v0, p1}, Lcom/android/web/internal/scanner/camera/b;->o(Lcom/android/web/internal/scanner/camera/CameraSettings;)V
 
     .line 64
     .line 65
@@ -186,11 +186,11 @@
     return-void
 .end method
 
-.method public static synthetic a(Lv5/b;)Lcom/tuyafeng/scanner/camera/b;
+.method public static synthetic a(Lv5/b;)Lcom/android/web/internal/scanner/camera/b;
     .locals 0
 
     .line 1
-    iget-object p0, p0, Lv5/b;->c:Lcom/tuyafeng/scanner/camera/b;
+    iget-object p0, p0, Lv5/b;->c:Lcom/android/web/internal/scanner/camera/b;
 
     .line 2
     .line 3
@@ -389,11 +389,11 @@
     .locals 1
 
     .line 1
-    iget-object v0, p0, Lv5/b;->c:Lcom/tuyafeng/scanner/camera/b;
+    iget-object v0, p0, Lv5/b;->c:Lcom/android/web/internal/scanner/camera/b;
 
     .line 2
     .line 3
-    invoke-virtual {v0}, Lcom/tuyafeng/scanner/camera/b;->h()Lu5/v;
+    invoke-virtual {v0}, Lcom/android/web/internal/scanner/camera/b;->h()Lu5/v;
 
     .line 4
     .line 5
@@ -501,7 +501,7 @@
     return-void
 .end method
 
-.method public q(Lcom/tuyafeng/scanner/camera/CameraSettings;)V
+.method public q(Lcom/android/web/internal/scanner/camera/CameraSettings;)V
     .locals 1
 
     .line 1
@@ -513,15 +513,15 @@
 
     .line 4
     .line 5
-    iput-object p1, p0, Lv5/b;->i:Lcom/tuyafeng/scanner/camera/CameraSettings;
+    iput-object p1, p0, Lv5/b;->i:Lcom/android/web/internal/scanner/camera/CameraSettings;
 
     .line 6
     .line 7
-    iget-object v0, p0, Lv5/b;->c:Lcom/tuyafeng/scanner/camera/b;
+    iget-object v0, p0, Lv5/b;->c:Lcom/android/web/internal/scanner/camera/b;
 
     .line 8
     .line 9
-    invoke-virtual {v0, p1}, Lcom/tuyafeng/scanner/camera/b;->o(Lcom/tuyafeng/scanner/camera/CameraSettings;)V
+    invoke-virtual {v0, p1}, Lcom/android/web/internal/scanner/camera/b;->o(Lcom/android/web/internal/scanner/camera/CameraSettings;)V
 
     .line 10
     .line 11
@@ -538,11 +538,11 @@
 
     .line 2
     .line 3
-    iget-object v0, p0, Lv5/b;->c:Lcom/tuyafeng/scanner/camera/b;
+    iget-object v0, p0, Lv5/b;->c:Lcom/android/web/internal/scanner/camera/b;
 
     .line 4
     .line 5
-    invoke-virtual {v0, p1}, Lcom/tuyafeng/scanner/camera/b;->q(Lv5/f;)V
+    invoke-virtual {v0, p1}, Lcom/android/web/internal/scanner/camera/b;->q(Lv5/f;)V
 
     .line 6
     .line 7

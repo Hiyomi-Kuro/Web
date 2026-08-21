@@ -577,7 +577,7 @@
     .line 5
     :cond_0
     :try_start_0
-    const-string v1, "com.android.web.ViaPass"
+    const-string v1, "com.android.web.WebPass"
 
     .line 6
     .line 7
@@ -678,7 +678,7 @@
     .line 5
     :cond_0
     :try_start_0
-    const-string v1, "com.android.web.ViaPass"
+    const-string v1, "com.android.web.WebPass"
 
     .line 6
     .line 7
@@ -1496,7 +1496,7 @@
 
     .line 1
     :try_start_0
-    const-string v0, "com.android.web.ViaPass"
+    const-string v0, "com.android.web.WebPass"
 
     .line 2
     .line 3
@@ -1534,7 +1534,7 @@
     .line 3
     .line 4
     :try_start_0
-    const-string v1, "com.android.web.ViaPass"
+    const-string v1, "com.android.web.WebPass"
 
     .line 5
     .line 6

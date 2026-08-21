@@ -746,11 +746,11 @@
 
     .line 2
     .line 3
-    new-instance v1, Lcom/tuyafeng/support/widget/d;
+    new-instance v1, Lcom/android/web/internal/support/widget/d;
 
     .line 4
     .line 5
-    invoke-direct {v1, p0}, Lcom/tuyafeng/support/widget/d;-><init>(Landroid/content/Context;)V
+    invoke-direct {v1, p0}, Lcom/android/web/internal/support/widget/d;-><init>(Landroid/content/Context;)V
 
     .line 6
     .line 7
@@ -1705,11 +1705,11 @@
 
     .line 45
     .line 46
-    new-instance v3, Lcom/tuyafeng/support/widget/d;
+    new-instance v3, Lcom/android/web/internal/support/widget/d;
 
     .line 47
     .line 48
-    invoke-direct {v3, p0}, Lcom/tuyafeng/support/widget/d;-><init>(Landroid/content/Context;)V
+    invoke-direct {v3, p0}, Lcom/android/web/internal/support/widget/d;-><init>(Landroid/content/Context;)V
 
     .line 49
     .line 50
@@ -1796,7 +1796,7 @@
     move-result-object v2
 
     .line 93
-    check-cast v2, Lcom/tuyafeng/support/widget/d;
+    check-cast v2, Lcom/android/web/internal/support/widget/d;
 
     .line 94
     .line 95

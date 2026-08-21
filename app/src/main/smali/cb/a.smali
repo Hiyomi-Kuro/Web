@@ -4,7 +4,7 @@
 
 
 # direct methods
-.method public static bridge synthetic a(Lmark/via/common/widget/PdfViewer;Landroid/graphics/drawable/Drawable;)V
+.method public static bridge synthetic a(Lcom/android/web/common/widget/PdfViewer;Landroid/graphics/drawable/Drawable;)V
     .locals 0
 
     .line 1

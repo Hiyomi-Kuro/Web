@@ -7,7 +7,7 @@
 
 
 # instance fields
-.field public final synthetic e:Lmark/via/BrowserApp;
+.field public final synthetic e:Lcom/android/web/BrowserApp;
 
 .field public final synthetic j:Ljava/lang/Thread;
 
@@ -15,7 +15,7 @@
 
 
 # direct methods
-.method public synthetic constructor <init>(Lmark/via/BrowserApp;Ljava/lang/Thread;Ljava/lang/Throwable;)V
+.method public synthetic constructor <init>(Lcom/android/web/BrowserApp;Ljava/lang/Thread;Ljava/lang/Throwable;)V
     .locals 0
 
     .line 1
@@ -24,7 +24,7 @@
     .line 2
     .line 3
     .line 4
-    iput-object p1, p0, Lz7/e;->e:Lmark/via/BrowserApp;
+    iput-object p1, p0, Lz7/e;->e:Lcom/android/web/BrowserApp;
 
     .line 5
     .line 6
@@ -45,7 +45,7 @@
     .locals 3
 
     .line 1
-    iget-object v0, p0, Lz7/e;->e:Lmark/via/BrowserApp;
+    iget-object v0, p0, Lz7/e;->e:Lcom/android/web/BrowserApp;
 
     .line 2
     .line 3
@@ -57,7 +57,7 @@
 
     .line 6
     .line 7
-    invoke-static {v0, v1, v2}, Lmark/via/BrowserApp;->b(Lmark/via/BrowserApp;Ljava/lang/Thread;Ljava/lang/Throwable;)V
+    invoke-static {v0, v1, v2}, Lcom/android/web/BrowserApp;->b(Lcom/android/web/BrowserApp;Ljava/lang/Thread;Ljava/lang/Throwable;)V
 
     .line 8
     .line 9

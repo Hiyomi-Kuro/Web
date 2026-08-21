@@ -88,8 +88,8 @@
     <string name="bm">Symbian</string>
     <string name="bn">Windows (Chrome)</string>
     <string name="bo">Windows (IE 11)</string>
-    <string name="bp">膼峄搉g 媒</string>
-    <string name="bq">B岷 c岷 膽峄搉g 媒 v脿 ch岷 nh岷璶 t岷 c岷?c谩c 膽i峄乽 kho岷 tr瓢峄沜 khi b岷痶 膽岷 s峄?d峄g d峄媍h v峄?c峄 ch煤ng t么i.</string>
+    <string name="bp">Continue</string>
+    <string name="bq"></string>
     <string name="br">AI</string>
     <string name="bs">L峄漣 nh岷痗 AI</string>
     <string name="bt">Nh脿 cung c岷 d峄媍h v峄?AI</string>
@@ -106,7 +106,7 @@
     <string name="c4">膼茫 膽瓢峄 thi岷縯 l岷璸 v峄?m岷穋 膽峄媙h</string>
     <string name="c5">Lu么n kh么i ph峄</string>
     <string name="c7">M茫 s峄?API</string>
-    <string name="c8">Via 膽ang t岷 t岷璸 tin</string>
+    <string name="c8">Web 膽ang t岷 t岷璸 tin</string>
     <string name="c9">Nh岷 膽峄?xem c谩c b岷 t岷 xu峄憂g</string>
     <string name="c_">Web</string>
     <string name="ca">Giao di峄噉</string>
@@ -260,9 +260,7 @@ Vui l貌ng nh岷璸 m岷璽 kh岷﹗ c峄 b岷 膽峄?g峄璱 y锚u c岷�
     <string name="gc">Y锚u c岷 trang web kh么ng b谩n ho岷穋 chia s岷?d峄?li峄噓 c峄 t么i 膽峄?b岷 v峄?quy峄乶 ri锚ng t瓢 (th峄?nghi峄噈)</string>
     <string name="gd">Kh么ng theo d玫i</string>
     <string name="ge">峄g h峄</string>
-    <string name="gf">"N岷縰 b岷 th铆ch tr矛nh duy峄噒 Via, b岷 c贸 th峄?膽贸ng g贸p 膽峄?h峄?tr峄?ch煤ng t么i.
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="gf"></string>
     <string name="gg">Xong</string>
     <string name="gh">膼峄玭g nh岷痗 n峄痑</string>
     <string name="gi">V峄?Tr铆 T岷 Xu峄憂g</string>
@@ -293,7 +291,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h7">Th锚m th岷?t瓢啤ng t峄</string>
     <string name="h8">Ch峄塶h s峄璦 b峄?l峄峜</string>
     <string name="h9">Ch峄塶h s峄璦 m茫 ngu峄搉</string>
-    <string name="h_">G峄璱 th瓢 膽i峄噉 t峄?cho t么i</string>
+    <string name="h_"></string>
     <string name="ha">Kh么ng c贸 g矛 膽峄?hi峄僴 th峄嬧€</string>
     <string name="hb">H茫y nh岷璸 v脿o m岷璽 kh岷﹗ c峄 b岷.</string>
     <string name="hc">H茫y nh岷璸 v脿o t锚n ng瓢峄漣 d霉ng c峄 b岷.</string>
@@ -516,7 +514,7 @@ Trang web c岷 s峄?d峄g v峄?tr铆 c峄 b岷"</string>
     <string name="n4">Quy峄乶 l瓢u tr峄?cho v峄?tr铆 t岷 xu峄憂g 膽茫 b峄?thu h峄搃. Vui l貌ng ch峄峮 l岷 v峄?tr铆 th瓢 m峄 t岷 xu峄憂g.</string>
     <string name="n5">B岷 c贸 ch岷痗 ch岷痭 mu峄憂 膽岷穞 l岷 c岷 h矛nh trang web cho %1$s kh么ng?</string>
     <string name="n6">Khi s峄?d峄g thanh 膽峄媋 ch峄? h茫y 膽峄?xu岷</string>
-    <string name="n7">B岷眓g c谩ch s峄?d峄g Via, b岷 膽峄搉g 媒 v峄沬 %1$s v脿 %2$s c峄 ch煤ng t么i.</string>
+    <string name="n7"></string>
     <string name="n8">M岷玼 tin nh岷痭</string>
     <string name="n9">B岷 c贸 ch岷痗 ch岷痭 mu峄憂 c岷璸 nh岷璽 \"%1$s\"(%2$s -> %3$s) kh么ng?</string>
     <string name="n_">Metaso</string>
@@ -572,7 +570,7 @@ Trang web c岷 s峄?d峄g v峄?tr铆 c峄 b岷"</string>
     <string name="op">Ch岷穘 c谩c trang web 膽峄?m峄?峄﹏g d峄g c峄 b岷</string>
     <string name="oq">Kh么ng th峄?t矛m th岷 峄﹏g d峄g li锚n quan 膽峄?m峄?li锚n k岷縯</string>
     <string name="or">Kh么ng th峄?t矛m th岷 峄﹏g d峄g 膽瓢峄 li锚n k岷縯 膽峄?m峄?t峄噋</string>
-    <string name="ot">M峄?trong Via</string>
+    <string name="ot">M峄?trong Web</string>
     <string name="ou">M峄?trang t岷 v脿 qu岷 l媒 Kh贸a API</string>
     <string name="ow">Gi岷 ph茅p ngu峄搉 m峄</string>
     <string name="ox">M峄?b岷眓g</string>
@@ -633,7 +631,7 @@ Trang web c岷 s峄?d峄g v峄?tr铆 c峄 b岷"</string>
     <string name="qe">C峄璦 s峄?b岷璽 l锚n</string>
     <string name="qf">H峄廼 tr瓢峄沜 khi cho ph茅p c谩c trang web hi峄僴 th峄?c峄璦 s峄?b岷璽 l锚n</string>
     <string name="qg">In/PDF</string>
-    <string name="qh">Ch铆nh s谩ch b岷 m岷璽</string>
+    <string name="qh"></string>
     <string name="qi">膼ang x峄?l媒 d峄?li峄噓鈥</string>
     <string name="qj">M茫 QR</string>
     <string name="qk">M茫 QR kh么ng 膽瓢峄 ph谩t hi峄噉</string>
@@ -643,7 +641,7 @@ Trang web c岷 s峄?d峄g v峄?tr铆 c峄 b岷"</string>
     <string name="qo">B岷璽 tr峄?l岷 m脿 kh么ng t岷 l岷 cho m峄檛 trang web c峄?th峄?</string>
     <string name="qp">膼o蹋c to</string>
     <string name="qq">B岷g 膽峄峜 to</string>
-    <string name="qr">Vui l貌ng 膽峄峜 v脿 膽峄搉g 媒 v峄沬 %1$s v脿 %2$s</string>
+    <string name="qr"></string>
     <string name="qs">Tr矛nh 膽峄峜 膽茫 岷﹏</string>
     <string name="qt">Tr矛nh 膽峄峜 膽瓢峄 hi峄僴 th峄</string>
     <string name="qu">Ch岷?膽峄?膽峄峜</string>
@@ -702,7 +700,7 @@ PS: d峄?d脿ng h啤n khi nghe nh岷 ho岷穋 video."</string>
     <string name="se">M谩y t矛m ki岷縨</string>
     <string name="sf">T矛m ki岷縨</string>
     <string name="sg">L峄媍h s峄?t矛m ki岷縨</string>
-    <string name="sh">T矛m ki岷縨 trong Via</string>
+    <string name="sh">T矛m ki岷縨 trong Web</string>
     <string name="si">Ph岷 t矛m ki岷縨</string>
     <string name="sj">岷╪</string>
     <string name="sk">Hi峄僴 th峄</string>
@@ -715,7 +713,7 @@ PS: d峄?d脿ng h啤n khi nghe nh岷 ho岷穋 video."</string>
     <string name="sr">G峄璱</string>
     <string name="ss">D峄?li峄噓 c峄 c谩c m谩y ch峄?n脿y kh么ng 膽瓢峄 膽峄搉g b峄?h贸a. B岷 s岷?膽瓢峄 y锚u c岷 膽膬ng nh岷璸 l岷.</string>
     <string name="st">膼岷穞 l脿m Trang ch峄</string>
-    <string name="su">膼i峄乽 n脿y s岷?膽瓢峄 thi岷縯 l岷璸 th脿nh m岷穋 膽峄媙h sau khi m峄?li锚n k岷縯(%1$s), h茫y ch峄峮 Via 膽峄?m峄?li锚n k岷縯.</string>
+    <string name="su">膼i峄乽 n脿y s岷?膽瓢峄 thi岷縯 l岷璸 th脿nh m岷穋 膽峄媙h sau khi m峄?li锚n k岷縯(%1$s), h茫y ch峄峮 Web 膽峄?m峄?li锚n k岷縯.</string>
     <string name="sv">T谩c nh芒n ng瓢峄漣 d霉ng 膽瓢峄 膽岷穞 l脿: %1$s</string>
     <string name="sw">膼岷穞 l脿m Tr矛nh duy峄噒 m岷穋 膽峄媙h</string>
     <string name="sx">C脿i 膼岷穞</string>
@@ -737,7 +735,7 @@ PS: d峄?d脿ng h啤n khi nghe nh岷 ho岷穋 video."</string>
     <string name="tc">Hi峄僴 th峄?th么ng b谩o nhanh 膽峄?ho脿n t谩c vi峄嘽 膽贸ng th岷</string>
     <string name="td">Th么ng b谩o nhanh kh么ng hi峄僴 th峄?n岷縰 ch岷?膽峄?岷﹏ danh b岷璽</string>
     <string name="te">膼膬ng k媒 th脿nh c么ng.</string>
-    <string name="tf">"Via h峄?tr峄?h岷 h岷縯 t岷 c岷?c谩c b峄?l峄峜 Adblock Plus. 
+    <string name="tf">"Web h峄?tr峄?h岷 h岷縯 t岷 c岷?c谩c b峄?l峄峜 Adblock Plus. 
 You can block requests from example.com with a filter such as: 
 ||example.com^ (or simply: example.com) 
 
@@ -749,7 +747,7 @@ example.com###ad
 
 You can unblock special requests with a filter such as: 
 @@||example.com^"</string>
-    <string name="tg">&lt;b>Metadata block&lt;/b>&lt;br /> The metadata must follow the format:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: The name of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: The combination of &lt;tt>@namespace&lt;/tt> and &lt;tt>@name&lt;/tt> is the unique identifier for a userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Define rules to decide whether a script should be executed. It is recommended to use &lt;tt>@match&lt;/tt> instead of &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: The old way to decide whether a script should be executed. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: The version of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: The description of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@author&lt;/tt>&lt;/b>: The author of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: The require of the userscript. For example, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Decide when the script will execute. &lt;tt>document-start&lt;/tt> is used to inject scripts before the page loads, &lt;tt>document-end&lt;/tt> is used to inject scripts after page load, &lt;tt>document-idle&lt;/tt> is used to inject scripts after page is idle. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Specify which special GM_* APIs should be granted and can be used when the script executes.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: The URL the script can be downloaded from. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: The support URL of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: The homepage URL of the userscript. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> are a group of special APIs provided by Via. Currently supported special APIs include: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Matching&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> defines a URL matching rule. &lt;tt>@exclude-match&lt;/tt> defines a match rule but used to exclude the matched URLs, similar to &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> For example:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
+    <string name="tg">&lt;b>Metadata block&lt;/b>&lt;br /> The metadata must follow the format:&lt;br /> &lt;tt> // ==UserScript==&lt;br /> // @key value&lt;br /> // ==/UserScript== &lt;/tt> &lt;br />&lt;br /> &lt;b>&lt;tt>@name&lt;/tt>&lt;/b>: The name of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@namespace&lt;/tt>&lt;/b>: The combination of &lt;tt>@namespace&lt;/tt> and &lt;tt>@name&lt;/tt> is the unique identifier for a userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@match/@exclude-match&lt;/tt>&lt;/b>: Define rules to decide whether a script should be executed. It is recommended to use &lt;tt>@match&lt;/tt> instead of &lt;tt>@include&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@include/@exclude&lt;/tt>&lt;/b>: The old way to decide whether a script should be executed. &lt;br />&lt;br /> &lt;b>&lt;tt>@version&lt;/tt>&lt;/b>: The version of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@description&lt;/tt>&lt;/b>: The description of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@require&lt;/tt>&lt;/b>: The require of the userscript. For example, &lt;br />&lt;tt>// @require https://my.cdn.com/jquery.js&lt;/tt>. &lt;br />&lt;br /> &lt;b>&lt;tt>@run-at&lt;/tt>&lt;/b>: Decide when the script will execute. &lt;tt>document-start&lt;/tt> is used to inject scripts before the page loads, &lt;tt>document-end&lt;/tt> is used to inject scripts after page load, &lt;tt>document-idle&lt;/tt> is used to inject scripts after page is idle. &lt;br />&lt;br /> &lt;b>&lt;tt>@grant&lt;/tt>&lt;/b>: Specify which special GM_* APIs should be granted and can be used when the script executes.&lt;br /> &lt;br />&lt;br /> &lt;b>&lt;tt>@downloadURL&lt;/tt>&lt;/b>: The URL the script can be downloaded from. &lt;br />&lt;br /> &lt;b>&lt;tt>@supportURL&lt;/tt>&lt;/b>: The support URL of the userscript. &lt;br />&lt;br /> &lt;b>&lt;tt>@homepageURL&lt;/tt>&lt;/b>: The homepage URL of the userscript. &lt;br />&lt;br /> &lt;b>GM_* APIs&lt;/b>&lt;br /> &lt;tt>GM_*&lt;/tt> are a group of special APIs provided by Web. Currently supported special APIs include: &lt;br/> &lt;tt>GM_getValue/GM_setValue/GM_deleteValue/GM_listValues/GM_getResourceText/GM_getResourceURL/GM_addElement/GM_addStyle/GM_setClipboard/GM_xmlhttpRequest/GM_download/GM_registerMenuCommand/GM_unregisterMenuCommand&lt;/tt>. &lt;br />&lt;br /> &lt;b>Matching&lt;/b>&lt;br /> &lt;tt>@match&lt;/tt> defines a URL matching rule. &lt;tt>@exclude-match&lt;/tt> defines a match rule but used to exclude the matched URLs, similar to &lt;tt>@exclude&lt;/tt>. &lt;br />&lt;br /> For example:&lt;br /> &lt;tt> // @match https://www.google.com/something &lt;br /> // @match https://www.google.com/any/* &lt;br /> // @exclude-match https://www.google.com/any/not_me &lt;/tt> &lt;br />&lt;br /></string>
     <string name="th">C岷 h矛nh trang web</string>
     <string name="ti">C岷 h矛nh trang web (膼茫 b岷璽)</string>
     <string name="tj">Th么ng tin trang</string>
@@ -782,7 +780,7 @@ V岷玭 ti岷縫 t峄?"</string>
     <string name="u8">999+</string>
     <string name="u9">峄?l岷</string>
     <string name="u_">D峄玭g</string>
-    <string name="ua">Via 膽茫 ng膬n t岷 trang sau:</string>
+    <string name="ua">Web 膽茫 ng膬n t岷 trang sau:</string>
     <string name="ub">V矛 b峄?l峄峜 sau:</string>
     <string name="uc">Ng峄玭g 膽峄峜 to</string>
     <string name="ud">膼峄?m峄?vi峄乶</string>
@@ -813,7 +811,7 @@ V岷玭 ti岷縫 t峄?"</string>
     <string name="v2">Th岷?膽茫 膽贸ng</string>
     <string name="v3">C脿i 膽岷穞 th岷</string>
     <string name="v4">Th岷</string>
-    <string name="xh">膼i峄乽 kho岷 s峄?d峄g</string>
+    <string name="xh"></string>
     <string name="xi">V膬n b岷</string>
     <string name="xj">膼岷穞 k铆ch th瓢峄沜 v膬n b岷 cho m峄檛 trang web c峄?th峄?</string>
     <string name="xk">Trang ch瓢a 膽瓢峄 t岷 膽岷 膽峄</string>

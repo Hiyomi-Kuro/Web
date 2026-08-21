@@ -7,11 +7,11 @@
 
 
 # instance fields
-.field public final synthetic a:Lmark/via/CustomTab;
+.field public final synthetic a:Lcom/android/web/CustomTab;
 
 
 # direct methods
-.method public synthetic constructor <init>(Lmark/via/CustomTab;)V
+.method public synthetic constructor <init>(Lcom/android/web/CustomTab;)V
     .locals 0
 
     .line 1
@@ -20,7 +20,7 @@
     .line 2
     .line 3
     .line 4
-    iput-object p1, p0, Lz7/g;->a:Lmark/via/CustomTab;
+    iput-object p1, p0, Lz7/g;->a:Lcom/android/web/CustomTab;
 
     .line 5
     .line 6
@@ -33,11 +33,11 @@
     .locals 1
 
     .line 1
-    iget-object v0, p0, Lz7/g;->a:Lmark/via/CustomTab;
+    iget-object v0, p0, Lz7/g;->a:Lcom/android/web/CustomTab;
 
     .line 2
     .line 3
-    invoke-static {v0, p1}, Lmark/via/CustomTab;->T(Lmark/via/CustomTab;Z)V
+    invoke-static {v0, p1}, Lcom/android/web/CustomTab;->T(Lcom/android/web/CustomTab;Z)V
 
     .line 4
     .line 5

@@ -1772,7 +1772,7 @@
     move-result-object v1
 
     .line 46
-    check-cast v1, Lmark/via/common/widget/LinearLayoutPagerManager;
+    check-cast v1, Lcom/android/web/common/widget/LinearLayoutPagerManager;
 
     .line 47
     .line 48
@@ -1787,7 +1787,7 @@
     move-result v2
 
     .line 53
-    invoke-virtual {v1, v2}, Lmark/via/common/widget/LinearLayoutPagerManager;->R2(I)V
+    invoke-virtual {v1, v2}, Lcom/android/web/common/widget/LinearLayoutPagerManager;->R2(I)V
 
     .line 54
     .line 55
@@ -1892,14 +1892,14 @@
     move-result-object v0
 
     .line 21
-    check-cast v0, Lmark/via/common/widget/LinearLayoutPagerManager;
+    check-cast v0, Lcom/android/web/common/widget/LinearLayoutPagerManager;
 
     .line 22
     .line 23
     const/4 v1, 0x5
 
     .line 24
-    invoke-virtual {v0, v1}, Lmark/via/common/widget/LinearLayoutPagerManager;->R2(I)V
+    invoke-virtual {v0, v1}, Lcom/android/web/common/widget/LinearLayoutPagerManager;->R2(I)V
 
     .line 25
     .line 26

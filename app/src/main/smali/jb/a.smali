@@ -7,11 +7,11 @@
 
 
 # instance fields
-.field public final synthetic e:Lmark/via/service/DownloadService;
+.field public final synthetic e:Lcom/android/web/service/DownloadService;
 
 
 # direct methods
-.method public synthetic constructor <init>(Lmark/via/service/DownloadService;)V
+.method public synthetic constructor <init>(Lcom/android/web/service/DownloadService;)V
     .locals 0
 
     .line 1
@@ -20,7 +20,7 @@
     .line 2
     .line 3
     .line 4
-    iput-object p1, p0, Ljb/a;->e:Lmark/via/service/DownloadService;
+    iput-object p1, p0, Ljb/a;->e:Lcom/android/web/service/DownloadService;
 
     .line 5
     .line 6
@@ -33,11 +33,11 @@
     .locals 1
 
     .line 1
-    iget-object v0, p0, Ljb/a;->e:Lmark/via/service/DownloadService;
+    iget-object v0, p0, Ljb/a;->e:Lcom/android/web/service/DownloadService;
 
     .line 2
     .line 3
-    invoke-static {v0}, Lmark/via/service/DownloadService;->a(Lmark/via/service/DownloadService;)V
+    invoke-static {v0}, Lcom/android/web/service/DownloadService;->a(Lcom/android/web/service/DownloadService;)V
 
     .line 4
     .line 5

@@ -4097,7 +4097,7 @@
     .line 183
     .line 184
     .line 185
-    const-string p2, "<script>var viewer = new Viewer(document.getElementById(\"images\"), {toolbar: {zoomIn: true, zoomOut: true, oneToOne: true, reset: true, prev: true, next: true, rotateLeft: true, download: function () { try {window.via.postMessage(\'"
+    const-string p2, "<script>var viewer = new Viewer(document.getElementById(\"images\"), {toolbar: {zoomIn: true, zoomOut: true, oneToOne: true, reset: true, prev: true, next: true, rotateLeft: true, download: function () { try {window.web.postMessage(\'"
 
     .line 186
     .line 187

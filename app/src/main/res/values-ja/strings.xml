@@ -91,7 +91,7 @@
     <string name="c4">銉囥儠銈┿儷銉堛伄銉栥儵銈︺偠銇ō瀹氥仌銈屻仸銇勩伨銇</string>
     <string name="c5">甯搞伀銈裤儢銈掑京鍏冦仚銈</string>
     <string name="c7">API銈兗</string>
-    <string name="c8">Via銇屻儠銈°偆銉倰銉€銈︺兂銉兗銉変腑銇с仚</string>
+    <string name="c8">Web銇屻儠銈°偆銉倰銉€銈︺兂銉兗銉変腑銇с仚</string>
     <string name="c9">銈裤儍銉椼仐銇︺儉銈︺兂銉兗銉夈倰琛ㄧず</string>
     <string name="c_">Web</string>
     <string name="ca">銈广偪銈ゃ儷瑷畾</string>
@@ -114,7 +114,7 @@
     <string name="cx">銉栥儍銈優銉笺偗銉囥兗銈裤伄銈点偆銈恒亴澶с亶銇欍亷銈嬨仧銈併€併偄銉冦儣銉兗銉夈仹銇嶃伨銇涖倱銆傘仢銇粬銇儑銉笺偪銇偄銉冦儣銉兗銉夈仌銈屻伨銇欍€傜稓銇戙伨銇欍亱锛</string>
     <string name="cy">銉栥儍銈優銉笺偗銇偍銈偣銉濄兗銉堛亴瀹屼簡銇椼伨銇椼仧</string>
     <string name="cz">%1d 銇ゃ伄銉栥儍銈優銉笺偗銈掕銇胯炯銇裤伨銇椼仧</string>
-    <string name="d0">Via銇с儉銈︺兂銉兗銉夈仚銈</string>
+    <string name="d0">Web銇с儉銈︺兂銉兗銉夈仚銈</string>
     <string name="d1">銈儭銉</string>
     <string name="d4">鍒濆洖琛ㄧず鏅傘伀銈儭銉┿伄浣跨敤銇ū鍙倰纰鸿獚銇欍倠</string>
     <string name="d6">\"http\"銇俱仧銇痋"https\"銈掍娇鐢ㄣ仐銇熴偟銈ゃ儓銇嬨倝銇伩銉曘偂銈ゃ儷銈掋儉銈︺兂銉兗銉夈仹銇嶃伨銇欍€</string>
@@ -208,11 +208,8 @@
     <string name="gb">鍊嬩汉銇儑銉笺偪銈掕博澹插強銇冲叡鏈夈仚銈嬨亾銇ㄣ倰鎷掑惁銇欍倠</string>
     <string name="gc">銉椼儵銈ゃ儛銈枫兗淇濊銇仧銈併€佸€嬩汉銇儑銉笺偪銈掕博澹层仐銇熴倞鍏辨湁銇椼仧銈娿仐銇亜銈堛亞銇偊銈с儢銈点偆銉堛伀瑕佹眰銇欍倠锛堣│楱撲腑锛</string>
     <string name="gd">Do Not Track锛堛儓銉┿儍銈兂銈版嫆鍚︼級</string>
-    <string name="ge">Via 銈掓敮鎻</string>
-    <string name="gf">"绉併仧銇°伅浠曚簨銇綑鏆囥倰鍒╃敤銇椼仸Via銈掗枊鐧恒仐銆佺董鎸併仐缍氥亼銇︺亜銇俱仚銆?Via銇伨銇犲ぇ銇勩伀鏀瑰杽銇綑鍦般亴銇傘倞銇俱仚銆俈ia銇伅搴冨憡銇屻仾銇勩伄銇с€佸弾鍏ャ倐銇傘倞銇俱仜銈撱€?銈傘仐銇撱伄銈儣銉亴姘椼伀鍏ャ倞銇俱仐銇熴倝銆佷笅瑷樸伄閫ｇ怠鍏堛伀瀵勪粯銇椼仸銇忋仩銇曘亜銇€?
-銇欍伖銇︺伄鏀彺閲戙倰闁嬬櫤銇厖銇︺伨銇欍€?
-Alipay: 2376688759@qq.com
-PayPal: wiar1824@gmail.com"</string>
+    <string name="ge">Web 銈掓敮鎻</string>
+    <string name="gf"></string>
     <string name="gg">瀹屼簡</string>
     <string name="gh">鍐嶅害琛ㄧず銇椼仾銇</string>
     <string name="gi">銉€銈︺兂銉兗銉夊厛</string>
@@ -234,7 +231,7 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="h6">DuckDuckGo</string>
     <string name="h7">銈裤儢銈掕瑁姐仚銈</string>
     <string name="h8">璩艰涓伄銉曘偅銉偪銉笺倰绶ㄩ泦銇椼伨銇</string>
-    <string name="h_">銉°兗銉倰閫併倠</string>
+    <string name="h_"></string>
     <string name="ha">琛ㄧず銇с亶銈嬮爡鐩伅銇傘倞銇俱仜銈</string>
     <string name="hb">銉戙偣銉兗銉夈倰鍏ュ姏銇椼仸銇忋仩銇曘亜銆</string>
     <string name="hc">銉︺兗銈躲兗鍚嶃倰鍏ュ姏銇椼仸銇忋仩銇曘亜銆</string>
@@ -474,12 +471,12 @@ PayPal: wiar1824@gmail.com"</string>
     <string name="qe">銉濄儍銉椼偄銉冦儣</string>
     <string name="qf">鍒濆洖琛ㄧず鏅傘伀銉濄儍銉椼偄銉冦儣銇ū鍙倰纰鸿獚銇欍倠</string>
     <string name="qg">鍗板埛/PDF</string>
-    <string name="qh">銉椼儵銈ゃ儛銈枫兗銉濄儶銈枫兗锛堣嫳瑾烇級</string>
+    <string name="qh"></string>
     <string name="qk">QR銈炽兗銉夈亴瑕嬨仱銇嬨倞銇俱仜銈撱仹銇椼仧</string>
     <string name="ql">QR銈炽兗銉夈伄銈广偔銉ｃ兂绲愭灉</string>
     <string name="qm">鎴汇倠鏅傘伀鍐嶈銇胯炯銇裤倰銇椼仾銇</string>
     <string name="qp">銉嗐偔銈广儓銇銇夸笂銇</string>
-    <string name="qr">%1$s 銇?%2$s銈掍簨鍓嶃伀纰鸿獚銇椼仸銇忋仩銇曘亜</string>
+    <string name="qr"></string>
     <string name="qs">銉兗銉€銉笺儞銉ャ兗銉兗銉夈倰绲備簡銇椼伨銇椼仧</string>
     <string name="qt">銉兗銉€銉笺儞銉ャ兗銉兗銉夈倰鏈夊姽銇仐銇俱仐銇</string>
     <string name="qu">銉兗銉€銉笺儞銉ャ兗銉兗銉</string>
@@ -521,7 +518,7 @@ PS: 瑕嬨仱銇嬨倝銇亜鍫村悎銇€佸嫊鐢汇倓闊冲０銈掑�
     <string name="sc">闀锋柟褰</string>
     <string name="sd">鐢诲儚銇ф绱</string>
     <string name="sf">妞滅储</string>
-    <string name="sh">Via銇ф绱仚銈</string>
+    <string name="sh">Web銇ф绱仚銈</string>
     <string name="si">銈点兗銉併儨銉冦偗銈</string>
     <string name="sj">闈炶〃绀</string>
     <string name="sk">琛ㄧず</string>
@@ -531,11 +528,11 @@ PS: 瑕嬨仱銇嬨倝銇亜鍫村悎銇€佸嫊鐢汇倓闊冲０銈掑�
     <string name="sq">銉儑銉倰閬告姙</string>
     <string name="ss">銇撱伄銈点兗銉愩兗銇с伅銉囥兗銈裤伄鍚屾湡銇仌銈屻仸銇勩伨銇涖倱銆傚啀搴︺儹銈般偆銉炽仚銈嬪繀瑕併亴銇傘倞銇俱仚銆</string>
     <string name="st">銉涖兗銉犮儦銉笺偢銇ō瀹氥仐銇俱仚銇嬶紵</string>
-    <string name="su">瑷畾銈掗仼鐢ㄣ仚銈嬨伀銇?Via 銇?%1$s 銈掗枊銇勩仸銇忋仩銇曘亜</string>
+    <string name="su">瑷畾銈掗仼鐢ㄣ仚銈嬨伀銇?Web 銇?%1$s 銈掗枊銇勩仸銇忋仩銇曘亜</string>
     <string name="sv">銉︺兗銈躲兗銈ㄣ兗銈搞偋銉炽儓銇?%1$s 銇ō瀹氥仌銈屻伨銇椼仧</string>
     <string name="sw">銉囥儠銈┿儷銉堛伄銉栥儵銈︺偠銇仚銈</string>
     <string name="sx">瑷畾</string>
-    <string name="sy">Via 銇仱銇勩仸</string>
+    <string name="sy">Web 銇仱銇勩仸</string>
     <string name="sz">楂樺害銇ō瀹</string>
     <string name="t0">銈偒銈︺兂銉</string>
     <string name="t1">涓€鑸</string>
@@ -550,7 +547,7 @@ PS: 瑕嬨仱銇嬨倝銇亜鍫村悎銇€佸嫊鐢汇倓闊冲０銈掑�
     <string name="tc">銈裤儢銈掗枆銇樸仧銇ㄣ亶銇彇銈婃秷銇欍儩銉冦儣銈儍銉椼倰琛ㄧず銇欍倠</string>
     <string name="td">銈枫兗銈儸銉冦儓銉兗銉夋檪銇伅琛ㄧず銇曘倢銇俱仜銈</string>
     <string name="te">鐧婚尣銇椼伨銇椼仧</string>
-    <string name="tf">"Via銇伝銇ㄣ倱銇┿伄Adblock Plus銉曘偅銉偪銉笺伀瀵惧繙銇椼仸銇勩伨銇欍€?
+    <string name="tf">"Web銇伝銇ㄣ倱銇┿伄Adblock Plus銉曘偅銉偪銉笺伀瀵惧繙銇椼仸銇勩伨銇欍€?
 娆°伄銈堛亞銇ō瀹氥仚銈嬨亾銇ㄣ仹銆併€宔xample.com銆嶃倰銉栥儹銉冦偗銇欍倠浠绘剰銇儠銈ｃ儷銈裤兗銈掍綔鎴愩仚銈嬨亾銇ㄣ亴銇с亶銇俱仚銆?
 ||example.com^ (銈傘仐銇忋伅銈枫兂銉椼儷銇玡xample.com) 
 
@@ -604,7 +601,7 @@ example.com###ad"</string>
     <string name="v2">銈裤儢銈掗枆銇樸伨銇椼仧</string>
     <string name="v3">銈裤儢瑷畾</string>
     <string name="v4">銈裤儢</string>
-    <string name="xh">鍒╃敤瑕忕磩锛堣嫳瑾烇級</string>
+    <string name="xh"></string>
     <string name="xi">銉嗐偔銈广儓</string>
     <string name="xs">銈儣銉伕鎶</string>
     <string name="xu">銇欍伖銇︺伄銈裤儢銈掗枆銇樸倠</string>

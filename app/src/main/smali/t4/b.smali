@@ -907,7 +907,7 @@
     .locals 1
 
     .line 1
-    const-string v0, "javascript:(function(){for(var c=document.querySelectorAll(\"video, audio\"),a,b=0;b<c.length;b++)a=c[b],a.paused||(a.pause(),a.setAttribute(\"via-data-playing\",\"true\"))})();"
+    const-string v0, "javascript:(function(){for(var c=document.querySelectorAll(\"video, audio\"),a,b=0;b<c.length;b++)a=c[b],a.paused||(a.pause(),a.setAttribute(\"web-data-playing\",\"true\"))})();"
 
     .line 2
     .line 3
@@ -1729,7 +1729,7 @@
 
     .line 4
     .line 5
-    const-string v0, "javascript:(function(){for(var c=document.querySelectorAll(\'video[via-data-playing=\"true\"], audio[via-data-playing=\"true\"]\'),a,b=0;b<c.length;b++)a=c[b],a.play(),a.removeAttribute(\"via-data-playing\")})();"
+    const-string v0, "javascript:(function(){for(var c=document.querySelectorAll(\'video[web-data-playing=\"true\"], audio[web-data-playing=\"true\"]\'),a,b=0;b<c.length;b++)a=c[b],a.play(),a.removeAttribute(\"web-data-playing\")})();"
 
     .line 6
     .line 7

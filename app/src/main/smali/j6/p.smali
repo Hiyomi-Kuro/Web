@@ -46,7 +46,7 @@
     .locals 1
 
     .line 1
-    const-string v0, "(function(){if(!document.__via_disable_dnd){document.__via_disable_dnd=!0;document.addEventListener(\"dragstart\",function(t){let e=t.target;for(;e&&e!==document;){if(e.getAttribute&&\"true\"===e.getAttribute(\"draggable\"))return;e=e.parentNode}t.preventDefault()},!0)}})();"
+    const-string v0, "(function(){if(!document.__web_disable_dnd){document.__web_disable_dnd=!0;document.addEventListener(\"dragstart\",function(t){let e=t.target;for(;e&&e!==document;){if(e.getAttribute&&\"true\"===e.getAttribute(\"draggable\"))return;e=e.parentNode}t.preventDefault()},!0)}})();"
 
     .line 2
     .line 3

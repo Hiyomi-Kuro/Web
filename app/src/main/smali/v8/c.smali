@@ -49,7 +49,7 @@
     move-result-object p0
 
     .line 22
-    const-string v0, "via-android-803d6.firebasestorage.app"
+    const-string v0, "web-android-803d6.firebasestorage.app"
 
     .line 23
     .line 24
@@ -61,7 +61,7 @@
     move-result-object p0
 
     .line 28
-    const-string v0, "via-android-803d6"
+    const-string v0, "web-android-803d6"
 
     .line 29
     .line 30
